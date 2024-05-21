@@ -1,0 +1,43 @@
+vendors:
+  abconlinecourses:
+    url: https://abconlinecourses.com
+  Abstract Technology:
+    url: https://abstract-technology.de
+  Appsembler:
+    url: https://appsembler.com
+  Community:
+    url: '#'
+  Construct Education:
+    url: https://constructeducation.com
+  edly:
+    url: https://edly.io
+  edSPIRIT:
+    url: https://edspirit.com
+  eduNEXT:
+    url: https://www.edunext.co
+  University of Chile:
+    url: https://eol.uchile.cl
+  hastexo:
+    url: https://academy.cleura.cloud
+  Microsoft:
+    url: https://github.com/microsoft
+  MIT Office of Digital Learning:
+    url: https://openlearning.mit.edu
+  OpenCraft:
+    url: https://opencraft.com
+  Open edX:
+    url: https://openedx.org
+  Open learning initiative:
+    url: https://github.com/openlearninginitiative
+  Overhangio:
+    url: https://overhang.io
+  Perpetual:
+    url: http://perpetualny.com
+  Querium:
+    url: http://www.querium.com
+  Racoon Gang:
+    url: https://raccoongang.com
+  Stanford Online:
+    url: https://github.com/Stanford-Online
+  University of British Columbia:
+    url: https://www.ubc.ca

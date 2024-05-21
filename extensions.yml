@@ -1,0 +1,689 @@
+xblocks:
+
+  # A
+  - name: Active Table
+    description: Provides a tabular problem type, where students have to fill in some of the cells of a table.
+    category: Advanced learning tools
+    license: AGPLv3
+    vendor: OpenCraft
+    url: https://github.com/open-craft/xblock-activetable
+    image: docs/_images/active-table-xblock.png
+    status: Active
+    last_commit: 2021-09-30
+
+  - name: Adventure XBlock
+    description: An XBlock for creating a simple chose your own adventure-style simulation. It presents the user with a branching sequence of steps, each of which can contain other XBlockLightChildrens.
+    category: Advanced learning tools
+    license: AGPLv3
+    vendor: OpenCraft
+    url: https://github.com/openedx-unsupported/xblock-adventure
+    image: docs/_images/adventure-xblock.png
+    status: Archived
+    last_commit: 2023-10-23
+
+  - name: AI Coach XBlock
+    description: AI Coach Xblock helps learner in improving their answers by levering power of AI. It evaluates open response answer of a question using Open AI and provides feedback to learner.
+    category: Course content type
+    license: GPLv3
+    vendor: edly
+    url: https://github.com/edly-io/ai-coach-xblock
+    image: docs/_images/ai-coach-xblock.png
+    status: Active
+    last_commit: 2024-03-20
+
+  - name: Audio XBlock
+    description: This is a simple XBlock which will play audio files as an HTML5 audio element. If unavailable, it will fall back to an embed element.
+    category: Course content type
+    license: GPLv3
+    vendor: Open edX
+    url: https://github.com/openedx/AudioXBlock
+    status: Active
+    last_commit: 2024-05-20
+
+  - name: Azure Media Services xBlock
+    description: This xBlock allows for the inclusion of videos that are hosted on Azure Media Services inside of Open edX courses.
+    category: Video delivery
+    license: MIT
+    vendor: Microsoft
+    url: https://github.com/microsoft/xblock-azure-media-services
+    image: docs/_images/azure-media-services-xblock.png
+    status: Active
+    last_commit: 2023-06-12
+
+  # B
+  - name: Badgr Xblock
+    description: The badgr-xblock communicates with the Badgr API, and awards badges based on a passing grade for a specified subsection in a course.
+    category: Gradable activities
+    vendor: Construct Education
+    url: https://github.com/pmitros/DoneXBlock
+    image: docs/_images/active-table-xblock.png
+    status: Active
+    last_commit: 2021-10-06
+
+  - name: Bibblio XBlock
+    description: An XBlock that allows easy inclusion of Bibblio content recommendation module as a courseware component.
+    category: 3rd party tool integrated via XBlock
+    vendor: Construct Education
+    url: https://github.com/proversity-org/edx-xblock-bibblio
+    image: docs/_images/bibblio-xblock.png
+    status: Active
+    last_commit: 2018-01-29
+
+  # C
+  - name: Charts XBlock
+    description: |
+      This XBLock provides a new XBlock to content authors, enabling them to implement charts into their
+      course, without a lot of hassle, and with a user interface to make the task as simple as it gets.
+    category: Course content type
+    type: XBlock
+    license: MIT
+    vendor: Open edX
+    url: https://github.com/TinMarkovic/ChartsXBlock
+    image: docs/_images/charts-xblock.png
+    status: Active
+    last_commit: 2016-09-29
+
+  - name: Click Aware XBlock
+    description: A simple Xblock to make sure your audience has clicked on the provided link.
+    category: Course content type
+    type: XBlock
+    license: MIT
+    vendor: edSPIRIT
+    url: https://github.com/edSPIRIT/xblock-clickaware
+    status: Active
+    last_commit: 2024-05-19
+
+  - name: Cohort API XBlock
+    description: Cohort API used to get information about the student's cohort.
+    category: 3rd party tool integrated via XBlock
+    type: XBlock
+    license: AGPLv3
+    vendor: eduNEXT
+    url: https://github.com/eduNEXT/cohort-api-xblock
+    status: Active
+    last_commit: 2021-04-26
+
+  - name: Completable HTML XBlock
+    description: A subclass of the new HTML XBlock that disables marking the block as completed and adds custom completion endpoint.
+    category: Course content type
+    license: AGPLv3
+    vendor: OpenCraft
+    url: https://github.com/open-craft/xblock-html-completable
+    status: Active
+    last_commit: 2024-05-20
+
+  - name: Conditional Language preferences XBlock
+    description: No description provided
+    category: Course content type
+    type: XBlock
+    license: AGPLv3
+    vendor: eduNEXT
+    url: https://github.com/eduNEXT/xblock-langconditional
+    status: Active
+    last_commit: 2024-05-19
+
+  - name: Conditional XBlock
+    description: XBlock to show/hide one or more conditional component by a trigger component in the Open edX LMS. Editable within Open edx Studio.
+    category: Advanced learning tools
+    type: XBlock
+    license: AGPLv3
+    vendor: University of Chile
+    url: https://github.com/eol-uchile/eol-conditional-xblock
+    image: docs/_images/eol-conditional-xblock.png
+    status: Active
+    last_commit: 2021-11-24
+
+  - name: Container XBlock
+    description: XBlock to display "Add and Continue" containers Open edX LMS.
+    category: Advanced learning tools
+    type: XBlock
+    license: AGPLv3
+    vendor: University of Chile
+    url: https://github.com/eol-uchile/eol-container-xblock
+    image: docs/_images/eol-container-xblock.png
+    status: Active
+    last_commit: 2024-05-08
+
+  - name: Crowdsource Hinter XBlock
+    description: |
+      The Crowdsource Hinter serves to provide students with hints when they incorrectly answer a problem within a course.
+      The hinter is compatible with numerical input and text input type problems.
+    category: Course content type
+    license: AGPLv3
+    vendor: Open edX
+    url: https://github.com/openedx/crowdsourcehinter
+    image: docs/_images/crowdsource-hinter-xblock.png
+    status: Active
+    last_commit: 2024-05-20
+
+  # D
+  - name: Dialogs XBlock
+    description: XBlock to display "Add and Continue" Dialogs Open edX LMS.
+    category: Advanced learning tools
+    type: XBlock
+    license: AGPLv3
+    vendor: University of Chile
+    url: https://github.com/eol-uchile/eol-dialogs-xblock
+    image: docs/_images/eol-dialogs-xblock.png
+    status: Active
+    last_commit: 2024-05-14
+
+  - name: Done XBlock
+    description: An XBlock that let student mark when they finish an activity.
+    category: Gradable activities
+    license: AGPLv3
+    vendor: Stanford Online
+    url: https://github.com/pmitros/DoneXBlock
+    status: Active
+    last_commit: 2021-10-06
+
+  - name: Drag And Drop problem
+    description: Enhance your courses with interactive drag-and-drop problems, making learning more engaging and interactive.
+    category: Course content type
+    license: AGPLv3
+    vendor: Open edX
+    url: https://github.com/openedx/xblock-drag-and-drop-v2
+    image: docs/_images/drag-and-drop-problem-xblock.png
+    status: Active
+    last_commit: 2024-05-20
+
+  # E
+  - name: End of Course Journal XBlock
+    description: |
+      This XBlock provides the ability for a participant to download his/her activity once he/she completes the course.
+      Currently only problem-builder freeform answers are supported.
+      This XBlock also displays a summary of the learner's participation, proficiency, and engagement in the course compared with the course averages.
+    category: Course content type
+    license: AGPLv3
+    vendor: OpenCraft
+    url: https://github.com/open-craft/xblock-eoc-journal
+    status: Active
+    last_commit: 2023-08-28
+
+  # F
+  - name: Feedback XBlock
+    description: |
+      The Feedback XBlock encourages learners to reflect on their learning experiences and allows instructors to capture feedback
+      from learners. Feedback is provided as sentiment on a predefined scale and free text feedback. Feedback can be aggregated
+      by instructors to understand which parts of a course work well and which parts work poorly.
+    category: Course content type
+    license: AGPLv3
+    vendor: Open edX
+    url: https://github.com/openedx/FeedbackXBlock
+    status: Active
+    last_commit: 2024-05-20
+
+  - name: Files Manager XBlock
+    description: |
+      allows course creators to add a file manager to upload/download files and create,
+      delete and download folders, and students to view and download them.
+    category: Course content type
+    type: XBlock
+    license: AGPLv3
+    vendor: eduNEXT
+    url: https://github.com/eduNEXT/xblock-filesmanager
+    image: docs/_images/file-manager-xblock.png
+    status: Active
+    last_commit: 2024-04-26
+
+  - name: Flow Control XBlock
+    description: |
+      The Flow Control XBlock provides a way to display the content of a unit or to redirect the user elsewhere
+      based on compliance with a condition that evaluates the submission or the score of a problem or a set of problems.
+    category: Course content type
+    type: XBlock
+    license: AGPLv3
+    vendor: eduNEXT
+    url: https://github.com/eduNEXT/flow-control-xblock
+    image: docs/_images/flow-control-xblock.png
+    status: Active
+    last_commit: 2023-08-03
+
+  - name: Free Text Response XBlock
+    description: |
+      XBlock to capture a free-text response.
+      This package provides an XBlock for use with the Open edX Platform and makes it possible
+      for instructors to create questions that expect a free-text response.
+    category: Course content type
+    license: AGPLv3
+    vendor: Open edX
+    url: https://github.com/openedx/xblock-free-text-response
+    status: Active
+    last_commit: 2024-05-21
+
+  # G
+  - name: Geogebra xBlock
+    description: A simple edX xBlock wrapper around the GeoGebra graphing calculator widget. Note that the calculator is subject to GeoGebra's licensing requirements.
+    category: Course content type
+    type: XBlock
+    license: AGPLv3
+    vendor: Appsembler
+    url: https://github.com/QueriumCorp/geogebra_xblock
+    status: Active
+    last_commit: 2024-01-02
+
+  - name: Google Drive & Calendar XBlock
+    description: This XBlock allows embedding of Google documents and calendar, within an OpenedX course.
+    category: 3rd party tool integrated via XBlock
+    license: AGPLv3
+    vendor: Open edX
+    url: https://github.com/openedx/xblock-google-drive
+    image: docs/_images/google-drive-calendar-xblock.png
+    status: Active
+    last_commit: 2024-05-21
+
+  - name: Grade Fetcher XBlock
+    description: |
+      By adding this XBlock to a course unit you can fetch grades from an external system
+      for a corresponding problem(s) in Open edX and another system and grade users in
+      Open edX based on what received from the external system.
+    category: Course content type
+    type: XBlock
+    license: AGPLv3
+    vendor: Appsembler
+    url: https://github.com/appsembler/xblock-grade-fetcher
+    status: Active
+    last_commit: 2024-05-20
+
+  - name: Group Project v2 XBlock
+    description: This tool implements a group project, where a group of students work together on a task, which is then graded.
+    category: Advanced learning tools
+    license: AGPLv3
+    vendor: OpenCraft
+    type: XBlock
+    url: https://github.com/open-craft/xblock-group-project-v2
+    image: docs/_images/group-project-v2-xblock.png
+    status: Active
+    last_commit: 2023-01-06
+
+  # H
+  - name: H5P XBlock
+    description: |
+      H5P Xblock provides ability to host and play H5P content in open edX. It has few more features
+      - Ability to mark H5P content complete in open edX
+      - Ability to capture score of H5P content in open edX
+      - Save learner state which can be retrieved later
+      - Ability to host H5P content on cloud storage like AWS S3
+    category: Course content type
+    license: MIT
+    vendor: edly
+    url: https://github.com/edly-io/h5pxblock
+    image: docs/_images/h5p-xblock.png
+    status: Active
+    last_commit: 2024-03-27
+
+  - name: HTML XBlock
+    description: A new HTML XBlock that is designed with security and embedding in mind.
+    category: Course content type
+    license: AGPLv3
+    vendor: OpenCraft
+    url: https://github.com/open-craft/xblock-html
+    status: Active
+    last_commit: 2024-05-20
+
+  # I
+  - name: Image Explorer XBlock
+    description: |
+      This package provides the Image Explorer XBlock that allows you to use an image with hotspots in a course.
+      When the student clicks a hotspot icon, tooltip containing custom content is displayed.
+    category: Gradable Activities
+    license: AGPLv3
+    vendor: Open edX
+    url: https://github.com/openedx/xblock-image-explorer
+    image: docs/_images/image-explorer-xblock.png
+    status: Active
+    last_commit: 2024-05-20
+
+  - name: Image Modal XBlock
+    description: An XBlock provides a way to place dropdown questions inline with other text, for example, in a paragraph.
+    category: Gradable Activities
+    license: AGPLv3
+    vendor: Open edX
+    url: https://github.com/openedx/xblock-image-modal
+    youtube: 0mpjuThDoyE
+    status: Active
+    last_commit: 2024-05-21
+
+  - name: Inline Dropdown XBlock
+    description: An XBlock provides a way to place dropdown questions inline with other text, for example, in a paragraph.
+    category: Gradable Activities
+    license: AGPLv3
+    vendor: Open learning initiative
+    url: https://github.com/openedx/xblock-drag-and-drop-v2
+    image: docs/_images/inline-dropdown-xblock.png
+    status: Active
+    last_commit: 2024-05-20
+
+  # J
+  - name: Jupyter Notebook Viewer
+    description: LimeSurvey XBlock allows a better integration between the Open edX platform and the Open source LimeSurvey service.
+    category: Advanced learning tools
+    type: XBlock
+    license: AGPLv3
+    vendor: eduNEXT
+    url: https://github.com/eduNEXT/jupyter-viewer-xblock
+    youtube: K8jhWgQnxvI
+    status: Active
+    last_commit: 2019-03-12
+
+  # K
+  - name: Kinescope XBlock
+    description: XBlock for embedding Kinescope Videos.
+    category: Video delivery
+    license: GPLv3
+    vendor: OpenCraft
+    url: https://github.com/open-craft/xblock-kinescope
+    status: Active
+    last_commit: 2023-11-06
+
+  # L
+  - name: LimeSurvey XBlock
+    description: LimeSurvey XBlock allows a better integration between the Open edX platform and the Open source LimeSurvey service.
+    category: 3rd party tool integrated via XBlock
+    type: XBlock
+    license: AGPLv3
+    vendor: eduNEXT
+    url: https://github.com/eduNEXT/xblock-limesurvey
+    image: docs/_images/limesurvey-xblock.png
+    status: Active
+    last_commit: 2023-10-04
+
+  - name: LTI Consumer XBlock
+    description: This XBlock implements the consumer side of the LTI specification enabling integration of third-party LTI provider tools.
+    category: Course content type
+    license: AGPLv3
+    vendor: Open edX
+    url: https://github.com/openedx/xblock-lti-consumer
+    status: Active
+    last_commit: 2024-05-14
+
+  # M
+  - name: MindMap XBlock
+    description: Mind Map XBlock is a pluggable extension to the Open edX platform that allows course creators to build a learning experience in which students can visualize and easily edit Mind Maps within a course unit.
+    category: Advanced learning tools
+    type: XBlock
+    license: AGPLv3
+    vendor: eduNEXT
+    url: https://github.com/eduNEXT/xblock-mindmap
+    image: docs/_images/mindmap-xblock.png
+    status: Active
+    last_commit: 2024-01-29
+
+  - name: MUFI XBlock
+    description: A WYSIWYG transcription tool for Medieval Manuscripts, for use within the OpenEdX platform.
+    category: Course content type
+    type: XBlock
+    license: AGPLv3
+    vendor: Stanford Online
+    url: https://github.com/Stanford-Online/xblock-mufi
+    status: Active
+    last_commit: 2019-10-15
+
+  # O
+  - name: OEmbed XBlock
+    description: The “OfficeVideo XBlock” allows course content authors to embed videos stored in Microsoft Office 365 Video to the course.
+    category: Course content type
+    license: MIT
+    vendor: Microsoft
+    url: https://github.com/microsoft/xblock-oembed
+    image: docs/_images/oembed-xblock.jpg
+    status: Active
+    last_commit: 2023-06-14
+
+  - name: OfficeVideo XBlock
+    description: |
+      The “OEmbed XBlock” allows course content authors to add files stored in various internet file storage services to the course.
+      The files can be added as embedded content.
+    category: Course content type
+    license: MIT
+    vendor: Microsoft
+    url: https://github.com/microsoft/xblock-officevideo
+    image: docs/_images/officevideo-xblock.jpg
+    status: Active
+    last_commit: 2022-11-28
+
+  - name: OneDrive XBlock
+    description: |
+      The “OneDrive XBlock” allows course content authors to add documents stored in Microsoft OneDrive Online or OneDrive for Business to the course.
+      The files can be added either as embedded content or as links to the files in their original location.
+    category: Course content type
+    license: MIT
+    vendor: Microsoft
+    url: https://github.com/microsoft/xblock-onedrive
+    image: docs/_images/onedrive-xblock.png
+    status: Active
+    last_commit: 2022-11-28
+
+  # P
+  - name: Peer Instruction XBlock
+    description: The peer instruction tool emulates the classroom experience for the learners in an online course.
+    category: Course content type
+    license: AGPLv3
+    vendor: University of British Columbia
+    url: https://github.com/ubc/ubcpi
+    status: Active
+    last_commit: 2023-10-25
+
+  - name: Poll XBlock
+    description: |
+      This XBlock enables a course author to create survey/poll elements to get feedback from students.
+      The XBlocks can either be poll or survey XBlocks. Poll XBlocks have one question, and a series of answers.
+      Survey XBlocks have several questions and a handful of (terse) answers that a student is expect to answer
+      each one from (Such as 'True', and 'False', or 'Agree' or 'Disagree')
+    category: Course content type
+    license: AGPLv3
+    vendor: OpenCraft
+    url: https://github.com/open-craft/xblock-poll
+    image: docs/_images/poll-xblock.png
+    status: Active
+    last_commit: 2024-05-20
+
+  - name: PrismJS XBlock
+    description: XBlock for Syntax Highlighting with ``Prism.js``
+    category: Course content type
+    type: XBlock
+    license: AGPLv3
+    vendor: Appsembler
+    url: https://github.com/appsembler/xblock-prismjs
+    status: Active
+    last_commit: 2024-05-06
+
+  - name: Problem Builder XBlock
+    description: |
+      This repository provides two XBlocks: Problem Builder and Step Builder.
+      Both blocks allow to create questions of various types. They can be used
+      to simulate the workflow of real-life mentoring, within an edX course.
+    category: Advanced learning tools
+    license: AGPLv3
+    vendor: Open Craft
+    url: https://github.com/open-craft/problem-builder
+    image: docs/_images/problem-builder-xblock.png
+    status: Active
+    last_commit: 2024-05-20
+
+  - name: ProctorU xBlock
+    description: |
+      ProctorU is a leading online proctoring service that allows students to take proctored exams
+      online from anywhere using a webcam and a high speed internet connection, and allows institutions
+      to maintain academic integrity in their online education programs.
+    category: Proctoring & secure exams
+    license: AGPLv3
+    vendor: Perpetual
+    url: https://github.com/perpetualny/proctoru-xblock
+    image: docs/_images/proctoru-xblock.jpeg
+    status: Active
+    last_commit: 2020-04-29
+
+  - name: ProctorU xBlock
+    description: |
+      ProctorU is a leading online proctoring service that allows students to take proctored exams
+      online from anywhere using a webcam and a high speed internet connection, and allows institutions
+      to maintain academic integrity in their online education programs.
+    category: Proctoring & secure exams
+    license: AGPLv3
+    vendor: Perpetual
+    url: https://github.com/perpetualny/proctoru-xblock
+    image: docs/_images/proctoru-xblock.jpeg
+    status: Active
+    last_commit: 2020-04-29
+
+  # R
+  - name: Recommender XBlock
+    description: |
+      This XBlock shows students a list of recommended resources for a given problem.
+      The resources are recommended, edited, and voted by students.
+      For each resource, we show its title, link, short summary, preview screenshot, and votes.
+    category: Course content type
+    license: AGPLv3
+    vendor: Open edX
+    url: https://github.com/openedx/RecommenderXBlock
+    image: docs/_images/recommender-xblock.png
+    status: Active
+    last_commit: 2024-04-01
+
+  # S
+  - name: SchoolYourself XBlock
+    description: An XBlock for displaying School Yourself (SY) content on the edX platform.
+    category: 3rd party tool integrated via XBlock
+    type: XBlock
+    license: AGPLv3
+    vendor: Open edX
+    url: https://github.com/openedx/schoolyourself-xblock
+    image: docs/_images/school-yourself-xblock.png
+    status: Active
+    last_commit: 2024-05-20
+
+  - name: Scorm XBlock
+    description: |
+      This is an XBlock to display SCORM content within the Open edX LMS and Studio.
+      It will save student state and report scores to the progress tab of the course. Currently supports SCORM 1.2 and SCORM 2004 standard.
+    category: Advanced learning tools
+    type: XBlock
+    license: AGPLv3
+    vendor: Open edX
+    url: https://github.com/overhangio/openedx-scorm-xblock
+    image: docs/_images/scorm-xblock.png
+    status: Active
+    last_commit: 2024-04-29
+
+  - name: Skyroom XBlock
+    description: An XBlock for integrating Open edX and Skyroom. Skyroom is an Online Classroom service.
+    category: Web conference & collaboration
+    license: AGPLv3
+    vendor: edSPIRIT
+    url: https://github.com/edSPIRIT/xblock-skyroom
+    status: Active
+    last_commit: 2024-04-28
+
+  - name: Skytap XBlock
+    description: An XBlock for integrating Open edX and Skytap. With this XBlock, you to create virtual machines so learners can practice what they are learning in the course.
+    category: Course content type
+    license: AGPLv3
+    vendor: OpenCraft
+    url: https://github.com/open-craft/xblock-skytap
+    status: Active
+    last_commit: 2020-06-30
+
+  - name: Sortable XBlock
+    description: |
+      An XBlock that implements sorting problem. Learners have to sort items by dragging them at their correct position.
+      Authors can define items and their correct order from studio. This Xblock also supports grading.
+    category: Course content type
+    license: GPLv3
+    vendor: edly
+    url: https://github.com/edly-io/xblock-sortable
+    image: docs/_images/sortable-xblock.png
+    status: Active
+    last_commit: 2022-06-29
+
+  - name: SQL Grader XBlock
+    description: |
+      XBlock to grade SQL statements via a SQLite engine.
+      This package provides an XBlock for use with the Open EdX Platform.
+      Participants can be graded on SQL scripts, written in code editor supporting:
+      
+      - syntax highlighting
+      - autocomplete (with Ctrl+Space)
+    category: Gradable activities
+    license: AGPLv3
+    vendor: Open edX
+    url: https://github.com/openedx/xblock-sql-grader
+    status: Active
+    last_commit: 2024-05-16
+
+  - name: Staff Graded Assignment XBlock
+    description: |
+      This package provides an XBlock for use with the open edX platform which provides a staff graded assignment.
+      Students are invited to upload files which encapsulate their work on the assignment. Instructors are then able to download the files and enter grades for the assignment.
+    category: Gradable activities
+    license: AGPLv3
+    vendor: MIT Office of Digital Learning
+    url: https://github.com/mitodl/edx-sga
+    image: docs/_images/staff-graded-assignment-xblock.png
+    status: Active
+    last_commit: 2024-04-29
+
+  - name: Staff Graded XBlock
+    description: Staff Graded Points XBlock
+    category: Gradable activities
+    license: AGPLv3
+    vendor: MIT Office of Digital Learning
+    url: https://github.com/openedx/staff_graded-xblock
+    status: Active
+    last_commit: 2024-05-20
+
+  - name: Submit and Compare XBlock
+    description: |
+      This XBlock provides a way to do an ungraded self assessment activity.
+      It is useful for synthesis questions, or questions which require the student to answer in her own words.
+      After the student submits her answer, she is able to see the instructor's answer, and compare her answer to the expert answer.
+    category: Course content type
+    license: AGPLv3
+    vendor: Open edX
+    url: https://github.com/openedx/xblock-submit-and-compare
+    image: docs/_images/submit-compare-xblock.png
+    status: Active
+    last_commit: 2024-05-20
+
+  # V
+  - name: Virtual Reality XBlock
+    description: This XBlock embeds Virtual Reality videos into a course.
+    category: Course content type
+    vendor: OpenCraft
+    url: https://github.com/open-craft/xblock-virtualreality
+    status: Active
+    last_commit: 2024-02-07
+
+  - name: Voice recognizer XBlock
+    description: Explore innovative voice recognition technology within your courses, promoting language learning and communication skills.
+    category: Course content type
+    license: AGPLv3
+    vendor: Open edX
+    url: https://github.com/perpetualny/voicerecxblock
+    status: Active
+    last_commit: 2018-12-20
+
+  # W
+  - name: Webhook XBlock
+    description: An X-block to send a payload with basic information about the course and student to a configurable URL.
+    category: 3rd party tool integrated via XBlock
+    type: XBlock
+    license: AGPLv3
+    vendor: eduNEXT
+    url: https://github.com/eduNEXT/webhook-xblock
+    status: Active
+    last_commit: 2024-05-19
+
+  # X
+  - name: XBlock Skill Tagging
+    description: |
+      Django app for fetching and verifying tags/skills for video and vertical/unit XBlocks.
+      It implements two openedx_filters pipelines to inject a form into the end unit XBlocks and video XBlocks.
+    category: Course content type
+    type: Django app
+    license: AGPLv3
+    vendor: Open edX
+    url: https://github.com/openedx/xblock-skill-tagging
+    image: docs/_images/xblock-skill-tagging-1.png
+    status: Active
+    last_commit: 2024-05-09

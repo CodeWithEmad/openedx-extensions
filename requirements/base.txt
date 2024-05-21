@@ -1,0 +1,7 @@
+requests
+pyyaml
+sphinx
+sphinx-book-theme
+sphinx-autobuild
+sphinxcontrib-images
+sphinxcontrib-youtube
