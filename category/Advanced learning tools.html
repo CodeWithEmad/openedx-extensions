@@ -1,0 +1,656 @@
+
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+
+    <title>Advanced learning tools &#8212; OpenedX Extensions</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=5b4479735964841361fd" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/css/custom.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinxcontrib-images/LightBox2/lightbox2/dist/css/lightbox.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=5b4479735964841361fd" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd" />
+  <script src="../_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=5b4479735964841361fd"></script>
+
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/sphinx_highlight.js"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script src="../_static/sphinxcontrib-images/LightBox2/lightbox2/dist/js/lightbox-plus-jquery.min.js"></script>
+    <script src="../_static/sphinxcontrib-images/LightBox2/lightbox2-customize/jquery-noconflict.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'category/Advanced learning tools';</script>
+    <link rel="icon" href="../_static/favicon.ico"/>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Course content type" href="Course%20content%20type.html" />
+    <link rel="prev" title="By Category" href="index.html" />
+
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search..."
+         aria-label="Search..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
+    </nav>
+  
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+
+<a class="navbar-brand logo" href="../index.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../_static/logo.png" class="logo__image only-light" alt="OpenedX Extensions - Home"/>
+    <script>document.write(`<img src="../_static/logo.png" class="logo__image only-dark" alt="OpenedX Extensions - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Extensions</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../all/index.html">All</a></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../name/index.html">By Name</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../name/A%2C%20B%2C%20C.html">A, B, C</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../name/D%2C%20E%2C%20F.html">D, E, F</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../name/G%2C%20H%2C%20I.html">G, H, I</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../name/J%2C%20K%2C%20L.html">J, K, L</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../name/M%2C%20N%2C%20O.html">M, N, O</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../name/P%2C%20Q%2C%20R.html">P, Q, R</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../name/S%2C%20T%2C%20U.html">S, T, U</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../name/V%2C%20W%2C%20X.html">V, W, X</a></li>
+</ul>
+</li>
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="index.html">By Category</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul class="current">
+<li class="toctree-l2 current active"><a class="current reference internal" href="#">Advanced learning tools</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Course%20content%20type.html">Course content type</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Video%20delivery.html">Video delivery</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Gradable%20activities.html">Gradable activities</a></li>
+<li class="toctree-l2"><a class="reference internal" href="3rd%20party%20tool%20integrated%20via%20XBlock.html">3rd party tool integrated via XBlock</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Gradable%20Activities.html">Gradable Activities</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Proctoring%20%26%20secure%20exams.html">Proctoring &amp; secure exams</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Web%20conference%20%26%20collaboration.html">Web conference &amp; collaboration</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../vendor/index.html">By Vendor</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-3"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../vendor/OpenCraft.html">OpenCraft</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../vendor/edly.html">edly</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../vendor/Open%20edX.html">Open edX</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../vendor/Microsoft.html">Microsoft</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../vendor/Construct%20Education.html">Construct Education</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../vendor/edSPIRIT.html">edSPIRIT</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../vendor/eduNEXT.html">eduNEXT</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../vendor/University%20of%20Chile.html">University of Chile</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../vendor/Stanford%20Online.html">Stanford Online</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../vendor/Appsembler.html">Appsembler</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../vendor/Open%20learning%20initiative.html">Open learning initiative</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../vendor/University%20of%20British%20Columbia.html">University of British Columbia</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../vendor/Open%20Craft.html">Open Craft</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../vendor/Perpetual.html">Perpetual</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../vendor/MIT%20Office%20of%20Digital%20Learning.html">MIT Office of Digital Learning</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item"><hr/><br/>
+
+<a class='external' href='https://openedx.atlassian.net/wiki/spaces' target='_blank'>Open edX Wiki</a><br/>
+<a class='external' href='https://openedx.org' target='_blank'>Open edX website</a><br/>
+<a class='external' href='https://openedx.org/cookie-policy/' target='_blank'>Cookie Policy</a><br/>
+<a class='external' href='https://docs.openedx.org/en/latest/community/security_policy/index.html' target='_blank'>Security Policy</a>
+</div>
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/codewithemad/openedx-extensions" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/codewithemad/openedx-extensions/edit/main/source/category/Advanced learning tools.rst" target="_blank"
+   class="btn btn-sm btn-source-edit-button dropdown-item"
+   title="Suggest edit"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-pencil-alt"></i>
+  </span>
+<span class="btn__text-container">Suggest edit</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/codewithemad/openedx-extensions/issues/new?title=Issue%20on%20page%20%2Fcategory/Advanced learning tools.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/category/Advanced learning tools.rst" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.rst</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Advanced learning tools</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#active-table">Active Table</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#adventure-xblock">Adventure XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#conditional-xblock">Conditional XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#container-xblock">Container XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#dialogs-xblock">Dialogs XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#group-project-v2-xblock">Group Project v2 XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#jupyter-notebook-viewer">Jupyter Notebook Viewer</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#mindmap-xblock">MindMap XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#problem-builder-xblock">Problem Builder XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#scorm-xblock">Scorm XBlock</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article" role="main">
+                  
+  <section id="advanced-learning-tools">
+<h1>Advanced learning tools<a class="headerlink" href="#advanced-learning-tools" title="Permalink to this heading">#</a></h1>
+<section id="active-table">
+<h2><a class="reference external" href="https://github.com/open-craft/xblock-activetable">Active Table</a><a class="headerlink" href="#active-table" title="Permalink to this heading">#</a></h2>
+<p>Provides a tabular problem type, where students have to fill in some of the cells of a table.</p>
+<img alt="Active Table" class="align-center" src="../_images/active-table-xblock.png" />
+<p><strong>Vendor:</strong> <a class="reference external" href="https://opencraft.com">OpenCraft</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2021-09-30</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/open-craft/xblock-activetable">open-craft/xblock-activetable</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> Advanced learning tools</p>
+</section>
+<section id="adventure-xblock">
+<h2><a class="reference external" href="https://github.com/openedx-unsupported/xblock-adventure">Adventure XBlock</a><a class="headerlink" href="#adventure-xblock" title="Permalink to this heading">#</a></h2>
+<p>An XBlock for creating a simple chose your own adventure-style simulation. It presents the user with a branching sequence of steps, each of which can contain other XBlockLightChildrens.</p>
+<img alt="Adventure XBlock" class="align-center" src="../_images/adventure-xblock.png" />
+<p><strong>Vendor:</strong> <a class="reference external" href="https://opencraft.com">OpenCraft</a></p>
+<p><strong>Status:</strong> Archived</p>
+<p><strong>Last Commit:</strong> 2023-10-23</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/openedx-unsupported/xblock-adventure">openedx-unsupported/xblock-adventure</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> Advanced learning tools</p>
+</section>
+<section id="conditional-xblock">
+<h2><a class="reference external" href="https://github.com/eol-uchile/eol-conditional-xblock">Conditional XBlock</a><a class="headerlink" href="#conditional-xblock" title="Permalink to this heading">#</a></h2>
+<p>XBlock to show/hide one or more conditional component by a trigger component in the Open edX LMS. Editable within Open edx Studio.</p>
+<img alt="Conditional XBlock" class="align-center" src="../_images/eol-conditional-xblock.png" />
+<p><strong>Vendor:</strong> <a class="reference external" href="https://eol.uchile.cl">University of Chile</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2021-11-24</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/eol-uchile/eol-conditional-xblock">eol-uchile/eol-conditional-xblock</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> Advanced learning tools</p>
+</section>
+<section id="container-xblock">
+<h2><a class="reference external" href="https://github.com/eol-uchile/eol-container-xblock">Container XBlock</a><a class="headerlink" href="#container-xblock" title="Permalink to this heading">#</a></h2>
+<p>XBlock to display “Add and Continue” containers Open edX LMS.</p>
+<img alt="Container XBlock" class="align-center" src="../_images/eol-container-xblock.png" />
+<p><strong>Vendor:</strong> <a class="reference external" href="https://eol.uchile.cl">University of Chile</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2024-05-08</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/eol-uchile/eol-container-xblock">eol-uchile/eol-container-xblock</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> Advanced learning tools</p>
+</section>
+<section id="dialogs-xblock">
+<h2><a class="reference external" href="https://github.com/eol-uchile/eol-dialogs-xblock">Dialogs XBlock</a><a class="headerlink" href="#dialogs-xblock" title="Permalink to this heading">#</a></h2>
+<p>XBlock to display “Add and Continue” Dialogs Open edX LMS.</p>
+<img alt="Dialogs XBlock" class="align-center" src="../_images/eol-dialogs-xblock.png" />
+<p><strong>Vendor:</strong> <a class="reference external" href="https://eol.uchile.cl">University of Chile</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2024-05-14</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/eol-uchile/eol-dialogs-xblock">eol-uchile/eol-dialogs-xblock</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> Advanced learning tools</p>
+</section>
+<section id="group-project-v2-xblock">
+<h2><a class="reference external" href="https://github.com/open-craft/xblock-group-project-v2">Group Project v2 XBlock</a><a class="headerlink" href="#group-project-v2-xblock" title="Permalink to this heading">#</a></h2>
+<p>This tool implements a group project, where a group of students work together on a task, which is then graded.</p>
+<img alt="Group Project v2 XBlock" class="align-center" src="../_images/group-project-v2-xblock.png" />
+<p><strong>Vendor:</strong> <a class="reference external" href="https://opencraft.com">OpenCraft</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2023-01-06</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/open-craft/xblock-group-project-v2">open-craft/xblock-group-project-v2</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> Advanced learning tools</p>
+</section>
+<section id="jupyter-notebook-viewer">
+<h2><a class="reference external" href="https://github.com/eduNEXT/jupyter-viewer-xblock">Jupyter Notebook Viewer</a><a class="headerlink" href="#jupyter-notebook-viewer" title="Permalink to this heading">#</a></h2>
+<p>LimeSurvey XBlock allows a better integration between the Open edX platform and the Open source LimeSurvey service.</p>
+<div class="video_wrapper align-center" style="text-align: center">
+<iframe allowfullscreen="true" src="https://www.youtube.com/embed/K8jhWgQnxvI" style="border: 0; height: 345px; width: 560px">
+</iframe></div><p><strong>Vendor:</strong> <a class="reference external" href="https://www.edunext.co">eduNEXT</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2019-03-12</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/eduNEXT/jupyter-viewer-xblock">eduNEXT/jupyter-viewer-xblock</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> Advanced learning tools</p>
+</section>
+<section id="mindmap-xblock">
+<h2><a class="reference external" href="https://github.com/eduNEXT/xblock-mindmap">MindMap XBlock</a><a class="headerlink" href="#mindmap-xblock" title="Permalink to this heading">#</a></h2>
+<p>Mind Map XBlock is a pluggable extension to the Open edX platform that allows course creators to build a learning experience in which students can visualize and easily edit Mind Maps within a course unit.</p>
+<img alt="MindMap XBlock" class="align-center" src="../_images/mindmap-xblock.png" />
+<p><strong>Vendor:</strong> <a class="reference external" href="https://www.edunext.co">eduNEXT</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2024-01-29</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/eduNEXT/xblock-mindmap">eduNEXT/xblock-mindmap</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> Advanced learning tools</p>
+</section>
+<section id="problem-builder-xblock">
+<h2><a class="reference external" href="https://github.com/open-craft/problem-builder">Problem Builder XBlock</a><a class="headerlink" href="#problem-builder-xblock" title="Permalink to this heading">#</a></h2>
+<p>This repository provides two XBlocks: Problem Builder and Step Builder.
+Both blocks allow to create questions of various types. They can be used
+to simulate the workflow of real-life mentoring, within an edX course.</p>
+<img alt="Problem Builder XBlock" class="align-center" src="../_images/problem-builder-xblock.png" />
+<p><strong>Vendor:</strong> <a class="reference external" href="#">Open Craft</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2024-05-20</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/open-craft/problem-builder">open-craft/problem-builder</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> Advanced learning tools</p>
+</section>
+<section id="scorm-xblock">
+<h2><a class="reference external" href="https://github.com/overhangio/openedx-scorm-xblock">Scorm XBlock</a><a class="headerlink" href="#scorm-xblock" title="Permalink to this heading">#</a></h2>
+<p>This is an XBlock to display SCORM content within the Open edX LMS and Studio.
+It will save student state and report scores to the progress tab of the course. Currently supports SCORM 1.2 and SCORM 2004 standard.</p>
+<img alt="Scorm XBlock" class="align-center" src="../_images/scorm-xblock.png" />
+<p><strong>Vendor:</strong> <a class="reference external" href="https://openedx.org">Open edX</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2024-04-29</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/overhangio/openedx-scorm-xblock">overhangio/openedx-scorm-xblock</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> Advanced learning tools</p>
+</section>
+</section>
+
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="index.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">By Category</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="Course%20content%20type.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Course content type</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#active-table">Active Table</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#adventure-xblock">Adventure XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#conditional-xblock">Conditional XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#container-xblock">Container XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#dialogs-xblock">Dialogs XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#group-project-v2-xblock">Group Project v2 XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#jupyter-notebook-viewer">Jupyter Notebook Viewer</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#mindmap-xblock">MindMap XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#problem-builder-xblock">Problem Builder XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#scorm-xblock">Scorm XBlock</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Emad Rad
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2024, Emad Rad.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=5b4479735964841361fd"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>

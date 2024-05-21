@@ -1,0 +1,763 @@
+
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+
+    <title>Open edX &#8212; OpenedX Extensions</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=5b4479735964841361fd" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/css/custom.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinxcontrib-images/LightBox2/lightbox2/dist/css/lightbox.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=5b4479735964841361fd" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd" />
+  <script src="../_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=5b4479735964841361fd"></script>
+
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/sphinx_highlight.js"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script src="../_static/sphinxcontrib-images/LightBox2/lightbox2/dist/js/lightbox-plus-jquery.min.js"></script>
+    <script src="../_static/sphinxcontrib-images/LightBox2/lightbox2-customize/jquery-noconflict.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'vendor/Open edX';</script>
+    <link rel="icon" href="../_static/favicon.ico"/>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Microsoft" href="Microsoft.html" />
+    <link rel="prev" title="edly" href="edly.html" />
+
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search..."
+         aria-label="Search..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
+    </nav>
+  
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+
+<a class="navbar-brand logo" href="../index.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../_static/logo.png" class="logo__image only-light" alt="OpenedX Extensions - Home"/>
+    <script>document.write(`<img src="../_static/logo.png" class="logo__image only-dark" alt="OpenedX Extensions - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Extensions</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../all/index.html">All</a></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../name/index.html">By Name</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../name/A%2C%20B%2C%20C.html">A, B, C</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../name/D%2C%20E%2C%20F.html">D, E, F</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../name/G%2C%20H%2C%20I.html">G, H, I</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../name/J%2C%20K%2C%20L.html">J, K, L</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../name/M%2C%20N%2C%20O.html">M, N, O</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../name/P%2C%20Q%2C%20R.html">P, Q, R</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../name/S%2C%20T%2C%20U.html">S, T, U</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../name/V%2C%20W%2C%20X.html">V, W, X</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../category/index.html">By Category</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../category/Advanced%20learning%20tools.html">Advanced learning tools</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../category/Course%20content%20type.html">Course content type</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../category/Video%20delivery.html">Video delivery</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../category/Gradable%20activities.html">Gradable activities</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../category/3rd%20party%20tool%20integrated%20via%20XBlock.html">3rd party tool integrated via XBlock</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../category/Gradable%20Activities.html">Gradable Activities</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../category/Proctoring%20%26%20secure%20exams.html">Proctoring &amp; secure exams</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../category/Web%20conference%20%26%20collaboration.html">Web conference &amp; collaboration</a></li>
+</ul>
+</li>
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="index.html">By Vendor</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-3"><i class="fa-solid fa-chevron-down"></i></label><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="OpenCraft.html">OpenCraft</a></li>
+<li class="toctree-l2"><a class="reference internal" href="edly.html">edly</a></li>
+<li class="toctree-l2 current active"><a class="current reference internal" href="#">Open edX</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Microsoft.html">Microsoft</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Construct%20Education.html">Construct Education</a></li>
+<li class="toctree-l2"><a class="reference internal" href="edSPIRIT.html">edSPIRIT</a></li>
+<li class="toctree-l2"><a class="reference internal" href="eduNEXT.html">eduNEXT</a></li>
+<li class="toctree-l2"><a class="reference internal" href="University%20of%20Chile.html">University of Chile</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Stanford%20Online.html">Stanford Online</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Appsembler.html">Appsembler</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Open%20learning%20initiative.html">Open learning initiative</a></li>
+<li class="toctree-l2"><a class="reference internal" href="University%20of%20British%20Columbia.html">University of British Columbia</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Open%20Craft.html">Open Craft</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Perpetual.html">Perpetual</a></li>
+<li class="toctree-l2"><a class="reference internal" href="MIT%20Office%20of%20Digital%20Learning.html">MIT Office of Digital Learning</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item"><hr/><br/>
+
+<a class='external' href='https://openedx.atlassian.net/wiki/spaces' target='_blank'>Open edX Wiki</a><br/>
+<a class='external' href='https://openedx.org' target='_blank'>Open edX website</a><br/>
+<a class='external' href='https://openedx.org/cookie-policy/' target='_blank'>Cookie Policy</a><br/>
+<a class='external' href='https://docs.openedx.org/en/latest/community/security_policy/index.html' target='_blank'>Security Policy</a>
+</div>
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/codewithemad/openedx-extensions" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/codewithemad/openedx-extensions/edit/main/source/vendor/Open edX.rst" target="_blank"
+   class="btn btn-sm btn-source-edit-button dropdown-item"
+   title="Suggest edit"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-pencil-alt"></i>
+  </span>
+<span class="btn__text-container">Suggest edit</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/codewithemad/openedx-extensions/issues/new?title=Issue%20on%20page%20%2Fvendor/Open edX.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/vendor/Open edX.rst" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.rst</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Open edX</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#audio-xblock">Audio XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#charts-xblock">Charts XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#crowdsource-hinter-xblock">Crowdsource Hinter XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#drag-and-drop-problem">Drag And Drop problem</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#feedback-xblock">Feedback XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#free-text-response-xblock">Free Text Response XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#google-drive-calendar-xblock">Google Drive &amp; Calendar XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#image-explorer-xblock">Image Explorer XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#image-modal-xblock">Image Modal XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#lti-consumer-xblock">LTI Consumer XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#recommender-xblock">Recommender XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#schoolyourself-xblock">SchoolYourself XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#scorm-xblock">Scorm XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#sql-grader-xblock">SQL Grader XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#submit-and-compare-xblock">Submit and Compare XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#voice-recognizer-xblock">Voice recognizer XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#xblock-skill-tagging">XBlock Skill Tagging</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article" role="main">
+                  
+  <section id="open-edx">
+<h1>Open edX<a class="headerlink" href="#open-edx" title="Permalink to this heading">#</a></h1>
+<section id="audio-xblock">
+<h2><a class="reference external" href="https://github.com/openedx/AudioXBlock">Audio XBlock</a><a class="headerlink" href="#audio-xblock" title="Permalink to this heading">#</a></h2>
+<p>This is a simple XBlock which will play audio files as an HTML5 audio element. If unavailable, it will fall back to an embed element.</p>
+<img alt="Audio XBlock" class="align-center" src="../_images/placeholder.webp" />
+<p><strong>Vendor:</strong> <a class="reference external" href="https://openedx.org">Open edX</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2024-05-20</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/openedx/AudioXBlock">openedx/AudioXBlock</a></p>
+<p><strong>License:</strong> GPLv3</p>
+<p><strong>Categories:</strong> Course content type</p>
+</section>
+<section id="charts-xblock">
+<h2><a class="reference external" href="https://github.com/TinMarkovic/ChartsXBlock">Charts XBlock</a><a class="headerlink" href="#charts-xblock" title="Permalink to this heading">#</a></h2>
+<p>This XBLock provides a new XBlock to content authors, enabling them to implement charts into their
+course, without a lot of hassle, and with a user interface to make the task as simple as it gets.</p>
+<img alt="Charts XBlock" class="align-center" src="../_images/charts-xblock.png" />
+<p><strong>Vendor:</strong> <a class="reference external" href="https://openedx.org">Open edX</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2016-09-29</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/TinMarkovic/ChartsXBlock">TinMarkovic/ChartsXBlock</a></p>
+<p><strong>License:</strong> MIT</p>
+<p><strong>Categories:</strong> Course content type</p>
+</section>
+<section id="crowdsource-hinter-xblock">
+<h2><a class="reference external" href="https://github.com/openedx/crowdsourcehinter">Crowdsource Hinter XBlock</a><a class="headerlink" href="#crowdsource-hinter-xblock" title="Permalink to this heading">#</a></h2>
+<p>The Crowdsource Hinter serves to provide students with hints when they incorrectly answer a problem within a course.
+The hinter is compatible with numerical input and text input type problems.</p>
+<img alt="Crowdsource Hinter XBlock" class="align-center" src="../_images/crowdsource-hinter-xblock.png" />
+<p><strong>Vendor:</strong> <a class="reference external" href="https://openedx.org">Open edX</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2024-05-20</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/openedx/crowdsourcehinter">openedx/crowdsourcehinter</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> Course content type</p>
+</section>
+<section id="drag-and-drop-problem">
+<h2><a class="reference external" href="https://github.com/openedx/xblock-drag-and-drop-v2">Drag And Drop problem</a><a class="headerlink" href="#drag-and-drop-problem" title="Permalink to this heading">#</a></h2>
+<p>Enhance your courses with interactive drag-and-drop problems, making learning more engaging and interactive.</p>
+<img alt="Drag And Drop problem" class="align-center" src="../_images/drag-and-drop-problem-xblock.png" />
+<p><strong>Vendor:</strong> <a class="reference external" href="https://openedx.org">Open edX</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2024-05-20</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/openedx/xblock-drag-and-drop-v2">openedx/xblock-drag-and-drop-v2</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> Course content type</p>
+</section>
+<section id="feedback-xblock">
+<h2><a class="reference external" href="https://github.com/openedx/FeedbackXBlock">Feedback XBlock</a><a class="headerlink" href="#feedback-xblock" title="Permalink to this heading">#</a></h2>
+<p>The Feedback XBlock encourages learners to reflect on their learning experiences and allows instructors to capture feedback
+from learners. Feedback is provided as sentiment on a predefined scale and free text feedback. Feedback can be aggregated
+by instructors to understand which parts of a course work well and which parts work poorly.</p>
+<img alt="Feedback XBlock" class="align-center" src="../_images/placeholder.webp" />
+<p><strong>Vendor:</strong> <a class="reference external" href="https://openedx.org">Open edX</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2024-05-20</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/openedx/FeedbackXBlock">openedx/FeedbackXBlock</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> Course content type</p>
+</section>
+<section id="free-text-response-xblock">
+<h2><a class="reference external" href="https://github.com/openedx/xblock-free-text-response">Free Text Response XBlock</a><a class="headerlink" href="#free-text-response-xblock" title="Permalink to this heading">#</a></h2>
+<p>XBlock to capture a free-text response.
+This package provides an XBlock for use with the Open edX Platform and makes it possible
+for instructors to create questions that expect a free-text response.</p>
+<img alt="Free Text Response XBlock" class="align-center" src="../_images/placeholder.webp" />
+<p><strong>Vendor:</strong> <a class="reference external" href="https://openedx.org">Open edX</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2024-05-21</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/openedx/xblock-free-text-response">openedx/xblock-free-text-response</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> Course content type</p>
+</section>
+<section id="google-drive-calendar-xblock">
+<h2><a class="reference external" href="https://github.com/openedx/xblock-google-drive">Google Drive &amp; Calendar XBlock</a><a class="headerlink" href="#google-drive-calendar-xblock" title="Permalink to this heading">#</a></h2>
+<p>This XBlock allows embedding of Google documents and calendar, within an OpenedX course.</p>
+<img alt="Google Drive &amp; Calendar XBlock" class="align-center" src="../_images/google-drive-calendar-xblock.png" />
+<p><strong>Vendor:</strong> <a class="reference external" href="https://openedx.org">Open edX</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2024-05-21</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/openedx/xblock-google-drive">openedx/xblock-google-drive</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> 3rd party tool integrated via XBlock</p>
+</section>
+<section id="image-explorer-xblock">
+<h2><a class="reference external" href="https://github.com/openedx/xblock-image-explorer">Image Explorer XBlock</a><a class="headerlink" href="#image-explorer-xblock" title="Permalink to this heading">#</a></h2>
+<p>This package provides the Image Explorer XBlock that allows you to use an image with hotspots in a course.
+When the student clicks a hotspot icon, tooltip containing custom content is displayed.</p>
+<img alt="Image Explorer XBlock" class="align-center" src="../_images/image-explorer-xblock.png" />
+<p><strong>Vendor:</strong> <a class="reference external" href="https://openedx.org">Open edX</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2024-05-20</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/openedx/xblock-image-explorer">openedx/xblock-image-explorer</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> Gradable Activities</p>
+</section>
+<section id="image-modal-xblock">
+<h2><a class="reference external" href="https://github.com/openedx/xblock-image-modal">Image Modal XBlock</a><a class="headerlink" href="#image-modal-xblock" title="Permalink to this heading">#</a></h2>
+<p>An XBlock provides a way to place dropdown questions inline with other text, for example, in a paragraph.</p>
+<div class="video_wrapper align-center" style="text-align: center">
+<iframe allowfullscreen="true" src="https://www.youtube.com/embed/0mpjuThDoyE" style="border: 0; height: 345px; width: 560px">
+</iframe></div><p><strong>Vendor:</strong> <a class="reference external" href="https://openedx.org">Open edX</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2024-05-21</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/openedx/xblock-image-modal">openedx/xblock-image-modal</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> Gradable Activities</p>
+</section>
+<section id="lti-consumer-xblock">
+<h2><a class="reference external" href="https://github.com/openedx/xblock-lti-consumer">LTI Consumer XBlock</a><a class="headerlink" href="#lti-consumer-xblock" title="Permalink to this heading">#</a></h2>
+<p>This XBlock implements the consumer side of the LTI specification enabling integration of third-party LTI provider tools.</p>
+<img alt="LTI Consumer XBlock" class="align-center" src="../_images/placeholder.webp" />
+<p><strong>Vendor:</strong> <a class="reference external" href="https://openedx.org">Open edX</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2024-05-14</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/openedx/xblock-lti-consumer">openedx/xblock-lti-consumer</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> Course content type</p>
+</section>
+<section id="recommender-xblock">
+<h2><a class="reference external" href="https://github.com/openedx/RecommenderXBlock">Recommender XBlock</a><a class="headerlink" href="#recommender-xblock" title="Permalink to this heading">#</a></h2>
+<p>This XBlock shows students a list of recommended resources for a given problem.
+The resources are recommended, edited, and voted by students.
+For each resource, we show its title, link, short summary, preview screenshot, and votes.</p>
+<img alt="Recommender XBlock" class="align-center" src="../_images/recommender-xblock.png" />
+<p><strong>Vendor:</strong> <a class="reference external" href="https://openedx.org">Open edX</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2024-04-01</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/openedx/RecommenderXBlock">openedx/RecommenderXBlock</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> Course content type</p>
+</section>
+<section id="schoolyourself-xblock">
+<h2><a class="reference external" href="https://github.com/openedx/schoolyourself-xblock">SchoolYourself XBlock</a><a class="headerlink" href="#schoolyourself-xblock" title="Permalink to this heading">#</a></h2>
+<p>An XBlock for displaying School Yourself (SY) content on the edX platform.</p>
+<img alt="SchoolYourself XBlock" class="align-center" src="../_images/school-yourself-xblock.png" />
+<p><strong>Vendor:</strong> <a class="reference external" href="https://openedx.org">Open edX</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2024-05-20</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/openedx/schoolyourself-xblock">openedx/schoolyourself-xblock</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> 3rd party tool integrated via XBlock</p>
+</section>
+<section id="scorm-xblock">
+<h2><a class="reference external" href="https://github.com/overhangio/openedx-scorm-xblock">Scorm XBlock</a><a class="headerlink" href="#scorm-xblock" title="Permalink to this heading">#</a></h2>
+<p>This is an XBlock to display SCORM content within the Open edX LMS and Studio.
+It will save student state and report scores to the progress tab of the course. Currently supports SCORM 1.2 and SCORM 2004 standard.</p>
+<img alt="Scorm XBlock" class="align-center" src="../_images/scorm-xblock.png" />
+<p><strong>Vendor:</strong> <a class="reference external" href="https://openedx.org">Open edX</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2024-04-29</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/overhangio/openedx-scorm-xblock">overhangio/openedx-scorm-xblock</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> Advanced learning tools</p>
+</section>
+<section id="sql-grader-xblock">
+<h2><a class="reference external" href="https://github.com/openedx/xblock-sql-grader">SQL Grader XBlock</a><a class="headerlink" href="#sql-grader-xblock" title="Permalink to this heading">#</a></h2>
+<p>XBlock to grade SQL statements via a SQLite engine.
+This package provides an XBlock for use with the Open EdX Platform.
+Participants can be graded on SQL scripts, written in code editor supporting:</p>
+<ul class="simple">
+<li><p>syntax highlighting</p></li>
+<li><p>autocomplete (with Ctrl+Space)</p></li>
+</ul>
+<img alt="SQL Grader XBlock" class="align-center" src="../_images/placeholder.webp" />
+<p><strong>Vendor:</strong> <a class="reference external" href="https://openedx.org">Open edX</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2024-05-16</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/openedx/xblock-sql-grader">openedx/xblock-sql-grader</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> Gradable activities</p>
+</section>
+<section id="submit-and-compare-xblock">
+<h2><a class="reference external" href="https://github.com/openedx/xblock-submit-and-compare">Submit and Compare XBlock</a><a class="headerlink" href="#submit-and-compare-xblock" title="Permalink to this heading">#</a></h2>
+<p>This XBlock provides a way to do an ungraded self assessment activity.
+It is useful for synthesis questions, or questions which require the student to answer in her own words.
+After the student submits her answer, she is able to see the instructor’s answer, and compare her answer to the expert answer.</p>
+<img alt="Submit and Compare XBlock" class="align-center" src="../_images/submit-compare-xblock.png" />
+<p><strong>Vendor:</strong> <a class="reference external" href="https://openedx.org">Open edX</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2024-05-20</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/openedx/xblock-submit-and-compare">openedx/xblock-submit-and-compare</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> Course content type</p>
+</section>
+<section id="voice-recognizer-xblock">
+<h2><a class="reference external" href="https://github.com/perpetualny/voicerecxblock">Voice recognizer XBlock</a><a class="headerlink" href="#voice-recognizer-xblock" title="Permalink to this heading">#</a></h2>
+<p>Explore innovative voice recognition technology within your courses, promoting language learning and communication skills.</p>
+<img alt="Voice recognizer XBlock" class="align-center" src="../_images/placeholder.webp" />
+<p><strong>Vendor:</strong> <a class="reference external" href="https://openedx.org">Open edX</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2018-12-20</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/perpetualny/voicerecxblock">perpetualny/voicerecxblock</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> Course content type</p>
+</section>
+<section id="xblock-skill-tagging">
+<h2><a class="reference external" href="https://github.com/openedx/xblock-skill-tagging">XBlock Skill Tagging</a><a class="headerlink" href="#xblock-skill-tagging" title="Permalink to this heading">#</a></h2>
+<p>Django app for fetching and verifying tags/skills for video and vertical/unit XBlocks.
+It implements two openedx_filters pipelines to inject a form into the end unit XBlocks and video XBlocks.</p>
+<img alt="XBlock Skill Tagging" class="align-center" src="../_images/xblock-skill-tagging-1.png" />
+<p><strong>Vendor:</strong> <a class="reference external" href="https://openedx.org">Open edX</a></p>
+<p><strong>Status:</strong> Active</p>
+<p><strong>Last Commit:</strong> 2024-05-09</p>
+<p><strong>URL:</strong> <a class="github reference external" href="https://github.com/openedx/xblock-skill-tagging">openedx/xblock-skill-tagging</a></p>
+<p><strong>License:</strong> AGPLv3</p>
+<p><strong>Categories:</strong> Course content type</p>
+</section>
+</section>
+
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="edly.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">edly</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="Microsoft.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Microsoft</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#audio-xblock">Audio XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#charts-xblock">Charts XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#crowdsource-hinter-xblock">Crowdsource Hinter XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#drag-and-drop-problem">Drag And Drop problem</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#feedback-xblock">Feedback XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#free-text-response-xblock">Free Text Response XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#google-drive-calendar-xblock">Google Drive &amp; Calendar XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#image-explorer-xblock">Image Explorer XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#image-modal-xblock">Image Modal XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#lti-consumer-xblock">LTI Consumer XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#recommender-xblock">Recommender XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#schoolyourself-xblock">SchoolYourself XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#scorm-xblock">Scorm XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#sql-grader-xblock">SQL Grader XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#submit-and-compare-xblock">Submit and Compare XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#voice-recognizer-xblock">Voice recognizer XBlock</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#xblock-skill-tagging">XBlock Skill Tagging</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Emad Rad
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2024, Emad Rad.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=5b4479735964841361fd"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
