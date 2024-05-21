@@ -34,11 +34,6 @@ Sections
 
    Each XBlock card includes key details like the vendor, status, last commit date, URL, license, and category. This helps you get a comprehensive view of the XBlock.
 
-Useful Links
-************
-
-- `edX Documentation <https://openedx.readthedocs.io/>`__
-- `openedX XBlocks GitHub Repository <https://github.com/openedx/edx-platform/tree/master/common/lib/xmodule/xmodule/x_module.py#L67>`__
 
 Credits
 *******
