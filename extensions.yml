@@ -514,19 +514,6 @@ xblocks:
     status: Active
     last_commit: 2020-04-29
 
-  - name: ProctorU xBlock
-    description: |
-      ProctorU is a leading online proctoring service that allows students to take proctored exams
-      online from anywhere using a webcam and a high speed internet connection, and allows institutions
-      to maintain academic integrity in their online education programs.
-    category: Proctoring & secure exams
-    license: AGPLv3
-    vendor: Perpetual
-    url: https://github.com/perpetualny/proctoru-xblock
-    image: docs/_images/proctoru-xblock.jpeg
-    status: Active
-    last_commit: 2020-04-29
-
   # R
   - name: Recommender XBlock
     description: |
