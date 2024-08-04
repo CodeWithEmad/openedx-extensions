@@ -3,7 +3,8 @@ name: Build and Deploy Static Site
 on:
   push:
     branches: [master]
-
+  repository_dispatch:
+    types: [trigger-build]
 jobs:
   build:
     runs-on: ubuntu-latest
