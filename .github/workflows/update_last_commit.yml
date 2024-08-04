@@ -25,7 +25,11 @@ jobs:
           pip install -r requirements/base.txt
 
       - name: Run update script
-        run: python ./scripts/update_last_commit.py
+        run: |
+          python ./scripts/update_last_commit.py
+          python ./scripts/generate_rst_files.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Check for changes
         id: git-check
