@@ -57,7 +57,7 @@ LimeSurvey XBlock allows a better integration between the Open edX platform and 
 
 **Status:** Active
 
-**Last Commit:** 2023-10-04
+**Last Commit:** 2024-05-22
 
 **URL:** https://github.com/eduNEXT/xblock-limesurvey
 
@@ -78,7 +78,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2024-05-14
+**Last Commit:** 2024-08-06
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 

@@ -77,7 +77,7 @@ This is a simple XBlock which will play audio files as an HTML5 audio element. I
 
 **Status:** Active
 
-**Last Commit:** 2024-05-20
+**Last Commit:** 2024-08-05
 
 **URL:** https://github.com/openedx/AudioXBlock
 
@@ -96,7 +96,7 @@ This xBlock allows for the inclusion of videos that are hosted on Azure Media Se
 
 **Vendor:** `Microsoft <https://github.com/microsoft>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2023-06-12
 
@@ -222,7 +222,7 @@ A subclass of the new HTML XBlock that disables marking the block as completed a
 
 **Status:** Active
 
-**Last Commit:** 2024-05-20
+**Last Commit:** 2024-08-05
 
 **URL:** https://github.com/open-craft/xblock-html-completable
 
@@ -285,7 +285,7 @@ XBlock to display "Add and Continue" containers Open edX LMS.
 
 **Status:** Active
 
-**Last Commit:** 2024-05-08
+**Last Commit:** 2024-06-06
 
 **URL:** https://github.com/eol-uchile/eol-container-xblock
 
@@ -308,7 +308,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2024-05-20
+**Last Commit:** 2024-08-05
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -371,7 +371,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2024-05-20
+**Last Commit:** 2024-08-05
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -419,7 +419,7 @@ by instructors to understand which parts of a course work well and which parts w
 
 **Status:** Active
 
-**Last Commit:** 2024-05-20
+**Last Commit:** 2024-08-05
 
 **URL:** https://github.com/openedx/FeedbackXBlock
 
@@ -442,7 +442,7 @@ delete and download folders, and students to view and download them.
 
 **Status:** Active
 
-**Last Commit:** 2024-04-26
+**Last Commit:** 2024-05-22
 
 **URL:** https://github.com/eduNEXT/xblock-filesmanager
 
@@ -489,7 +489,7 @@ for instructors to create questions that expect a free-text response.
 
 **Status:** Active
 
-**Last Commit:** 2024-05-21
+**Last Commit:** 2024-08-06
 
 **URL:** https://github.com/openedx/xblock-free-text-response
 
@@ -531,7 +531,7 @@ This XBlock allows embedding of Google documents and calendar, within an OpenedX
 
 **Status:** Active
 
-**Last Commit:** 2024-05-21
+**Last Commit:** 2024-08-05
 
 **URL:** https://github.com/openedx/xblock-google-drive
 
@@ -602,7 +602,7 @@ H5P Xblock provides ability to host and play H5P content in open edX. It has few
 
 **Status:** Active
 
-**Last Commit:** 2024-03-27
+**Last Commit:** 2024-08-09
 
 **URL:** https://github.com/edly-io/h5pxblock
 
@@ -623,7 +623,7 @@ A new HTML XBlock that is designed with security and embedding in mind.
 
 **Status:** Active
 
-**Last Commit:** 2024-05-20
+**Last Commit:** 2024-08-05
 
 **URL:** https://github.com/open-craft/xblock-html
 
@@ -646,7 +646,7 @@ When the student clicks a hotspot icon, tooltip containing custom content is dis
 
 **Status:** Active
 
-**Last Commit:** 2024-05-20
+**Last Commit:** 2024-08-05
 
 **URL:** https://github.com/openedx/xblock-image-explorer
 
@@ -668,7 +668,7 @@ An XBlock provides a way to place dropdown questions inline with other text, for
 
 **Status:** Active
 
-**Last Commit:** 2024-05-21
+**Last Commit:** 2024-08-08
 
 **URL:** https://github.com/openedx/xblock-image-modal
 
@@ -689,7 +689,7 @@ An XBlock provides a way to place dropdown questions inline with other text, for
 
 **Status:** Active
 
-**Last Commit:** 2024-05-20
+**Last Commit:** 2024-08-05
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -753,7 +753,7 @@ LimeSurvey XBlock allows a better integration between the Open edX platform and 
 
 **Status:** Active
 
-**Last Commit:** 2023-10-04
+**Last Commit:** 2024-05-22
 
 **URL:** https://github.com/eduNEXT/xblock-limesurvey
 
@@ -774,7 +774,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2024-05-14
+**Last Commit:** 2024-08-06
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 
@@ -795,7 +795,7 @@ Mind Map XBlock is a pluggable extension to the Open edX platform that allows co
 
 **Status:** Active
 
-**Last Commit:** 2024-01-29
+**Last Commit:** 2024-05-22
 
 **URL:** https://github.com/eduNEXT/xblock-mindmap
 
@@ -835,7 +835,7 @@ The “OfficeVideo XBlock” allows course content authors to embed videos store
 
 **Vendor:** `Microsoft <https://github.com/microsoft>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2023-06-14
 
@@ -858,7 +858,7 @@ The files can be added as embedded content.
 
 **Vendor:** `Microsoft <https://github.com/microsoft>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2022-11-28
 
@@ -881,7 +881,7 @@ The files can be added either as embedded content or as links to the files in th
 
 **Vendor:** `Microsoft <https://github.com/microsoft>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2022-11-28
 
@@ -929,7 +929,7 @@ each one from (Such as 'True', and 'False', or 'Agree' or 'Disagree')
 
 **Status:** Active
 
-**Last Commit:** 2024-05-20
+**Last Commit:** 2024-08-05
 
 **URL:** https://github.com/open-craft/xblock-poll
 
@@ -974,37 +974,13 @@ to simulate the workflow of real-life mentoring, within an edX course.
 
 **Status:** Active
 
-**Last Commit:** 2024-05-20
+**Last Commit:** 2024-08-05
 
 **URL:** https://github.com/open-craft/problem-builder
 
 **License:** AGPLv3
 
 **Categories:** Advanced learning tools
-
-`ProctorU xBlock <https://github.com/perpetualny/proctoru-xblock>`__
-********************************************************************
-
-ProctorU is a leading online proctoring service that allows students to take proctored exams
-online from anywhere using a webcam and a high speed internet connection, and allows institutions
-to maintain academic integrity in their online education programs.
-
-
-.. image:: /_images/proctoru-xblock.jpeg
-    :alt: ProctorU xBlock
-    :align: center
-
-**Vendor:** `Perpetual <http://perpetualny.com>`__
-
-**Status:** Active
-
-**Last Commit:** 2020-04-29
-
-**URL:** https://github.com/perpetualny/proctoru-xblock
-
-**License:** AGPLv3
-
-**Categories:** Proctoring & secure exams
 
 `ProctorU xBlock <https://github.com/perpetualny/proctoru-xblock>`__
 ********************************************************************
@@ -1046,7 +1022,7 @@ For each resource, we show its title, link, short summary, preview screenshot, a
 
 **Status:** Active
 
-**Last Commit:** 2024-04-01
+**Last Commit:** 2024-08-09
 
 **URL:** https://github.com/openedx/RecommenderXBlock
 
@@ -1067,7 +1043,7 @@ An XBlock for displaying School Yourself (SY) content on the edX platform.
 
 **Status:** Active
 
-**Last Commit:** 2024-05-20
+**Last Commit:** 2024-08-05
 
 **URL:** https://github.com/openedx/schoolyourself-xblock
 
@@ -1090,7 +1066,7 @@ It will save student state and report scores to the progress tab of the course. 
 
 **Status:** Active
 
-**Last Commit:** 2024-04-29
+**Last Commit:** 2024-07-01
 
 **URL:** https://github.com/overhangio/openedx-scorm-xblock
 
@@ -1111,7 +1087,7 @@ An XBlock for integrating Open edX and Skyroom. Skyroom is an Online Classroom s
 
 **Status:** Active
 
-**Last Commit:** 2024-04-28
+**Last Commit:** 2024-08-07
 
 **URL:** https://github.com/edSPIRIT/xblock-skyroom
 
@@ -1182,7 +1158,7 @@ Participants can be graded on SQL scripts, written in code editor supporting:
 
 **Status:** Active
 
-**Last Commit:** 2024-05-16
+**Last Commit:** 2024-08-08
 
 **URL:** https://github.com/openedx/xblock-sql-grader
 
@@ -1226,7 +1202,7 @@ Staff Graded Points XBlock
 
 **Status:** Active
 
-**Last Commit:** 2024-05-20
+**Last Commit:** 2024-08-05
 
 **URL:** https://github.com/openedx/staff_graded-xblock
 
@@ -1250,7 +1226,7 @@ After the student submits her answer, she is able to see the instructor's answer
 
 **Status:** Active
 
-**Last Commit:** 2024-05-20
+**Last Commit:** 2024-08-05
 
 **URL:** https://github.com/openedx/xblock-submit-and-compare
 
@@ -1334,7 +1310,7 @@ It implements two openedx_filters pipelines to inject a form into the end unit X
 
 **Status:** Active
 
-**Last Commit:** 2024-05-09
+**Last Commit:** 2024-08-09
 
 **URL:** https://github.com/openedx/xblock-skill-tagging
 

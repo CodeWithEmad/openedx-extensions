@@ -54,7 +54,7 @@ This XBlock allows embedding of Google documents and calendar, within an OpenedX
 
 **Status:** Active
 
-**Last Commit:** 2024-05-21
+**Last Commit:** 2024-08-05
 
 **URL:** https://github.com/openedx/xblock-google-drive
 
@@ -75,7 +75,7 @@ LimeSurvey XBlock allows a better integration between the Open edX platform and 
 
 **Status:** Active
 
-**Last Commit:** 2023-10-04
+**Last Commit:** 2024-05-22
 
 **URL:** https://github.com/eduNEXT/xblock-limesurvey
 
@@ -96,7 +96,7 @@ An XBlock for displaying School Yourself (SY) content on the edX platform.
 
 **Status:** Active
 
-**Last Commit:** 2024-05-20
+**Last Commit:** 2024-08-05
 
 **URL:** https://github.com/openedx/schoolyourself-xblock
 

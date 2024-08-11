@@ -12,7 +12,7 @@ This xBlock allows for the inclusion of videos that are hosted on Azure Media Se
 
 **Vendor:** `Microsoft <https://github.com/microsoft>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2023-06-12
 
@@ -33,7 +33,7 @@ The “OfficeVideo XBlock” allows course content authors to embed videos store
 
 **Vendor:** `Microsoft <https://github.com/microsoft>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2023-06-14
 
@@ -56,7 +56,7 @@ The files can be added as embedded content.
 
 **Vendor:** `Microsoft <https://github.com/microsoft>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2022-11-28
 
@@ -79,7 +79,7 @@ The files can be added either as embedded content or as links to the files in th
 
 **Vendor:** `Microsoft <https://github.com/microsoft>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2022-11-28
 
