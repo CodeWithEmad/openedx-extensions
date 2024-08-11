@@ -12,7 +12,7 @@ This xBlock allows for the inclusion of videos that are hosted on Azure Media Se
 
 **Vendor:** `Microsoft <https://github.com/microsoft>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2023-06-12
 

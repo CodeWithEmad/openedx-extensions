@@ -77,7 +77,7 @@ This is a simple XBlock which will play audio files as an HTML5 audio element. I
 
 **Status:** Active
 
-**Last Commit:** 2024-05-20
+**Last Commit:** 2024-08-05
 
 **URL:** https://github.com/openedx/AudioXBlock
 
@@ -96,7 +96,7 @@ This xBlock allows for the inclusion of videos that are hosted on Azure Media Se
 
 **Vendor:** `Microsoft <https://github.com/microsoft>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2023-06-12
 
@@ -222,7 +222,7 @@ A subclass of the new HTML XBlock that disables marking the block as completed a
 
 **Status:** Active
 
-**Last Commit:** 2024-05-20
+**Last Commit:** 2024-08-05
 
 **URL:** https://github.com/open-craft/xblock-html-completable
 
@@ -285,7 +285,7 @@ XBlock to display "Add and Continue" containers Open edX LMS.
 
 **Status:** Active
 
-**Last Commit:** 2024-05-08
+**Last Commit:** 2024-06-06
 
 **URL:** https://github.com/eol-uchile/eol-container-xblock
 
@@ -308,7 +308,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2024-05-20
+**Last Commit:** 2024-08-05
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 

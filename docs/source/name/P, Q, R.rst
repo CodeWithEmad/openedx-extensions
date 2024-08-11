@@ -39,7 +39,7 @@ each one from (Such as 'True', and 'False', or 'Agree' or 'Disagree')
 
 **Status:** Active
 
-**Last Commit:** 2024-05-20
+**Last Commit:** 2024-08-05
 
 **URL:** https://github.com/open-craft/xblock-poll
 
@@ -84,37 +84,13 @@ to simulate the workflow of real-life mentoring, within an edX course.
 
 **Status:** Active
 
-**Last Commit:** 2024-05-20
+**Last Commit:** 2024-08-05
 
 **URL:** https://github.com/open-craft/problem-builder
 
 **License:** AGPLv3
 
 **Categories:** Advanced learning tools
-
-`ProctorU xBlock <https://github.com/perpetualny/proctoru-xblock>`__
-********************************************************************
-
-ProctorU is a leading online proctoring service that allows students to take proctored exams
-online from anywhere using a webcam and a high speed internet connection, and allows institutions
-to maintain academic integrity in their online education programs.
-
-
-.. image:: /_images/proctoru-xblock.jpeg
-    :alt: ProctorU xBlock
-    :align: center
-
-**Vendor:** `Perpetual <http://perpetualny.com>`__
-
-**Status:** Active
-
-**Last Commit:** 2020-04-29
-
-**URL:** https://github.com/perpetualny/proctoru-xblock
-
-**License:** AGPLv3
-
-**Categories:** Proctoring & secure exams
 
 `ProctorU xBlock <https://github.com/perpetualny/proctoru-xblock>`__
 ********************************************************************
@@ -156,7 +132,7 @@ For each resource, we show its title, link, short summary, preview screenshot, a
 
 **Status:** Active
 
-**Last Commit:** 2024-04-01
+**Last Commit:** 2024-08-09
 
 **URL:** https://github.com/openedx/RecommenderXBlock
 

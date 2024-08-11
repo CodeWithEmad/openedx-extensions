@@ -58,7 +58,7 @@ delete and download folders, and students to view and download them.
 
 **Status:** Active
 
-**Last Commit:** 2024-04-26
+**Last Commit:** 2024-05-22
 
 **URL:** https://github.com/eduNEXT/xblock-filesmanager
 
@@ -124,7 +124,7 @@ LimeSurvey XBlock allows a better integration between the Open edX platform and 
 
 **Status:** Active
 
-**Last Commit:** 2023-10-04
+**Last Commit:** 2024-05-22
 
 **URL:** https://github.com/eduNEXT/xblock-limesurvey
 
@@ -145,7 +145,7 @@ Mind Map XBlock is a pluggable extension to the Open edX platform that allows co
 
 **Status:** Active
 
-**Last Commit:** 2024-01-29
+**Last Commit:** 2024-05-22
 
 **URL:** https://github.com/eduNEXT/xblock-mindmap
 

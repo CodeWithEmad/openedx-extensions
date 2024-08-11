@@ -14,7 +14,7 @@ Mind Map XBlock is a pluggable extension to the Open edX platform that allows co
 
 **Status:** Active
 
-**Last Commit:** 2024-01-29
+**Last Commit:** 2024-05-22
 
 **URL:** https://github.com/eduNEXT/xblock-mindmap
 
@@ -54,7 +54,7 @@ The “OfficeVideo XBlock” allows course content authors to embed videos store
 
 **Vendor:** `Microsoft <https://github.com/microsoft>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2023-06-14
 
@@ -77,7 +77,7 @@ The files can be added as embedded content.
 
 **Vendor:** `Microsoft <https://github.com/microsoft>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2022-11-28
 
@@ -100,7 +100,7 @@ The files can be added either as embedded content or as links to the files in th
 
 **Vendor:** `Microsoft <https://github.com/microsoft>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2022-11-28
 
