@@ -35,7 +35,7 @@ This is a simple XBlock which will play audio files as an HTML5 audio element. I
 
 **Status:** Active
 
-**Last Commit:** 2024-09-06
+**Last Commit:** 2024-09-10
 
 **URL:** https://github.com/openedx/AudioXBlock
 
@@ -100,7 +100,7 @@ A subclass of the new HTML XBlock that disables marking the block as completed a
 
 **Status:** Active
 
-**Last Commit:** 2024-09-02
+**Last Commit:** 2024-09-09
 
 **URL:** https://github.com/open-craft/xblock-html-completable
 
@@ -144,7 +144,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2024-09-04
+**Last Commit:** 2024-09-10
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -165,7 +165,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2024-09-02
+**Last Commit:** 2024-09-13
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -213,7 +213,7 @@ by instructors to understand which parts of a course work well and which parts w
 
 **Status:** Active
 
-**Last Commit:** 2024-09-06
+**Last Commit:** 2024-09-13
 
 **URL:** https://github.com/openedx/FeedbackXBlock
 
@@ -283,7 +283,7 @@ for instructors to create questions that expect a free-text response.
 
 **Status:** Active
 
-**Last Commit:** 2024-09-04
+**Last Commit:** 2024-09-10
 
 **URL:** https://github.com/openedx/xblock-free-text-response
 
@@ -354,7 +354,7 @@ H5P Xblock provides ability to host and play H5P content in open edX. It has few
 
 **Status:** Active
 
-**Last Commit:** 2024-08-21
+**Last Commit:** 2024-09-13
 
 **URL:** https://github.com/edly-io/h5pxblock
 
@@ -375,7 +375,7 @@ A new HTML XBlock that is designed with security and embedding in mind.
 
 **Status:** Active
 
-**Last Commit:** 2024-09-02
+**Last Commit:** 2024-09-09
 
 **URL:** https://github.com/open-craft/xblock-html
 
@@ -396,7 +396,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2024-09-03
+**Last Commit:** 2024-09-13
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 
@@ -530,7 +530,7 @@ each one from (Such as 'True', and 'False', or 'Agree' or 'Disagree')
 
 **Status:** Active
 
-**Last Commit:** 2024-09-02
+**Last Commit:** 2024-09-09
 
 **URL:** https://github.com/open-craft/xblock-poll
 
@@ -575,7 +575,7 @@ For each resource, we show its title, link, short summary, preview screenshot, a
 
 **Status:** Active
 
-**Last Commit:** 2024-09-05
+**Last Commit:** 2024-09-13
 
 **URL:** https://github.com/openedx/RecommenderXBlock
 
@@ -643,7 +643,7 @@ After the student submits her answer, she is able to see the instructor's answer
 
 **Status:** Active
 
-**Last Commit:** 2024-09-04
+**Last Commit:** 2024-09-09
 
 **URL:** https://github.com/openedx/xblock-submit-and-compare
 
@@ -706,7 +706,7 @@ It implements two openedx_filters pipelines to inject a form into the end unit X
 
 **Status:** Active
 
-**Last Commit:** 2024-09-05
+**Last Commit:** 2024-09-09
 
 **URL:** https://github.com/openedx/xblock-skill-tagging
 
