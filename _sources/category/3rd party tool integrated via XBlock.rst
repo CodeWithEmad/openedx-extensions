@@ -54,7 +54,7 @@ This XBlock allows embedding of Google documents and calendar, within an OpenedX
 
 **Status:** Active
 
-**Last Commit:** 2024-09-13
+**Last Commit:** 2024-09-16
 
 **URL:** https://github.com/openedx/xblock-google-drive
 
@@ -96,7 +96,7 @@ An XBlock for displaying School Yourself (SY) content on the edX platform.
 
 **Status:** Active
 
-**Last Commit:** 2024-09-09
+**Last Commit:** 2024-09-16
 
 **URL:** https://github.com/openedx/schoolyourself-xblock
 
