@@ -81,7 +81,7 @@ based on compliance with a condition that evaluates the submission or the score 
 
 **Status:** Active
 
-**Last Commit:** 2024-09-18
+**Last Commit:** 2024-09-24
 
 **URL:** https://github.com/eduNEXT/flow-control-xblock
 
