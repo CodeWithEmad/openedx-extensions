@@ -14,7 +14,7 @@ A simple edX xBlock wrapper around the GeoGebra graphing calculator widget. Note
 
 **Status:** Active
 
-**Last Commit:** 2024-01-02
+**Last Commit:** 2024-09-27
 
 **URL:** https://github.com/QueriumCorp/geogebra_xblock
 
