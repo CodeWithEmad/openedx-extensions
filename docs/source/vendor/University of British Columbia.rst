@@ -12,7 +12,7 @@ The peer instruction tool emulates the classroom experience for the learners in 
 
 **Vendor:** `University of British Columbia <https://www.ubc.ca>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2023-10-25
 

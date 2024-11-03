@@ -12,7 +12,7 @@ The peer instruction tool emulates the classroom experience for the learners in 
 
 **Vendor:** `University of British Columbia <https://www.ubc.ca>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2023-10-25
 
@@ -39,7 +39,7 @@ each one from (Such as 'True', and 'False', or 'Agree' or 'Disagree')
 
 **Status:** Active
 
-**Last Commit:** 2024-10-21
+**Last Commit:** 2024-10-28
 
 **URL:** https://github.com/open-craft/xblock-poll
 
@@ -84,7 +84,7 @@ to simulate the workflow of real-life mentoring, within an edX course.
 
 **Status:** Active
 
-**Last Commit:** 2024-10-21
+**Last Commit:** 2024-10-28
 
 **URL:** https://github.com/open-craft/problem-builder
 
