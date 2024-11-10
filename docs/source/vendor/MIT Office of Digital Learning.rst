@@ -37,7 +37,7 @@ Staff Graded Points XBlock
 
 **Status:** Active
 
-**Last Commit:** 2024-10-28
+**Last Commit:** 2024-11-04
 
 **URL:** https://github.com/openedx/staff_graded-xblock
 
