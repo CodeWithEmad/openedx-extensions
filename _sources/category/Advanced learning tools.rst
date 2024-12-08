@@ -186,7 +186,7 @@ to simulate the workflow of real-life mentoring, within an edX course.
 
 **Status:** Active
 
-**Last Commit:** 2024-11-25
+**Last Commit:** 2024-12-02
 
 **URL:** https://github.com/open-craft/problem-builder
 
@@ -209,7 +209,7 @@ It will save student state and report scores to the progress tab of the course. 
 
 **Status:** Active
 
-**Last Commit:** 2024-11-25
+**Last Commit:** 2024-12-05
 
 **URL:** https://github.com/overhangio/openedx-scorm-xblock
 
