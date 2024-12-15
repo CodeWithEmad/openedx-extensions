@@ -77,7 +77,7 @@ This is a simple XBlock which will play audio files as an HTML5 audio element. I
 
 **Status:** Active
 
-**Last Commit:** 2024-12-02
+**Last Commit:** 2024-12-09
 
 **URL:** https://github.com/openedx/AudioXBlock
 
@@ -222,7 +222,7 @@ A subclass of the new HTML XBlock that disables marking the block as completed a
 
 **Status:** Active
 
-**Last Commit:** 2024-12-02
+**Last Commit:** 2024-12-09
 
 **URL:** https://github.com/open-craft/xblock-html-completable
 
@@ -308,7 +308,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2024-12-02
+**Last Commit:** 2024-12-09
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -371,7 +371,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2024-12-02
+**Last Commit:** 2024-12-09
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -419,7 +419,7 @@ by instructors to understand which parts of a course work well and which parts w
 
 **Status:** Active
 
-**Last Commit:** 2024-12-02
+**Last Commit:** 2024-12-11
 
 **URL:** https://github.com/openedx/FeedbackXBlock
 
@@ -442,7 +442,7 @@ delete and download folders, and students to view and download them.
 
 **Status:** Active
 
-**Last Commit:** 2024-05-22
+**Last Commit:** 2024-12-14
 
 **URL:** https://github.com/eduNEXT/xblock-filesmanager
 
@@ -465,7 +465,7 @@ based on compliance with a condition that evaluates the submission or the score 
 
 **Status:** Active
 
-**Last Commit:** 2024-09-24
+**Last Commit:** 2024-12-14
 
 **URL:** https://github.com/eduNEXT/flow-control-xblock
 
@@ -489,7 +489,7 @@ for instructors to create questions that expect a free-text response.
 
 **Status:** Active
 
-**Last Commit:** 2024-12-03
+**Last Commit:** 2024-12-10
 
 **URL:** https://github.com/openedx/xblock-free-text-response
 
@@ -531,7 +531,7 @@ This XBlock allows embedding of Google documents and calendar, within an OpenedX
 
 **Status:** Active
 
-**Last Commit:** 2024-12-06
+**Last Commit:** 2024-12-09
 
 **URL:** https://github.com/openedx/xblock-google-drive
 
@@ -623,7 +623,7 @@ A new HTML XBlock that is designed with security and embedding in mind.
 
 **Status:** Active
 
-**Last Commit:** 2024-12-02
+**Last Commit:** 2024-12-09
 
 **URL:** https://github.com/open-craft/xblock-html
 
@@ -646,7 +646,7 @@ When the student clicks a hotspot icon, tooltip containing custom content is dis
 
 **Status:** Active
 
-**Last Commit:** 2024-12-02
+**Last Commit:** 2024-12-09
 
 **URL:** https://github.com/openedx/xblock-image-explorer
 
@@ -668,7 +668,7 @@ An XBlock provides a way to place dropdown questions inline with other text, for
 
 **Status:** Active
 
-**Last Commit:** 2024-12-06
+**Last Commit:** 2024-12-12
 
 **URL:** https://github.com/openedx/xblock-image-modal
 
@@ -689,7 +689,7 @@ An XBlock provides a way to place dropdown questions inline with other text, for
 
 **Status:** Active
 
-**Last Commit:** 2024-12-02
+**Last Commit:** 2024-12-09
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -774,7 +774,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2024-12-03
+**Last Commit:** 2024-12-10
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 
@@ -795,7 +795,7 @@ Mind Map XBlock is a pluggable extension to the Open edX platform that allows co
 
 **Status:** Active
 
-**Last Commit:** 2024-05-22
+**Last Commit:** 2024-12-14
 
 **URL:** https://github.com/eduNEXT/xblock-mindmap
 
@@ -929,7 +929,7 @@ each one from (Such as 'True', and 'False', or 'Agree' or 'Disagree')
 
 **Status:** Active
 
-**Last Commit:** 2024-12-02
+**Last Commit:** 2024-12-09
 
 **URL:** https://github.com/open-craft/xblock-poll
 
@@ -974,7 +974,7 @@ to simulate the workflow of real-life mentoring, within an edX course.
 
 **Status:** Active
 
-**Last Commit:** 2024-12-02
+**Last Commit:** 2024-12-09
 
 **URL:** https://github.com/open-craft/problem-builder
 
@@ -1022,7 +1022,7 @@ For each resource, we show its title, link, short summary, preview screenshot, a
 
 **Status:** Active
 
-**Last Commit:** 2024-12-06
+**Last Commit:** 2024-12-11
 
 **URL:** https://github.com/openedx/RecommenderXBlock
 
@@ -1043,7 +1043,7 @@ An XBlock for displaying School Yourself (SY) content on the edX platform.
 
 **Status:** Active
 
-**Last Commit:** 2024-12-02
+**Last Commit:** 2024-12-09
 
 **URL:** https://github.com/openedx/schoolyourself-xblock
 
@@ -1158,7 +1158,7 @@ Participants can be graded on SQL scripts, written in code editor supporting:
 
 **Status:** Active
 
-**Last Commit:** 2024-12-05
+**Last Commit:** 2024-12-12
 
 **URL:** https://github.com/openedx/xblock-sql-grader
 
@@ -1202,7 +1202,7 @@ Staff Graded Points XBlock
 
 **Status:** Active
 
-**Last Commit:** 2024-12-02
+**Last Commit:** 2024-12-09
 
 **URL:** https://github.com/openedx/staff_graded-xblock
 
@@ -1226,7 +1226,7 @@ After the student submits her answer, she is able to see the instructor's answer
 
 **Status:** Active
 
-**Last Commit:** 2024-12-02
+**Last Commit:** 2024-12-09
 
 **URL:** https://github.com/openedx/xblock-submit-and-compare
 
@@ -1287,7 +1287,7 @@ An X-block to send a payload with basic information about the course and student
 
 **Status:** Active
 
-**Last Commit:** 2024-05-19
+**Last Commit:** 2024-12-14
 
 **URL:** https://github.com/eduNEXT/webhook-xblock
 
