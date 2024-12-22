@@ -14,7 +14,7 @@ An XBlock for integrating Open edX and Skyroom. Skyroom is an Online Classroom s
 
 **Status:** Active
 
-**Last Commit:** 2024-08-07
+**Last Commit:** 2024-12-21
 
 **URL:** https://github.com/edSPIRIT/xblock-skyroom
 

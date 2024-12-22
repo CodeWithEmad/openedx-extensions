@@ -14,7 +14,7 @@ An XBlock for displaying School Yourself (SY) content on the edX platform.
 
 **Status:** Active
 
-**Last Commit:** 2024-12-09
+**Last Commit:** 2024-12-16
 
 **URL:** https://github.com/openedx/schoolyourself-xblock
 
@@ -58,7 +58,7 @@ An XBlock for integrating Open edX and Skyroom. Skyroom is an Online Classroom s
 
 **Status:** Active
 
-**Last Commit:** 2024-08-07
+**Last Commit:** 2024-12-21
 
 **URL:** https://github.com/edSPIRIT/xblock-skyroom
 
@@ -129,7 +129,7 @@ Participants can be graded on SQL scripts, written in code editor supporting:
 
 **Status:** Active
 
-**Last Commit:** 2024-12-12
+**Last Commit:** 2024-12-19
 
 **URL:** https://github.com/openedx/xblock-sql-grader
 
@@ -173,7 +173,7 @@ Staff Graded Points XBlock
 
 **Status:** Active
 
-**Last Commit:** 2024-12-09
+**Last Commit:** 2024-12-16
 
 **URL:** https://github.com/openedx/staff_graded-xblock
 
@@ -197,7 +197,7 @@ After the student submits her answer, she is able to see the instructor's answer
 
 **Status:** Active
 
-**Last Commit:** 2024-12-09
+**Last Commit:** 2024-12-16
 
 **URL:** https://github.com/openedx/xblock-submit-and-compare
 
