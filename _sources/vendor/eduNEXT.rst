@@ -58,7 +58,7 @@ delete and download folders, and students to view and download them.
 
 **Status:** Active
 
-**Last Commit:** 2024-12-14
+**Last Commit:** 2024-12-16
 
 **URL:** https://github.com/eduNEXT/xblock-filesmanager
 
@@ -81,7 +81,7 @@ based on compliance with a condition that evaluates the submission or the score 
 
 **Status:** Active
 
-**Last Commit:** 2024-12-14
+**Last Commit:** 2024-12-16
 
 **URL:** https://github.com/eduNEXT/flow-control-xblock
 
@@ -145,7 +145,7 @@ Mind Map XBlock is a pluggable extension to the Open edX platform that allows co
 
 **Status:** Active
 
-**Last Commit:** 2024-12-14
+**Last Commit:** 2024-12-16
 
 **URL:** https://github.com/eduNEXT/xblock-mindmap
 
@@ -166,7 +166,7 @@ An X-block to send a payload with basic information about the course and student
 
 **Status:** Active
 
-**Last Commit:** 2024-12-14
+**Last Commit:** 2024-12-16
 
 **URL:** https://github.com/eduNEXT/webhook-xblock
 
