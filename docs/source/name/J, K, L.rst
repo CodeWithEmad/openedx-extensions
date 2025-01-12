@@ -78,7 +78,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2024-12-31
+**Last Commit:** 2025-01-09
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 
