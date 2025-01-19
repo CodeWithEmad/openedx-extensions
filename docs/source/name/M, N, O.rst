@@ -14,7 +14,7 @@ Mind Map XBlock is a pluggable extension to the Open edX platform that allows co
 
 **Status:** Active
 
-**Last Commit:** 2024-12-16
+**Last Commit:** 2025-01-17
 
 **URL:** https://github.com/eduNEXT/xblock-mindmap
 

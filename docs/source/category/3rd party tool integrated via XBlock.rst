@@ -31,7 +31,7 @@ Cohort API used to get information about the student's cohort.
 
 **Vendor:** `eduNEXT <https://www.edunext.co>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2021-04-26
 
@@ -54,7 +54,7 @@ This XBlock allows embedding of Google documents and calendar, within an OpenedX
 
 **Status:** Active
 
-**Last Commit:** 2025-01-06
+**Last Commit:** 2025-01-13
 
 **URL:** https://github.com/openedx/xblock-google-drive
 
@@ -96,7 +96,7 @@ An XBlock for displaying School Yourself (SY) content on the edX platform.
 
 **Status:** Active
 
-**Last Commit:** 2025-01-10
+**Last Commit:** 2025-01-13
 
 **URL:** https://github.com/openedx/schoolyourself-xblock
 
@@ -117,7 +117,7 @@ An X-block to send a payload with basic information about the course and student
 
 **Status:** Active
 
-**Last Commit:** 2025-01-09
+**Last Commit:** 2025-01-14
 
 **URL:** https://github.com/eduNEXT/webhook-xblock
 
