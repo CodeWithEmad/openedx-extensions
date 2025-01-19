@@ -12,7 +12,7 @@ Cohort API used to get information about the student's cohort.
 
 **Vendor:** `eduNEXT <https://www.edunext.co>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2021-04-26
 
@@ -58,7 +58,7 @@ delete and download folders, and students to view and download them.
 
 **Status:** Active
 
-**Last Commit:** 2024-12-16
+**Last Commit:** 2025-01-17
 
 **URL:** https://github.com/eduNEXT/xblock-filesmanager
 
@@ -145,7 +145,7 @@ Mind Map XBlock is a pluggable extension to the Open edX platform that allows co
 
 **Status:** Active
 
-**Last Commit:** 2024-12-16
+**Last Commit:** 2025-01-17
 
 **URL:** https://github.com/eduNEXT/xblock-mindmap
 
@@ -166,7 +166,7 @@ An X-block to send a payload with basic information about the course and student
 
 **Status:** Active
 
-**Last Commit:** 2025-01-09
+**Last Commit:** 2025-01-14
 
 **URL:** https://github.com/eduNEXT/webhook-xblock
 

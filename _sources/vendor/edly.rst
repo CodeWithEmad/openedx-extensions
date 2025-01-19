@@ -14,7 +14,7 @@ AI Coach Xblock helps learner in improving their answers by levering power of AI
 
 **Status:** Active
 
-**Last Commit:** 2024-10-11
+**Last Commit:** 2025-01-13
 
 **URL:** https://github.com/edly-io/ai-coach-xblock
 
