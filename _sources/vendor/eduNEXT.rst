@@ -81,7 +81,7 @@ based on compliance with a condition that evaluates the submission or the score 
 
 **Status:** Active
 
-**Last Commit:** 2024-12-16
+**Last Commit:** 2025-01-23
 
 **URL:** https://github.com/eduNEXT/flow-control-xblock
 
@@ -166,7 +166,7 @@ An X-block to send a payload with basic information about the course and student
 
 **Status:** Active
 
-**Last Commit:** 2025-01-14
+**Last Commit:** 2025-01-19
 
 **URL:** https://github.com/eduNEXT/webhook-xblock
 

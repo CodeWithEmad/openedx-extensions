@@ -56,7 +56,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2025-01-13
+**Last Commit:** 2025-01-20
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -104,7 +104,7 @@ by instructors to understand which parts of a course work well and which parts w
 
 **Status:** Active
 
-**Last Commit:** 2025-01-13
+**Last Commit:** 2025-01-20
 
 **URL:** https://github.com/openedx/FeedbackXBlock
 
@@ -150,7 +150,7 @@ based on compliance with a condition that evaluates the submission or the score 
 
 **Status:** Active
 
-**Last Commit:** 2024-12-16
+**Last Commit:** 2025-01-23
 
 **URL:** https://github.com/eduNEXT/flow-control-xblock
 
@@ -174,7 +174,7 @@ for instructors to create questions that expect a free-text response.
 
 **Status:** Active
 
-**Last Commit:** 2025-01-14
+**Last Commit:** 2025-01-21
 
 **URL:** https://github.com/openedx/xblock-free-text-response
 
