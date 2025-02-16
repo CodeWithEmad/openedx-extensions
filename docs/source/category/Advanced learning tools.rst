@@ -162,7 +162,7 @@ Mind Map XBlock is a pluggable extension to the Open edX platform that allows co
 
 **Status:** Active
 
-**Last Commit:** 2025-02-04
+**Last Commit:** 2025-02-11
 
 **URL:** https://github.com/eduNEXT/xblock-mindmap
 
@@ -186,7 +186,7 @@ to simulate the workflow of real-life mentoring, within an edX course.
 
 **Status:** Active
 
-**Last Commit:** 2025-02-03
+**Last Commit:** 2025-02-10
 
 **URL:** https://github.com/open-craft/problem-builder
 
