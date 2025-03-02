@@ -14,7 +14,7 @@ AI Coach Xblock helps learner in improving their answers by levering power of AI
 
 **Status:** Active
 
-**Last Commit:** 2025-02-20
+**Last Commit:** 2025-02-28
 
 **URL:** https://github.com/edly-io/ai-coach-xblock
 
@@ -35,7 +35,7 @@ This is a simple XBlock which will play audio files as an HTML5 audio element. I
 
 **Status:** Active
 
-**Last Commit:** 2025-02-17
+**Last Commit:** 2025-02-24
 
 **URL:** https://github.com/openedx/AudioXBlock
 
@@ -100,7 +100,7 @@ A subclass of the new HTML XBlock that disables marking the block as completed a
 
 **Status:** Active
 
-**Last Commit:** 2025-02-17
+**Last Commit:** 2025-02-24
 
 **URL:** https://github.com/open-craft/xblock-html-completable
 
@@ -144,7 +144,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2025-02-17
+**Last Commit:** 2025-02-24
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -165,7 +165,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2025-02-19
+**Last Commit:** 2025-02-27
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -213,7 +213,7 @@ by instructors to understand which parts of a course work well and which parts w
 
 **Status:** Active
 
-**Last Commit:** 2025-02-17
+**Last Commit:** 2025-02-24
 
 **URL:** https://github.com/openedx/FeedbackXBlock
 
@@ -283,7 +283,7 @@ for instructors to create questions that expect a free-text response.
 
 **Status:** Active
 
-**Last Commit:** 2025-02-19
+**Last Commit:** 2025-02-25
 
 **URL:** https://github.com/openedx/xblock-free-text-response
 
@@ -375,7 +375,7 @@ A new HTML XBlock that is designed with security and embedding in mind.
 
 **Status:** Active
 
-**Last Commit:** 2025-02-17
+**Last Commit:** 2025-02-24
 
 **URL:** https://github.com/open-craft/xblock-html
 
@@ -396,7 +396,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2025-02-18
+**Last Commit:** 2025-02-25
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 
@@ -530,7 +530,7 @@ each one from (Such as 'True', and 'False', or 'Agree' or 'Disagree')
 
 **Status:** Active
 
-**Last Commit:** 2025-02-17
+**Last Commit:** 2025-02-24
 
 **URL:** https://github.com/open-craft/xblock-poll
 
@@ -643,7 +643,7 @@ After the student submits her answer, she is able to see the instructor's answer
 
 **Status:** Active
 
-**Last Commit:** 2025-02-17
+**Last Commit:** 2025-02-24
 
 **URL:** https://github.com/openedx/xblock-submit-and-compare
 
