@@ -14,7 +14,7 @@ AI Coach Xblock helps learner in improving their answers by levering power of AI
 
 **Status:** Active
 
-**Last Commit:** 2025-02-28
+**Last Commit:** 2025-03-03
 
 **URL:** https://github.com/edly-io/ai-coach-xblock
 
@@ -40,7 +40,7 @@ H5P Xblock provides ability to host and play H5P content in open edX. It has few
 
 **Status:** Active
 
-**Last Commit:** 2024-10-21
+**Last Commit:** 2025-03-07
 
 **URL:** https://github.com/edly-io/h5pxblock
 
