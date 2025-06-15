@@ -77,7 +77,7 @@ XBlock to display "Add and Continue" containers Open edX LMS.
 
 **Status:** Active
 
-**Last Commit:** 2024-11-18
+**Last Commit:** 2025-06-11
 
 **URL:** https://github.com/eol-uchile/eol-container-xblock
 
@@ -162,7 +162,7 @@ Mind Map XBlock is a pluggable extension to the Open edX platform that allows co
 
 **Status:** Active
 
-**Last Commit:** 2025-02-11
+**Last Commit:** 2025-06-10
 
 **URL:** https://github.com/eduNEXT/xblock-mindmap
 
@@ -186,7 +186,7 @@ to simulate the workflow of real-life mentoring, within an edX course.
 
 **Status:** Active
 
-**Last Commit:** 2025-06-02
+**Last Commit:** 2025-06-09
 
 **URL:** https://github.com/open-craft/problem-builder
 
