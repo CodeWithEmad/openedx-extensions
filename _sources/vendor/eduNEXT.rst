@@ -58,7 +58,7 @@ delete and download folders, and students to view and download them.
 
 **Status:** Active
 
-**Last Commit:** 2025-02-11
+**Last Commit:** 2025-06-20
 
 **URL:** https://github.com/eduNEXT/xblock-filesmanager
 
