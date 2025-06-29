@@ -222,7 +222,7 @@ A subclass of the new HTML XBlock that disables marking the block as completed a
 
 **Status:** Active
 
-**Last Commit:** 2025-06-17
+**Last Commit:** 2025-06-24
 
 **URL:** https://github.com/open-craft/xblock-html-completable
 

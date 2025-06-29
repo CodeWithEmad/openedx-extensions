@@ -222,7 +222,7 @@ A subclass of the new HTML XBlock that disables marking the block as completed a
 
 **Status:** Active
 
-**Last Commit:** 2025-06-17
+**Last Commit:** 2025-06-24
 
 **URL:** https://github.com/open-craft/xblock-html-completable
 
@@ -371,7 +371,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2025-06-17
+**Last Commit:** 2025-06-26
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -419,7 +419,7 @@ by instructors to understand which parts of a course work well and which parts w
 
 **Status:** Active
 
-**Last Commit:** 2025-06-16
+**Last Commit:** 2025-06-24
 
 **URL:** https://github.com/openedx/FeedbackXBlock
 
@@ -442,7 +442,7 @@ delete and download folders, and students to view and download them.
 
 **Status:** Active
 
-**Last Commit:** 2025-06-20
+**Last Commit:** 2025-06-23
 
 **URL:** https://github.com/eduNEXT/xblock-filesmanager
 
@@ -465,7 +465,7 @@ based on compliance with a condition that evaluates the submission or the score 
 
 **Status:** Active
 
-**Last Commit:** 2025-02-11
+**Last Commit:** 2025-06-23
 
 **URL:** https://github.com/eduNEXT/flow-control-xblock
 
@@ -489,7 +489,7 @@ for instructors to create questions that expect a free-text response.
 
 **Status:** Active
 
-**Last Commit:** 2025-06-17
+**Last Commit:** 2025-06-24
 
 **URL:** https://github.com/openedx/xblock-free-text-response
 
@@ -531,7 +531,7 @@ This XBlock allows embedding of Google documents and calendar, within an OpenedX
 
 **Status:** Active
 
-**Last Commit:** 2025-06-17
+**Last Commit:** 2025-06-24
 
 **URL:** https://github.com/openedx/xblock-google-drive
 
@@ -623,7 +623,7 @@ A new HTML XBlock that is designed with security and embedding in mind.
 
 **Status:** Active
 
-**Last Commit:** 2025-06-17
+**Last Commit:** 2025-06-24
 
 **URL:** https://github.com/open-craft/xblock-html
 
@@ -646,7 +646,7 @@ When the student clicks a hotspot icon, tooltip containing custom content is dis
 
 **Status:** Active
 
-**Last Commit:** 2025-06-17
+**Last Commit:** 2025-06-24
 
 **URL:** https://github.com/openedx/xblock-image-explorer
 
@@ -668,7 +668,7 @@ An XBlock provides a way to place dropdown questions inline with other text, for
 
 **Status:** Active
 
-**Last Commit:** 2025-06-19
+**Last Commit:** 2025-06-26
 
 **URL:** https://github.com/openedx/xblock-image-modal
 
@@ -689,7 +689,7 @@ An XBlock provides a way to place dropdown questions inline with other text, for
 
 **Status:** Active
 
-**Last Commit:** 2025-06-17
+**Last Commit:** 2025-06-26
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -774,7 +774,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2025-06-19
+**Last Commit:** 2025-06-24
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 
@@ -795,7 +795,7 @@ Mind Map XBlock is a pluggable extension to the Open edX platform that allows co
 
 **Status:** Active
 
-**Last Commit:** 2025-06-10
+**Last Commit:** 2025-06-23
 
 **URL:** https://github.com/eduNEXT/xblock-mindmap
 
@@ -929,7 +929,7 @@ each one from (Such as 'True', and 'False', or 'Agree' or 'Disagree')
 
 **Status:** Active
 
-**Last Commit:** 2025-06-17
+**Last Commit:** 2025-06-24
 
 **URL:** https://github.com/open-craft/xblock-poll
 
@@ -974,7 +974,7 @@ to simulate the workflow of real-life mentoring, within an edX course.
 
 **Status:** Active
 
-**Last Commit:** 2025-06-16
+**Last Commit:** 2025-06-23
 
 **URL:** https://github.com/open-craft/problem-builder
 
@@ -1158,7 +1158,7 @@ Participants can be graded on SQL scripts, written in code editor supporting:
 
 **Status:** Active
 
-**Last Commit:** 2025-06-19
+**Last Commit:** 2025-06-26
 
 **URL:** https://github.com/openedx/xblock-sql-grader
 
@@ -1287,7 +1287,7 @@ An X-block to send a payload with basic information about the course and student
 
 **Status:** Active
 
-**Last Commit:** 2025-03-06
+**Last Commit:** 2025-06-23
 
 **URL:** https://github.com/eduNEXT/webhook-xblock
 
@@ -1310,7 +1310,7 @@ It implements two openedx_filters pipelines to inject a form into the end unit X
 
 **Status:** Active
 
-**Last Commit:** 2025-05-19
+**Last Commit:** 2025-06-26
 
 **URL:** https://github.com/openedx/xblock-skill-tagging
 
