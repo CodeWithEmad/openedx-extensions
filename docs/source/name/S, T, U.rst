@@ -37,7 +37,7 @@ It will save student state and report scores to the progress tab of the course. 
 
 **Status:** Active
 
-**Last Commit:** 2025-03-11
+**Last Commit:** 2025-08-12
 
 **URL:** https://github.com/overhangio/openedx-scorm-xblock
 
@@ -129,7 +129,7 @@ Participants can be graded on SQL scripts, written in code editor supporting:
 
 **Status:** Active
 
-**Last Commit:** 2025-08-07
+**Last Commit:** 2025-08-14
 
 **URL:** https://github.com/openedx/xblock-sql-grader
 
@@ -173,7 +173,7 @@ Staff Graded Points XBlock
 
 **Status:** Active
 
-**Last Commit:** 2025-08-08
+**Last Commit:** 2025-08-11
 
 **URL:** https://github.com/openedx/staff_graded-xblock
 
