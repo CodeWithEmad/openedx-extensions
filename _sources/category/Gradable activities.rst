@@ -60,7 +60,7 @@ Participants can be graded on SQL scripts, written in code editor supporting:
 
 **Status:** Active
 
-**Last Commit:** 2025-08-14
+**Last Commit:** 2025-08-21
 
 **URL:** https://github.com/openedx/xblock-sql-grader
 
@@ -104,7 +104,7 @@ Staff Graded Points XBlock
 
 **Status:** Active
 
-**Last Commit:** 2025-08-11
+**Last Commit:** 2025-08-18
 
 **URL:** https://github.com/openedx/staff_graded-xblock
 
