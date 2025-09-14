@@ -14,7 +14,7 @@ An XBlock for displaying School Yourself (SY) content on the edX platform.
 
 **Status:** Active
 
-**Last Commit:** 2025-09-01
+**Last Commit:** 2025-09-08
 
 **URL:** https://github.com/openedx/schoolyourself-xblock
 
@@ -129,7 +129,7 @@ Participants can be graded on SQL scripts, written in code editor supporting:
 
 **Status:** Active
 
-**Last Commit:** 2025-09-04
+**Last Commit:** 2025-09-11
 
 **URL:** https://github.com/openedx/xblock-sql-grader
 
@@ -173,7 +173,7 @@ Staff Graded Points XBlock
 
 **Status:** Active
 
-**Last Commit:** 2025-09-01
+**Last Commit:** 2025-09-10
 
 **URL:** https://github.com/openedx/staff_graded-xblock
 
@@ -197,7 +197,7 @@ After the student submits her answer, she is able to see the instructor's answer
 
 **Status:** Active
 
-**Last Commit:** 2025-09-01
+**Last Commit:** 2025-09-08
 
 **URL:** https://github.com/openedx/xblock-submit-and-compare
 
