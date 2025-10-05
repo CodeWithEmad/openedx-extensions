@@ -39,7 +39,7 @@ each one from (Such as 'True', and 'False', or 'Agree' or 'Disagree')
 
 **Status:** Active
 
-**Last Commit:** 2025-09-22
+**Last Commit:** 2025-09-29
 
 **URL:** https://github.com/open-craft/xblock-poll
 
@@ -84,7 +84,7 @@ to simulate the workflow of real-life mentoring, within an edX course.
 
 **Status:** Active
 
-**Last Commit:** 2025-09-22
+**Last Commit:** 2025-09-29
 
 **URL:** https://github.com/open-craft/problem-builder
 
@@ -132,7 +132,7 @@ For each resource, we show its title, link, short summary, preview screenshot, a
 
 **Status:** Active
 
-**Last Commit:** 2025-09-10
+**Last Commit:** 2025-10-01
 
 **URL:** https://github.com/openedx/RecommenderXBlock
 
