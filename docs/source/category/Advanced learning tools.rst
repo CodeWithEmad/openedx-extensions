@@ -56,7 +56,7 @@ XBlock to show/hide one or more conditional component by a trigger component in 
 
 **Status:** Active
 
-**Last Commit:** 2025-05-12
+**Last Commit:** 2025-10-15
 
 **URL:** https://github.com/eol-uchile/eol-conditional-xblock
 
@@ -98,7 +98,7 @@ XBlock to display "Add and Continue" Dialogs Open edX LMS.
 
 **Status:** Active
 
-**Last Commit:** 2025-10-01
+**Last Commit:** 2025-10-15
 
 **URL:** https://github.com/eol-uchile/eol-dialogs-xblock
 
@@ -162,7 +162,7 @@ Mind Map XBlock is a pluggable extension to the Open edX platform that allows co
 
 **Status:** Active
 
-**Last Commit:** 2025-06-23
+**Last Commit:** 2025-10-14
 
 **URL:** https://github.com/eduNEXT/xblock-mindmap
 
@@ -186,7 +186,7 @@ to simulate the workflow of real-life mentoring, within an edX course.
 
 **Status:** Active
 
-**Last Commit:** 2025-10-06
+**Last Commit:** 2025-10-13
 
 **URL:** https://github.com/open-craft/problem-builder
 

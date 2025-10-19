@@ -77,7 +77,7 @@ This is a simple XBlock which will play audio files as an HTML5 audio element. I
 
 **Status:** Active
 
-**Last Commit:** 2025-10-06
+**Last Commit:** 2025-10-13
 
 **URL:** https://github.com/openedx/AudioXBlock
 
@@ -222,7 +222,7 @@ A subclass of the new HTML XBlock that disables marking the block as completed a
 
 **Status:** Active
 
-**Last Commit:** 2025-10-06
+**Last Commit:** 2025-10-13
 
 **URL:** https://github.com/open-craft/xblock-html-completable
 
@@ -264,7 +264,7 @@ XBlock to show/hide one or more conditional component by a trigger component in 
 
 **Status:** Active
 
-**Last Commit:** 2025-05-12
+**Last Commit:** 2025-10-15
 
 **URL:** https://github.com/eol-uchile/eol-conditional-xblock
 
@@ -308,7 +308,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2025-10-06
+**Last Commit:** 2025-10-13
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
