@@ -35,7 +35,7 @@ This XBlock allows embedding of Google documents and calendar, within an OpenedX
 
 **Status:** Active
 
-**Last Commit:** 2025-10-13
+**Last Commit:** 2025-10-20
 
 **URL:** https://github.com/openedx/xblock-google-drive
 
@@ -106,7 +106,7 @@ H5P Xblock provides ability to host and play H5P content in open edX. It has few
 
 **Status:** Active
 
-**Last Commit:** 2025-03-11
+**Last Commit:** 2025-10-24
 
 **URL:** https://github.com/edly-io/h5pxblock
 
@@ -127,7 +127,7 @@ A new HTML XBlock that is designed with security and embedding in mind.
 
 **Status:** Active
 
-**Last Commit:** 2025-10-13
+**Last Commit:** 2025-10-20
 
 **URL:** https://github.com/open-craft/xblock-html
 
@@ -150,7 +150,7 @@ When the student clicks a hotspot icon, tooltip containing custom content is dis
 
 **Status:** Active
 
-**Last Commit:** 2025-10-13
+**Last Commit:** 2025-10-20
 
 **URL:** https://github.com/openedx/xblock-image-explorer
 
@@ -172,7 +172,7 @@ An XBlock provides a way to place dropdown questions inline with other text, for
 
 **Status:** Active
 
-**Last Commit:** 2025-10-16
+**Last Commit:** 2025-10-23
 
 **URL:** https://github.com/openedx/xblock-image-modal
 
@@ -193,7 +193,7 @@ An XBlock provides a way to place dropdown questions inline with other text, for
 
 **Status:** Active
 
-**Last Commit:** 2025-10-13
+**Last Commit:** 2025-10-20
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 

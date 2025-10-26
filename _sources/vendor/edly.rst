@@ -40,7 +40,7 @@ H5P Xblock provides ability to host and play H5P content in open edX. It has few
 
 **Status:** Active
 
-**Last Commit:** 2025-03-11
+**Last Commit:** 2025-10-24
 
 **URL:** https://github.com/edly-io/h5pxblock
 

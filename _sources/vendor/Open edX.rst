@@ -14,7 +14,7 @@ This is a simple XBlock which will play audio files as an HTML5 audio element. I
 
 **Status:** Active
 
-**Last Commit:** 2025-10-13
+**Last Commit:** 2025-10-20
 
 **URL:** https://github.com/openedx/AudioXBlock
 
@@ -60,7 +60,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2025-10-13
+**Last Commit:** 2025-10-20
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -81,7 +81,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2025-10-13
+**Last Commit:** 2025-10-20
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -105,7 +105,7 @@ by instructors to understand which parts of a course work well and which parts w
 
 **Status:** Active
 
-**Last Commit:** 2025-10-13
+**Last Commit:** 2025-10-20
 
 **URL:** https://github.com/openedx/FeedbackXBlock
 
@@ -129,7 +129,7 @@ for instructors to create questions that expect a free-text response.
 
 **Status:** Active
 
-**Last Commit:** 2025-10-14
+**Last Commit:** 2025-10-21
 
 **URL:** https://github.com/openedx/xblock-free-text-response
 
@@ -150,7 +150,7 @@ This XBlock allows embedding of Google documents and calendar, within an OpenedX
 
 **Status:** Active
 
-**Last Commit:** 2025-10-13
+**Last Commit:** 2025-10-20
 
 **URL:** https://github.com/openedx/xblock-google-drive
 
@@ -173,7 +173,7 @@ When the student clicks a hotspot icon, tooltip containing custom content is dis
 
 **Status:** Active
 
-**Last Commit:** 2025-10-13
+**Last Commit:** 2025-10-20
 
 **URL:** https://github.com/openedx/xblock-image-explorer
 
@@ -195,7 +195,7 @@ An XBlock provides a way to place dropdown questions inline with other text, for
 
 **Status:** Active
 
-**Last Commit:** 2025-10-16
+**Last Commit:** 2025-10-23
 
 **URL:** https://github.com/openedx/xblock-image-modal
 
@@ -216,7 +216,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2025-10-14
+**Last Commit:** 2025-10-21
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 
@@ -261,7 +261,7 @@ An XBlock for displaying School Yourself (SY) content on the edX platform.
 
 **Status:** Active
 
-**Last Commit:** 2025-10-13
+**Last Commit:** 2025-10-20
 
 **URL:** https://github.com/openedx/schoolyourself-xblock
 
@@ -284,7 +284,7 @@ It will save student state and report scores to the progress tab of the course. 
 
 **Status:** Active
 
-**Last Commit:** 2025-08-25
+**Last Commit:** 2025-10-24
 
 **URL:** https://github.com/overhangio/openedx-scorm-xblock
 
@@ -311,7 +311,7 @@ Participants can be graded on SQL scripts, written in code editor supporting:
 
 **Status:** Active
 
-**Last Commit:** 2025-10-16
+**Last Commit:** 2025-10-23
 
 **URL:** https://github.com/openedx/xblock-sql-grader
 
@@ -335,7 +335,7 @@ After the student submits her answer, she is able to see the instructor's answer
 
 **Status:** Active
 
-**Last Commit:** 2025-10-13
+**Last Commit:** 2025-10-20
 
 **URL:** https://github.com/openedx/xblock-submit-and-compare
 
