@@ -38,7 +38,7 @@ An XBlock provides a way to place dropdown questions inline with other text, for
 
 **Status:** Active
 
-**Last Commit:** 2025-10-23
+**Last Commit:** 2025-10-30
 
 **URL:** https://github.com/openedx/xblock-image-modal
 

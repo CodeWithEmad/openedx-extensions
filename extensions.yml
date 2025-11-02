@@ -310,7 +310,7 @@ xblocks:
     url: https://github.com/edly-io/h5pxblock
     image: docs/_images/h5p-xblock.png
     status: Active
-    last_commit: 2025-10-24
+    last_commit: 2025-10-28
 
   - name: HTML XBlock
     description: A new HTML XBlock that is designed with security and embedding in mind.
@@ -342,7 +342,7 @@ xblocks:
     url: https://github.com/openedx/xblock-image-modal
     youtube: 0mpjuThDoyE
     status: Active
-    last_commit: 2025-10-23
+    last_commit: 2025-10-30
 
   - name: Inline Dropdown XBlock
     description: An XBlock provides a way to place dropdown questions inline with other text, for example, in a paragraph.
@@ -551,7 +551,7 @@ xblocks:
     url: https://github.com/overhangio/openedx-scorm-xblock
     image: docs/_images/scorm-xblock.png
     status: Active
-    last_commit: 2025-10-24
+    last_commit: 2025-10-27
 
   - name: Skyroom XBlock
     description: An XBlock for integrating Open edX and Skyroom. Skyroom is an Online Classroom service.
@@ -596,7 +596,7 @@ xblocks:
     vendor: Open edX
     url: https://github.com/openedx/xblock-sql-grader
     status: Active
-    last_commit: 2025-10-23
+    last_commit: 2025-10-30
 
   - name: Staff Graded Assignment XBlock
     description: |
@@ -673,4 +673,4 @@ xblocks:
     url: https://github.com/openedx/xblock-skill-tagging
     image: docs/_images/xblock-skill-tagging-1.png
     status: Active
-    last_commit: 2025-08-21
+    last_commit: 2025-10-30

@@ -354,7 +354,7 @@ H5P Xblock provides ability to host and play H5P content in open edX. It has few
 
 **Status:** Active
 
-**Last Commit:** 2025-10-24
+**Last Commit:** 2025-10-28
 
 **URL:** https://github.com/edly-io/h5pxblock
 
@@ -706,7 +706,7 @@ It implements two openedx_filters pipelines to inject a form into the end unit X
 
 **Status:** Active
 
-**Last Commit:** 2025-08-21
+**Last Commit:** 2025-10-30
 
 **URL:** https://github.com/openedx/xblock-skill-tagging
 

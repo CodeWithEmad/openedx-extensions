@@ -209,7 +209,7 @@ It will save student state and report scores to the progress tab of the course. 
 
 **Status:** Active
 
-**Last Commit:** 2025-10-24
+**Last Commit:** 2025-10-27
 
 **URL:** https://github.com/overhangio/openedx-scorm-xblock
 
