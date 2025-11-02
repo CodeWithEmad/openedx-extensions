@@ -106,7 +106,7 @@ H5P Xblock provides ability to host and play H5P content in open edX. It has few
 
 **Status:** Active
 
-**Last Commit:** 2025-10-24
+**Last Commit:** 2025-10-28
 
 **URL:** https://github.com/edly-io/h5pxblock
 
@@ -172,7 +172,7 @@ An XBlock provides a way to place dropdown questions inline with other text, for
 
 **Status:** Active
 
-**Last Commit:** 2025-10-23
+**Last Commit:** 2025-10-30
 
 **URL:** https://github.com/openedx/xblock-image-modal
 
