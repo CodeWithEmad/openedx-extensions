@@ -264,7 +264,7 @@ XBlock to show/hide one or more conditional component by a trigger component in 
 
 **Status:** Active
 
-**Last Commit:** 2025-10-15
+**Last Commit:** 2025-11-05
 
 **URL:** https://github.com/eol-uchile/eol-conditional-xblock
 
@@ -308,7 +308,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2025-10-20
+**Last Commit:** 2025-11-03
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
