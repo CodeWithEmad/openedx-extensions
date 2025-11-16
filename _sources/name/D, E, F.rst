@@ -14,7 +14,7 @@ XBlock to display "Add and Continue" Dialogs Open edX LMS.
 
 **Status:** Active
 
-**Last Commit:** 2025-11-05
+**Last Commit:** 2025-11-10
 
 **URL:** https://github.com/eol-uchile/eol-dialogs-xblock
 
@@ -104,7 +104,7 @@ by instructors to understand which parts of a course work well and which parts w
 
 **Status:** Active
 
-**Last Commit:** 2025-11-07
+**Last Commit:** 2025-11-10
 
 **URL:** https://github.com/openedx/FeedbackXBlock
 
