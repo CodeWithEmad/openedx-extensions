@@ -131,7 +131,7 @@ xblocks:
     url: https://github.com/eol-uchile/eol-conditional-xblock
     image: docs/_images/eol-conditional-xblock.png
     status: Active
-    last_commit: 2025-11-05
+    last_commit: 2025-11-10
 
   - name: Container XBlock
     description: XBlock to display "Add and Continue" containers Open edX LMS.
@@ -142,7 +142,7 @@ xblocks:
     url: https://github.com/eol-uchile/eol-container-xblock
     image: docs/_images/eol-container-xblock.png
     status: Active
-    last_commit: 2025-06-11
+    last_commit: 2025-11-11
 
   - name: Crowdsource Hinter XBlock
     description: |
@@ -154,7 +154,7 @@ xblocks:
     url: https://github.com/openedx/crowdsourcehinter
     image: docs/_images/crowdsource-hinter-xblock.png
     status: Active
-    last_commit: 2025-11-03
+    last_commit: 2025-11-10
 
   # D
   - name: Dialogs XBlock
@@ -166,7 +166,7 @@ xblocks:
     url: https://github.com/eol-uchile/eol-dialogs-xblock
     image: docs/_images/eol-dialogs-xblock.png
     status: Active
-    last_commit: 2025-11-05
+    last_commit: 2025-11-10
 
   - name: Done XBlock
     description: An XBlock that let student mark when they finish an activity.
@@ -211,7 +211,7 @@ xblocks:
     vendor: Open edX
     url: https://github.com/openedx/FeedbackXBlock
     status: Active
-    last_commit: 2025-11-07
+    last_commit: 2025-11-10
 
   - name: Files Manager XBlock
     description: |
@@ -395,7 +395,7 @@ xblocks:
     vendor: Open edX
     url: https://github.com/openedx/xblock-lti-consumer
     status: Active
-    last_commit: 2025-11-07
+    last_commit: 2025-11-10
 
   # M
   - name: MindMap XBlock
@@ -526,7 +526,7 @@ xblocks:
     url: https://github.com/openedx/RecommenderXBlock
     image: docs/_images/recommender-xblock.png
     status: Active
-    last_commit: 2025-11-06
+    last_commit: 2025-11-11
 
   # S
   - name: SchoolYourself XBlock

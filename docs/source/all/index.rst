@@ -264,7 +264,7 @@ XBlock to show/hide one or more conditional component by a trigger component in 
 
 **Status:** Active
 
-**Last Commit:** 2025-11-05
+**Last Commit:** 2025-11-10
 
 **URL:** https://github.com/eol-uchile/eol-conditional-xblock
 
@@ -285,7 +285,7 @@ XBlock to display "Add and Continue" containers Open edX LMS.
 
 **Status:** Active
 
-**Last Commit:** 2025-06-11
+**Last Commit:** 2025-11-11
 
 **URL:** https://github.com/eol-uchile/eol-container-xblock
 
@@ -308,7 +308,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2025-11-03
+**Last Commit:** 2025-11-10
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -329,7 +329,7 @@ XBlock to display "Add and Continue" Dialogs Open edX LMS.
 
 **Status:** Active
 
-**Last Commit:** 2025-11-05
+**Last Commit:** 2025-11-10
 
 **URL:** https://github.com/eol-uchile/eol-dialogs-xblock
 
@@ -419,7 +419,7 @@ by instructors to understand which parts of a course work well and which parts w
 
 **Status:** Active
 
-**Last Commit:** 2025-11-07
+**Last Commit:** 2025-11-10
 
 **URL:** https://github.com/openedx/FeedbackXBlock
 
@@ -774,7 +774,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2025-11-07
+**Last Commit:** 2025-11-10
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 
@@ -1022,7 +1022,7 @@ For each resource, we show its title, link, short summary, preview screenshot, a
 
 **Status:** Active
 
-**Last Commit:** 2025-11-06
+**Last Commit:** 2025-11-11
 
 **URL:** https://github.com/openedx/RecommenderXBlock
 
