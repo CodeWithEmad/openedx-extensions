@@ -142,7 +142,7 @@ xblocks:
     url: https://github.com/eol-uchile/eol-container-xblock
     image: docs/_images/eol-container-xblock.png
     status: Active
-    last_commit: 2025-11-11
+    last_commit: 2025-11-21
 
   - name: Crowdsource Hinter XBlock
     description: |
@@ -154,7 +154,7 @@ xblocks:
     url: https://github.com/openedx/crowdsourcehinter
     image: docs/_images/crowdsource-hinter-xblock.png
     status: Active
-    last_commit: 2025-11-10
+    last_commit: 2025-11-17
 
   # D
   - name: Dialogs XBlock
@@ -211,7 +211,7 @@ xblocks:
     vendor: Open edX
     url: https://github.com/openedx/FeedbackXBlock
     status: Active
-    last_commit: 2025-11-10
+    last_commit: 2025-11-21
 
   - name: Files Manager XBlock
     description: |
