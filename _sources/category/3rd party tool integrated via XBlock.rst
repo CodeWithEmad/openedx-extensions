@@ -54,7 +54,7 @@ This XBlock allows embedding of Google documents and calendar, within an OpenedX
 
 **Status:** Active
 
-**Last Commit:** 2025-10-20
+**Last Commit:** 2025-11-24
 
 **URL:** https://github.com/openedx/xblock-google-drive
 

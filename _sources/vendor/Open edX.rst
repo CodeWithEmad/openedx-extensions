@@ -14,7 +14,7 @@ This is a simple XBlock which will play audio files as an HTML5 audio element. I
 
 **Status:** Active
 
-**Last Commit:** 2025-10-20
+**Last Commit:** 2025-11-25
 
 **URL:** https://github.com/openedx/AudioXBlock
 
@@ -60,7 +60,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2025-11-17
+**Last Commit:** 2025-11-24
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -81,7 +81,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2025-10-20
+**Last Commit:** 2025-11-25
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -105,7 +105,7 @@ by instructors to understand which parts of a course work well and which parts w
 
 **Status:** Active
 
-**Last Commit:** 2025-11-21
+**Last Commit:** 2025-11-26
 
 **URL:** https://github.com/openedx/FeedbackXBlock
 
@@ -150,7 +150,7 @@ This XBlock allows embedding of Google documents and calendar, within an OpenedX
 
 **Status:** Active
 
-**Last Commit:** 2025-10-20
+**Last Commit:** 2025-11-24
 
 **URL:** https://github.com/openedx/xblock-google-drive
 
@@ -173,7 +173,7 @@ When the student clicks a hotspot icon, tooltip containing custom content is dis
 
 **Status:** Active
 
-**Last Commit:** 2025-10-20
+**Last Commit:** 2025-11-24
 
 **URL:** https://github.com/openedx/xblock-image-explorer
 
@@ -216,7 +216,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2025-11-10
+**Last Commit:** 2025-11-24
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 
@@ -240,7 +240,7 @@ For each resource, we show its title, link, short summary, preview screenshot, a
 
 **Status:** Active
 
-**Last Commit:** 2025-11-11
+**Last Commit:** 2025-11-24
 
 **URL:** https://github.com/openedx/RecommenderXBlock
 
@@ -379,7 +379,7 @@ It implements two openedx_filters pipelines to inject a form into the end unit X
 
 **Status:** Active
 
-**Last Commit:** 2025-10-30
+**Last Commit:** 2025-11-27
 
 **URL:** https://github.com/openedx/xblock-skill-tagging
 

@@ -77,7 +77,7 @@ It implements two openedx_filters pipelines to inject a form into the end unit X
 
 **Status:** Active
 
-**Last Commit:** 2025-10-30
+**Last Commit:** 2025-11-27
 
 **URL:** https://github.com/openedx/xblock-skill-tagging
 
