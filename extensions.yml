@@ -38,7 +38,7 @@ xblocks:
     vendor: Open edX
     url: https://github.com/openedx/AudioXBlock
     status: Active
-    last_commit: 2025-10-20
+    last_commit: 2025-11-25
 
   - name: Azure Media Services xBlock
     description: This xBlock allows for the inclusion of videos that are hosted on Azure Media Services inside of Open edX courses.
@@ -110,7 +110,7 @@ xblocks:
     vendor: OpenCraft
     url: https://github.com/open-craft/xblock-html-completable
     status: Active
-    last_commit: 2025-10-20
+    last_commit: 2025-11-24
 
   - name: Conditional Language preferences XBlock
     description: No description provided
@@ -154,7 +154,7 @@ xblocks:
     url: https://github.com/openedx/crowdsourcehinter
     image: docs/_images/crowdsource-hinter-xblock.png
     status: Active
-    last_commit: 2025-11-17
+    last_commit: 2025-11-24
 
   # D
   - name: Dialogs XBlock
@@ -185,7 +185,7 @@ xblocks:
     url: https://github.com/openedx/xblock-drag-and-drop-v2
     image: docs/_images/drag-and-drop-problem-xblock.png
     status: Active
-    last_commit: 2025-10-20
+    last_commit: 2025-11-25
 
   # E
   - name: End of Course Journal XBlock
@@ -211,7 +211,7 @@ xblocks:
     vendor: Open edX
     url: https://github.com/openedx/FeedbackXBlock
     status: Active
-    last_commit: 2025-11-21
+    last_commit: 2025-11-26
 
   - name: Files Manager XBlock
     description: |
@@ -270,7 +270,7 @@ xblocks:
     url: https://github.com/openedx/xblock-google-drive
     image: docs/_images/google-drive-calendar-xblock.png
     status: Active
-    last_commit: 2025-10-20
+    last_commit: 2025-11-24
 
   - name: Grade Fetcher XBlock
     description: |
@@ -319,7 +319,7 @@ xblocks:
     vendor: OpenCraft
     url: https://github.com/open-craft/xblock-html
     status: Active
-    last_commit: 2025-10-20
+    last_commit: 2025-11-24
 
   # I
   - name: Image Explorer XBlock
@@ -332,7 +332,7 @@ xblocks:
     url: https://github.com/openedx/xblock-image-explorer
     image: docs/_images/image-explorer-xblock.png
     status: Active
-    last_commit: 2025-10-20
+    last_commit: 2025-11-24
 
   - name: Image Modal XBlock
     description: An XBlock provides a way to place dropdown questions inline with other text, for example, in a paragraph.
@@ -352,7 +352,7 @@ xblocks:
     url: https://github.com/openedx/xblock-drag-and-drop-v2
     image: docs/_images/inline-dropdown-xblock.png
     status: Active
-    last_commit: 2025-10-20
+    last_commit: 2025-11-25
 
   # J
   - name: Jupyter Notebook Viewer
@@ -395,7 +395,7 @@ xblocks:
     vendor: Open edX
     url: https://github.com/openedx/xblock-lti-consumer
     status: Active
-    last_commit: 2025-11-10
+    last_commit: 2025-11-24
 
   # M
   - name: MindMap XBlock
@@ -476,7 +476,7 @@ xblocks:
     url: https://github.com/open-craft/xblock-poll
     image: docs/_images/poll-xblock.png
     status: Active
-    last_commit: 2025-10-20
+    last_commit: 2025-11-24
 
   - name: PrismJS XBlock
     description: XBlock for Syntax Highlighting with ``Prism.js``
@@ -526,7 +526,7 @@ xblocks:
     url: https://github.com/openedx/RecommenderXBlock
     image: docs/_images/recommender-xblock.png
     status: Active
-    last_commit: 2025-11-11
+    last_commit: 2025-11-24
 
   # S
   - name: SchoolYourself XBlock
@@ -608,7 +608,7 @@ xblocks:
     url: https://github.com/mitodl/edx-sga
     image: docs/_images/staff-graded-assignment-xblock.png
     status: Active
-    last_commit: 2025-08-04
+    last_commit: 2025-11-24
 
   - name: Staff Graded XBlock
     description: Staff Graded Points XBlock
@@ -617,7 +617,7 @@ xblocks:
     vendor: MIT Office of Digital Learning
     url: https://github.com/openedx/staff_graded-xblock
     status: Active
-    last_commit: 2025-11-06
+    last_commit: 2025-11-24
 
   - name: Submit and Compare XBlock
     description: |
@@ -673,4 +673,4 @@ xblocks:
     url: https://github.com/openedx/xblock-skill-tagging
     image: docs/_images/xblock-skill-tagging-1.png
     status: Active
-    last_commit: 2025-10-30
+    last_commit: 2025-11-27
