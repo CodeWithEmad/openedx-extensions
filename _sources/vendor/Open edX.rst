@@ -60,7 +60,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2025-11-24
+**Last Commit:** 2025-12-01
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -81,7 +81,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2025-11-25
+**Last Commit:** 2025-12-01
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -105,7 +105,7 @@ by instructors to understand which parts of a course work well and which parts w
 
 **Status:** Active
 
-**Last Commit:** 2025-11-26
+**Last Commit:** 2025-12-01
 
 **URL:** https://github.com/openedx/FeedbackXBlock
 
@@ -150,7 +150,7 @@ This XBlock allows embedding of Google documents and calendar, within an OpenedX
 
 **Status:** Active
 
-**Last Commit:** 2025-11-24
+**Last Commit:** 2025-12-01
 
 **URL:** https://github.com/openedx/xblock-google-drive
 
@@ -173,7 +173,7 @@ When the student clicks a hotspot icon, tooltip containing custom content is dis
 
 **Status:** Active
 
-**Last Commit:** 2025-11-24
+**Last Commit:** 2025-12-01
 
 **URL:** https://github.com/openedx/xblock-image-explorer
 
@@ -240,7 +240,7 @@ For each resource, we show its title, link, short summary, preview screenshot, a
 
 **Status:** Active
 
-**Last Commit:** 2025-11-24
+**Last Commit:** 2025-12-03
 
 **URL:** https://github.com/openedx/RecommenderXBlock
 
