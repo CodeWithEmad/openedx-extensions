@@ -222,7 +222,7 @@ A subclass of the new HTML XBlock that disables marking the block as completed a
 
 **Status:** Active
 
-**Last Commit:** 2025-11-24
+**Last Commit:** 2025-12-01
 
 **URL:** https://github.com/open-craft/xblock-html-completable
 
@@ -308,7 +308,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2025-11-24
+**Last Commit:** 2025-12-01
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -371,7 +371,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2025-11-25
+**Last Commit:** 2025-12-01
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -419,7 +419,7 @@ by instructors to understand which parts of a course work well and which parts w
 
 **Status:** Active
 
-**Last Commit:** 2025-11-26
+**Last Commit:** 2025-12-01
 
 **URL:** https://github.com/openedx/FeedbackXBlock
 
@@ -531,7 +531,7 @@ This XBlock allows embedding of Google documents and calendar, within an OpenedX
 
 **Status:** Active
 
-**Last Commit:** 2025-11-24
+**Last Commit:** 2025-12-01
 
 **URL:** https://github.com/openedx/xblock-google-drive
 
@@ -623,7 +623,7 @@ A new HTML XBlock that is designed with security and embedding in mind.
 
 **Status:** Active
 
-**Last Commit:** 2025-11-24
+**Last Commit:** 2025-12-01
 
 **URL:** https://github.com/open-craft/xblock-html
 
@@ -646,7 +646,7 @@ When the student clicks a hotspot icon, tooltip containing custom content is dis
 
 **Status:** Active
 
-**Last Commit:** 2025-11-24
+**Last Commit:** 2025-12-01
 
 **URL:** https://github.com/openedx/xblock-image-explorer
 
@@ -689,7 +689,7 @@ An XBlock provides a way to place dropdown questions inline with other text, for
 
 **Status:** Active
 
-**Last Commit:** 2025-11-25
+**Last Commit:** 2025-12-01
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -929,7 +929,7 @@ each one from (Such as 'True', and 'False', or 'Agree' or 'Disagree')
 
 **Status:** Active
 
-**Last Commit:** 2025-11-24
+**Last Commit:** 2025-12-01
 
 **URL:** https://github.com/open-craft/xblock-poll
 
@@ -974,7 +974,7 @@ to simulate the workflow of real-life mentoring, within an edX course.
 
 **Status:** Active
 
-**Last Commit:** 2025-10-20
+**Last Commit:** 2025-12-03
 
 **URL:** https://github.com/open-craft/problem-builder
 
@@ -1022,7 +1022,7 @@ For each resource, we show its title, link, short summary, preview screenshot, a
 
 **Status:** Active
 
-**Last Commit:** 2025-11-24
+**Last Commit:** 2025-12-03
 
 **URL:** https://github.com/openedx/RecommenderXBlock
 
@@ -1202,7 +1202,7 @@ Staff Graded Points XBlock
 
 **Status:** Active
 
-**Last Commit:** 2025-11-24
+**Last Commit:** 2025-12-03
 
 **URL:** https://github.com/openedx/staff_graded-xblock
 
