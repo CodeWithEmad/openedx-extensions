@@ -16,7 +16,7 @@ When the student clicks a hotspot icon, tooltip containing custom content is dis
 
 **Status:** Active
 
-**Last Commit:** 2025-12-01
+**Last Commit:** 2025-12-08
 
 **URL:** https://github.com/openedx/xblock-image-explorer
 
@@ -59,7 +59,7 @@ An XBlock provides a way to place dropdown questions inline with other text, for
 
 **Status:** Active
 
-**Last Commit:** 2025-12-01
+**Last Commit:** 2025-12-08
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
