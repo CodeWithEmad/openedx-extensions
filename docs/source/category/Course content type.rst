@@ -100,7 +100,7 @@ A subclass of the new HTML XBlock that disables marking the block as completed a
 
 **Status:** Active
 
-**Last Commit:** 2025-12-08
+**Last Commit:** 2025-12-15
 
 **URL:** https://github.com/open-craft/xblock-html-completable
 
@@ -144,7 +144,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2025-12-08
+**Last Commit:** 2025-12-15
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -165,7 +165,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2025-12-08
+**Last Commit:** 2025-12-15
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -213,7 +213,7 @@ by instructors to understand which parts of a course work well and which parts w
 
 **Status:** Active
 
-**Last Commit:** 2025-12-08
+**Last Commit:** 2025-12-15
 
 **URL:** https://github.com/openedx/FeedbackXBlock
 
@@ -283,7 +283,7 @@ for instructors to create questions that expect a free-text response.
 
 **Status:** Active
 
-**Last Commit:** 2025-10-21
+**Last Commit:** 2025-12-15
 
 **URL:** https://github.com/openedx/xblock-free-text-response
 
@@ -375,7 +375,7 @@ A new HTML XBlock that is designed with security and embedding in mind.
 
 **Status:** Active
 
-**Last Commit:** 2025-12-08
+**Last Commit:** 2025-12-15
 
 **URL:** https://github.com/open-craft/xblock-html
 
@@ -396,7 +396,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2025-11-24
+**Last Commit:** 2025-12-16
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 
@@ -530,7 +530,7 @@ each one from (Such as 'True', and 'False', or 'Agree' or 'Disagree')
 
 **Status:** Active
 
-**Last Commit:** 2025-12-08
+**Last Commit:** 2025-12-15
 
 **URL:** https://github.com/open-craft/xblock-poll
 
@@ -594,7 +594,7 @@ An XBlock for integrating Open edX and Skytap. With this XBlock, you to create v
 
 **Vendor:** `OpenCraft <https://opencraft.com>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2020-06-30
 
@@ -643,7 +643,7 @@ After the student submits her answer, she is able to see the instructor's answer
 
 **Status:** Active
 
-**Last Commit:** 2025-10-20
+**Last Commit:** 2025-12-15
 
 **URL:** https://github.com/openedx/xblock-submit-and-compare
 

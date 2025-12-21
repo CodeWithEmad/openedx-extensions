@@ -117,9 +117,9 @@ This tool implements a group project, where a group of students work together on
 
 **Vendor:** `OpenCraft <https://opencraft.com>`__
 
-**Status:** Active
+**Status:** Archived
 
-**Last Commit:** 2023-01-06
+**Last Commit:** 2025-12-18
 
 **URL:** https://github.com/open-craft/xblock-group-project-v2
 
