@@ -56,7 +56,7 @@ A subclass of the new HTML XBlock that disables marking the block as completed a
 
 **Status:** Active
 
-**Last Commit:** 2025-12-08
+**Last Commit:** 2025-12-15
 
 **URL:** https://github.com/open-craft/xblock-html-completable
 
@@ -99,9 +99,9 @@ This tool implements a group project, where a group of students work together on
 
 **Vendor:** `OpenCraft <https://opencraft.com>`__
 
-**Status:** Active
+**Status:** Archived
 
-**Last Commit:** 2023-01-06
+**Last Commit:** 2025-12-18
 
 **URL:** https://github.com/open-craft/xblock-group-project-v2
 
@@ -122,7 +122,7 @@ A new HTML XBlock that is designed with security and embedding in mind.
 
 **Status:** Active
 
-**Last Commit:** 2025-12-08
+**Last Commit:** 2025-12-15
 
 **URL:** https://github.com/open-craft/xblock-html
 
@@ -168,7 +168,7 @@ each one from (Such as 'True', and 'False', or 'Agree' or 'Disagree')
 
 **Status:** Active
 
-**Last Commit:** 2025-12-08
+**Last Commit:** 2025-12-15
 
 **URL:** https://github.com/open-craft/xblock-poll
 
@@ -187,7 +187,7 @@ An XBlock for integrating Open edX and Skytap. With this XBlock, you to create v
 
 **Vendor:** `OpenCraft <https://opencraft.com>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2020-06-30
 

@@ -14,7 +14,7 @@ An XBlock for displaying School Yourself (SY) content on the edX platform.
 
 **Status:** Active
 
-**Last Commit:** 2025-10-20
+**Last Commit:** 2025-12-15
 
 **URL:** https://github.com/openedx/schoolyourself-xblock
 
@@ -77,7 +77,7 @@ An XBlock for integrating Open edX and Skytap. With this XBlock, you to create v
 
 **Vendor:** `OpenCraft <https://opencraft.com>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2020-06-30
 
@@ -129,7 +129,7 @@ Participants can be graded on SQL scripts, written in code editor supporting:
 
 **Status:** Active
 
-**Last Commit:** 2025-10-30
+**Last Commit:** 2025-12-15
 
 **URL:** https://github.com/openedx/xblock-sql-grader
 
@@ -173,7 +173,7 @@ Staff Graded Points XBlock
 
 **Status:** Active
 
-**Last Commit:** 2025-12-08
+**Last Commit:** 2025-12-16
 
 **URL:** https://github.com/openedx/staff_graded-xblock
 
@@ -197,7 +197,7 @@ After the student submits her answer, she is able to see the instructor's answer
 
 **Status:** Active
 
-**Last Commit:** 2025-10-20
+**Last Commit:** 2025-12-15
 
 **URL:** https://github.com/openedx/xblock-submit-and-compare
 
