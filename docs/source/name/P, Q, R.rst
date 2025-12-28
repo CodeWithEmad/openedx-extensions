@@ -39,7 +39,7 @@ each one from (Such as 'True', and 'False', or 'Agree' or 'Disagree')
 
 **Status:** Active
 
-**Last Commit:** 2025-12-15
+**Last Commit:** 2025-12-22
 
 **URL:** https://github.com/open-craft/xblock-poll
 

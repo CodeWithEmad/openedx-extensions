@@ -222,7 +222,7 @@ A subclass of the new HTML XBlock that disables marking the block as completed a
 
 **Status:** Active
 
-**Last Commit:** 2025-12-15
+**Last Commit:** 2025-12-22
 
 **URL:** https://github.com/open-craft/xblock-html-completable
 
@@ -308,7 +308,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2025-12-15
+**Last Commit:** 2025-12-22
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
