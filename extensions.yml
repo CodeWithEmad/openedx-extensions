@@ -110,7 +110,7 @@ xblocks:
     vendor: OpenCraft
     url: https://github.com/open-craft/xblock-html-completable
     status: Active
-    last_commit: 2025-12-29
+    last_commit: 2026-01-06
 
   - name: Conditional Language preferences XBlock
     description: No description provided
@@ -154,7 +154,7 @@ xblocks:
     url: https://github.com/openedx/crowdsourcehinter
     image: docs/_images/crowdsource-hinter-xblock.png
     status: Active
-    last_commit: 2025-12-29
+    last_commit: 2026-01-05
 
   # D
   - name: Dialogs XBlock
@@ -185,7 +185,7 @@ xblocks:
     url: https://github.com/openedx/xblock-drag-and-drop-v2
     image: docs/_images/drag-and-drop-problem-xblock.png
     status: Active
-    last_commit: 2025-12-29
+    last_commit: 2026-01-06
 
   # E
   - name: End of Course Journal XBlock
@@ -211,7 +211,7 @@ xblocks:
     vendor: Open edX
     url: https://github.com/openedx/FeedbackXBlock
     status: Active
-    last_commit: 2025-12-29
+    last_commit: 2026-01-05
 
   - name: Files Manager XBlock
     description: |
@@ -270,7 +270,7 @@ xblocks:
     url: https://github.com/openedx/xblock-google-drive
     image: docs/_images/google-drive-calendar-xblock.png
     status: Active
-    last_commit: 2025-12-29
+    last_commit: 2026-01-06
 
   - name: Grade Fetcher XBlock
     description: |
@@ -319,7 +319,7 @@ xblocks:
     vendor: OpenCraft
     url: https://github.com/open-craft/xblock-html
     status: Active
-    last_commit: 2025-12-29
+    last_commit: 2026-01-06
 
   # I
   - name: Image Explorer XBlock
@@ -332,7 +332,7 @@ xblocks:
     url: https://github.com/openedx/xblock-image-explorer
     image: docs/_images/image-explorer-xblock.png
     status: Active
-    last_commit: 2025-12-29
+    last_commit: 2026-01-05
 
   - name: Image Modal XBlock
     description: An XBlock provides a way to place dropdown questions inline with other text, for example, in a paragraph.
@@ -352,7 +352,7 @@ xblocks:
     url: https://github.com/openedx/xblock-drag-and-drop-v2
     image: docs/_images/inline-dropdown-xblock.png
     status: Active
-    last_commit: 2025-12-29
+    last_commit: 2026-01-06
 
   # J
   - name: Jupyter Notebook Viewer
@@ -395,7 +395,7 @@ xblocks:
     vendor: Open edX
     url: https://github.com/openedx/xblock-lti-consumer
     status: Active
-    last_commit: 2025-12-16
+    last_commit: 2026-01-06
 
   # M
   - name: MindMap XBlock
@@ -476,7 +476,7 @@ xblocks:
     url: https://github.com/open-craft/xblock-poll
     image: docs/_images/poll-xblock.png
     status: Active
-    last_commit: 2025-12-29
+    last_commit: 2026-01-06
 
   - name: PrismJS XBlock
     description: XBlock for Syntax Highlighting with ``Prism.js``
@@ -617,7 +617,7 @@ xblocks:
     vendor: MIT Office of Digital Learning
     url: https://github.com/openedx/staff_graded-xblock
     status: Active
-    last_commit: 2025-12-16
+    last_commit: 2026-01-06
 
   - name: Submit and Compare XBlock
     description: |
