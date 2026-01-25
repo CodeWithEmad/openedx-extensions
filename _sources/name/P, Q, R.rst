@@ -39,7 +39,7 @@ each one from (Such as 'True', and 'False', or 'Agree' or 'Disagree')
 
 **Status:** Active
 
-**Last Commit:** 2026-01-12
+**Last Commit:** 2026-01-19
 
 **URL:** https://github.com/open-craft/xblock-poll
 
@@ -132,7 +132,7 @@ For each resource, we show its title, link, short summary, preview screenshot, a
 
 **Status:** Active
 
-**Last Commit:** 2025-12-03
+**Last Commit:** 2026-01-22
 
 **URL:** https://github.com/openedx/RecommenderXBlock
 

@@ -35,7 +35,7 @@ This XBlock allows embedding of Google documents and calendar, within an OpenedX
 
 **Status:** Active
 
-**Last Commit:** 2026-01-16
+**Last Commit:** 2026-01-19
 
 **URL:** https://github.com/openedx/xblock-google-drive
 
@@ -127,7 +127,7 @@ A new HTML XBlock that is designed with security and embedding in mind.
 
 **Status:** Active
 
-**Last Commit:** 2026-01-12
+**Last Commit:** 2026-01-19
 
 **URL:** https://github.com/open-craft/xblock-html
 
@@ -150,7 +150,7 @@ When the student clicks a hotspot icon, tooltip containing custom content is dis
 
 **Status:** Active
 
-**Last Commit:** 2026-01-16
+**Last Commit:** 2026-01-19
 
 **URL:** https://github.com/openedx/xblock-image-explorer
 
@@ -193,7 +193,7 @@ An XBlock provides a way to place dropdown questions inline with other text, for
 
 **Status:** Active
 
-**Last Commit:** 2026-01-16
+**Last Commit:** 2026-01-19
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
