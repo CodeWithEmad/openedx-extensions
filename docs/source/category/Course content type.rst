@@ -35,7 +35,7 @@ This is a simple XBlock which will play audio files as an HTML5 audio element. I
 
 **Status:** Active
 
-**Last Commit:** 2026-01-22
+**Last Commit:** 2026-01-26
 
 **URL:** https://github.com/openedx/AudioXBlock
 
@@ -100,7 +100,7 @@ A subclass of the new HTML XBlock that disables marking the block as completed a
 
 **Status:** Active
 
-**Last Commit:** 2026-01-19
+**Last Commit:** 2026-01-26
 
 **URL:** https://github.com/open-craft/xblock-html-completable
 
@@ -144,7 +144,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2026-01-22
+**Last Commit:** 2026-01-26
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -165,7 +165,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2026-01-19
+**Last Commit:** 2026-01-26
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -213,7 +213,7 @@ by instructors to understand which parts of a course work well and which parts w
 
 **Status:** Active
 
-**Last Commit:** 2026-01-19
+**Last Commit:** 2026-01-26
 
 **URL:** https://github.com/openedx/FeedbackXBlock
 
@@ -354,7 +354,7 @@ H5P Xblock provides ability to host and play H5P content in open edX. It has few
 
 **Status:** Active
 
-**Last Commit:** 2025-10-28
+**Last Commit:** 2026-01-28
 
 **URL:** https://github.com/edly-io/h5pxblock
 
@@ -375,7 +375,7 @@ A new HTML XBlock that is designed with security and embedding in mind.
 
 **Status:** Active
 
-**Last Commit:** 2026-01-19
+**Last Commit:** 2026-01-26
 
 **URL:** https://github.com/open-craft/xblock-html
 
@@ -396,7 +396,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2026-01-22
+**Last Commit:** 2026-01-27
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 
@@ -530,7 +530,7 @@ each one from (Such as 'True', and 'False', or 'Agree' or 'Disagree')
 
 **Status:** Active
 
-**Last Commit:** 2026-01-19
+**Last Commit:** 2026-01-26
 
 **URL:** https://github.com/open-craft/xblock-poll
 
