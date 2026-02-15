@@ -77,7 +77,7 @@ This is a simple XBlock which will play audio files as an HTML5 audio element. I
 
 **Status:** Active
 
-**Last Commit:** 2026-02-03
+**Last Commit:** 2026-02-09
 
 **URL:** https://github.com/openedx/AudioXBlock
 
@@ -308,7 +308,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2026-02-03
+**Last Commit:** 2026-02-09
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -419,7 +419,7 @@ by instructors to understand which parts of a course work well and which parts w
 
 **Status:** Active
 
-**Last Commit:** 2026-02-04
+**Last Commit:** 2026-02-09
 
 **URL:** https://github.com/openedx/FeedbackXBlock
 
@@ -774,7 +774,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2026-02-03
+**Last Commit:** 2026-02-11
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 
@@ -1022,7 +1022,7 @@ For each resource, we show its title, link, short summary, preview screenshot, a
 
 **Status:** Active
 
-**Last Commit:** 2026-02-03
+**Last Commit:** 2026-02-13
 
 **URL:** https://github.com/openedx/RecommenderXBlock
 
@@ -1043,7 +1043,7 @@ An XBlock for displaying School Yourself (SY) content on the edX platform.
 
 **Status:** Active
 
-**Last Commit:** 2026-01-26
+**Last Commit:** 2026-02-09
 
 **URL:** https://github.com/openedx/schoolyourself-xblock
 
@@ -1158,7 +1158,7 @@ Participants can be graded on SQL scripts, written in code editor supporting:
 
 **Status:** Active
 
-**Last Commit:** 2026-02-05
+**Last Commit:** 2026-02-12
 
 **URL:** https://github.com/openedx/xblock-sql-grader
 
@@ -1202,7 +1202,7 @@ Staff Graded Points XBlock
 
 **Status:** Active
 
-**Last Commit:** 2026-02-03
+**Last Commit:** 2026-02-09
 
 **URL:** https://github.com/openedx/staff_graded-xblock
 
