@@ -132,7 +132,7 @@ For each resource, we show its title, link, short summary, preview screenshot, a
 
 **Status:** Active
 
-**Last Commit:** 2026-02-03
+**Last Commit:** 2026-02-13
 
 **URL:** https://github.com/openedx/RecommenderXBlock
 
