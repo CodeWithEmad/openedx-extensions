@@ -35,7 +35,7 @@ This is a simple XBlock which will play audio files as an HTML5 audio element. I
 
 **Status:** Active
 
-**Last Commit:** 2026-02-09
+**Last Commit:** 2026-02-16
 
 **URL:** https://github.com/openedx/AudioXBlock
 
@@ -144,7 +144,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2026-02-09
+**Last Commit:** 2026-02-16
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -213,7 +213,7 @@ by instructors to understand which parts of a course work well and which parts w
 
 **Status:** Active
 
-**Last Commit:** 2026-02-09
+**Last Commit:** 2026-02-16
 
 **URL:** https://github.com/openedx/FeedbackXBlock
 
@@ -575,7 +575,7 @@ For each resource, we show its title, link, short summary, preview screenshot, a
 
 **Status:** Active
 
-**Last Commit:** 2026-02-13
+**Last Commit:** 2026-02-17
 
 **URL:** https://github.com/openedx/RecommenderXBlock
 
