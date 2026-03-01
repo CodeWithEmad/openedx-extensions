@@ -96,7 +96,7 @@ An XBlock for displaying School Yourself (SY) content on the edX platform.
 
 **Status:** Active
 
-**Last Commit:** 2026-02-16
+**Last Commit:** 2026-02-23
 
 **URL:** https://github.com/openedx/schoolyourself-xblock
 
