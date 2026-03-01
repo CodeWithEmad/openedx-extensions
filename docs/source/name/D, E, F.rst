@@ -104,7 +104,7 @@ by instructors to understand which parts of a course work well and which parts w
 
 **Status:** Active
 
-**Last Commit:** 2026-02-16
+**Last Commit:** 2026-02-24
 
 **URL:** https://github.com/openedx/FeedbackXBlock
 
