@@ -77,7 +77,7 @@ XBlock to display "Add and Continue" containers Open edX LMS.
 
 **Status:** Active
 
-**Last Commit:** 2025-11-21
+**Last Commit:** 2026-03-02
 
 **URL:** https://github.com/eol-uchile/eol-container-xblock
 
@@ -98,7 +98,7 @@ XBlock to display "Add and Continue" Dialogs Open edX LMS.
 
 **Status:** Active
 
-**Last Commit:** 2025-11-10
+**Last Commit:** 2026-03-05
 
 **URL:** https://github.com/eol-uchile/eol-dialogs-xblock
 
@@ -186,7 +186,7 @@ to simulate the workflow of real-life mentoring, within an edX course.
 
 **Status:** Active
 
-**Last Commit:** 2025-12-03
+**Last Commit:** 2026-03-03
 
 **URL:** https://github.com/open-craft/problem-builder
 

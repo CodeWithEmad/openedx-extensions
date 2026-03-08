@@ -122,7 +122,7 @@ A new HTML XBlock that is designed with security and embedding in mind.
 
 **Status:** Active
 
-**Last Commit:** 2026-01-26
+**Last Commit:** 2026-03-03
 
 **URL:** https://github.com/open-craft/xblock-html
 
@@ -168,7 +168,7 @@ each one from (Such as 'True', and 'False', or 'Agree' or 'Disagree')
 
 **Status:** Active
 
-**Last Commit:** 2026-01-26
+**Last Commit:** 2026-03-03
 
 **URL:** https://github.com/open-craft/xblock-poll
 
