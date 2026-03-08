@@ -17,7 +17,7 @@ to simulate the workflow of real-life mentoring, within an edX course.
 
 **Status:** Active
 
-**Last Commit:** 2025-12-03
+**Last Commit:** 2026-03-03
 
 **URL:** https://github.com/open-craft/problem-builder
 
