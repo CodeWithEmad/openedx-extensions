@@ -77,7 +77,7 @@ This is a simple XBlock which will play audio files as an HTML5 audio element. I
 
 **Status:** Active
 
-**Last Commit:** 2026-03-09
+**Last Commit:** 2026-03-16
 
 **URL:** https://github.com/openedx/AudioXBlock
 
@@ -285,7 +285,7 @@ XBlock to display "Add and Continue" containers Open edX LMS.
 
 **Status:** Active
 
-**Last Commit:** 2026-03-02
+**Last Commit:** 2026-03-20
 
 **URL:** https://github.com/eol-uchile/eol-container-xblock
 
@@ -308,7 +308,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2026-03-13
+**Last Commit:** 2026-03-16
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 

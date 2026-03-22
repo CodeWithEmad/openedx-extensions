@@ -35,7 +35,7 @@ This is a simple XBlock which will play audio files as an HTML5 audio element. I
 
 **Status:** Active
 
-**Last Commit:** 2026-03-09
+**Last Commit:** 2026-03-16
 
 **URL:** https://github.com/openedx/AudioXBlock
 
@@ -144,7 +144,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2026-03-13
+**Last Commit:** 2026-03-16
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -165,7 +165,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2026-03-09
+**Last Commit:** 2026-03-16
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -187,7 +187,7 @@ This XBlock also displays a summary of the learner's participation, proficiency,
 
 **Vendor:** `OpenCraft <https://opencraft.com>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2023-08-28
 
@@ -213,7 +213,7 @@ by instructors to understand which parts of a course work well and which parts w
 
 **Status:** Active
 
-**Last Commit:** 2026-03-12
+**Last Commit:** 2026-03-16
 
 **URL:** https://github.com/openedx/FeedbackXBlock
 
@@ -396,7 +396,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2026-03-14
+**Last Commit:** 2026-03-17
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 
@@ -662,7 +662,7 @@ This XBlock embeds Virtual Reality videos into a course.
 
 **Vendor:** `OpenCraft <https://opencraft.com>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2024-02-07
 

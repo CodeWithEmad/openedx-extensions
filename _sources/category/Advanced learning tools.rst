@@ -77,7 +77,7 @@ XBlock to display "Add and Continue" containers Open edX LMS.
 
 **Status:** Active
 
-**Last Commit:** 2026-03-02
+**Last Commit:** 2026-03-20
 
 **URL:** https://github.com/eol-uchile/eol-container-xblock
 
