@@ -77,7 +77,7 @@ This is a simple XBlock which will play audio files as an HTML5 audio element. I
 
 **Status:** Active
 
-**Last Commit:** 2026-03-09
+**Last Commit:** 2026-03-16
 
 **URL:** https://github.com/openedx/AudioXBlock
 
@@ -285,7 +285,7 @@ XBlock to display "Add and Continue" containers Open edX LMS.
 
 **Status:** Active
 
-**Last Commit:** 2026-03-02
+**Last Commit:** 2026-03-20
 
 **URL:** https://github.com/eol-uchile/eol-container-xblock
 
@@ -308,7 +308,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2026-03-13
+**Last Commit:** 2026-03-16
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -371,7 +371,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2026-03-09
+**Last Commit:** 2026-03-16
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -393,7 +393,7 @@ This XBlock also displays a summary of the learner's participation, proficiency,
 
 **Vendor:** `OpenCraft <https://opencraft.com>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2023-08-28
 
@@ -419,7 +419,7 @@ by instructors to understand which parts of a course work well and which parts w
 
 **Status:** Active
 
-**Last Commit:** 2026-03-12
+**Last Commit:** 2026-03-16
 
 **URL:** https://github.com/openedx/FeedbackXBlock
 
@@ -531,7 +531,7 @@ This XBlock allows embedding of Google documents and calendar, within an OpenedX
 
 **Status:** Active
 
-**Last Commit:** 2026-03-09
+**Last Commit:** 2026-03-16
 
 **URL:** https://github.com/openedx/xblock-google-drive
 
@@ -646,7 +646,7 @@ When the student clicks a hotspot icon, tooltip containing custom content is dis
 
 **Status:** Active
 
-**Last Commit:** 2026-03-09
+**Last Commit:** 2026-03-16
 
 **URL:** https://github.com/openedx/xblock-image-explorer
 
@@ -689,7 +689,7 @@ An XBlock provides a way to place dropdown questions inline with other text, for
 
 **Status:** Active
 
-**Last Commit:** 2026-03-09
+**Last Commit:** 2026-03-16
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -774,7 +774,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2026-03-14
+**Last Commit:** 2026-03-17
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 
@@ -1043,7 +1043,7 @@ An XBlock for displaying School Yourself (SY) content on the edX platform.
 
 **Status:** Active
 
-**Last Commit:** 2026-03-09
+**Last Commit:** 2026-03-16
 
 **URL:** https://github.com/openedx/schoolyourself-xblock
 
@@ -1158,7 +1158,7 @@ Participants can be graded on SQL scripts, written in code editor supporting:
 
 **Status:** Active
 
-**Last Commit:** 2026-03-12
+**Last Commit:** 2026-03-19
 
 **URL:** https://github.com/openedx/xblock-sql-grader
 
@@ -1202,7 +1202,7 @@ Staff Graded Points XBlock
 
 **Status:** Active
 
-**Last Commit:** 2026-03-13
+**Last Commit:** 2026-03-16
 
 **URL:** https://github.com/openedx/staff_graded-xblock
 
@@ -1245,7 +1245,7 @@ This XBlock embeds Virtual Reality videos into a course.
 
 **Vendor:** `OpenCraft <https://opencraft.com>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2024-02-07
 

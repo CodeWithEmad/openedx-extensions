@@ -78,7 +78,7 @@ This XBlock also displays a summary of the learner's participation, proficiency,
 
 **Vendor:** `OpenCraft <https://opencraft.com>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2023-08-28
 
@@ -208,7 +208,7 @@ This XBlock embeds Virtual Reality videos into a course.
 
 **Vendor:** `OpenCraft <https://opencraft.com>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2024-02-07
 
