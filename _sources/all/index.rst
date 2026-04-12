@@ -75,9 +75,9 @@ This is a simple XBlock which will play audio files as an HTML5 audio element. I
 
 **Vendor:** `Open edX <https://openedx.org>`__
 
-**Status:** Active
+**Status:** Archived
 
-**Last Commit:** 2026-03-30
+**Last Commit:** 2026-04-06
 
 **URL:** https://github.com/openedx/AudioXBlock
 
@@ -308,7 +308,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2026-03-30
+**Last Commit:** 2026-04-06
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -371,7 +371,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2026-03-30
+**Last Commit:** 2026-04-06
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -419,7 +419,7 @@ by instructors to understand which parts of a course work well and which parts w
 
 **Status:** Active
 
-**Last Commit:** 2026-03-30
+**Last Commit:** 2026-04-06
 
 **URL:** https://github.com/openedx/FeedbackXBlock
 
@@ -531,7 +531,7 @@ This XBlock allows embedding of Google documents and calendar, within an OpenedX
 
 **Status:** Active
 
-**Last Commit:** 2026-03-30
+**Last Commit:** 2026-04-06
 
 **URL:** https://github.com/openedx/xblock-google-drive
 
@@ -646,7 +646,7 @@ When the student clicks a hotspot icon, tooltip containing custom content is dis
 
 **Status:** Active
 
-**Last Commit:** 2026-03-30
+**Last Commit:** 2026-04-06
 
 **URL:** https://github.com/openedx/xblock-image-explorer
 
@@ -689,7 +689,7 @@ An XBlock provides a way to place dropdown questions inline with other text, for
 
 **Status:** Active
 
-**Last Commit:** 2026-03-30
+**Last Commit:** 2026-04-06
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -774,7 +774,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2026-04-02
+**Last Commit:** 2026-04-08
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 
@@ -1022,7 +1022,7 @@ For each resource, we show its title, link, short summary, preview screenshot, a
 
 **Status:** Active
 
-**Last Commit:** 2026-03-10
+**Last Commit:** 2026-04-08
 
 **URL:** https://github.com/openedx/RecommenderXBlock
 
@@ -1043,7 +1043,7 @@ An XBlock for displaying School Yourself (SY) content on the edX platform.
 
 **Status:** Active
 
-**Last Commit:** 2026-03-30
+**Last Commit:** 2026-04-06
 
 **URL:** https://github.com/openedx/schoolyourself-xblock
 
@@ -1158,7 +1158,7 @@ Participants can be graded on SQL scripts, written in code editor supporting:
 
 **Status:** Active
 
-**Last Commit:** 2026-04-02
+**Last Commit:** 2026-04-09
 
 **URL:** https://github.com/openedx/xblock-sql-grader
 
@@ -1181,7 +1181,7 @@ Students are invited to upload files which encapsulate their work on the assignm
 
 **Status:** Active
 
-**Last Commit:** 2025-11-24
+**Last Commit:** 2026-04-10
 
 **URL:** https://github.com/mitodl/edx-sga
 
@@ -1202,7 +1202,7 @@ Staff Graded Points XBlock
 
 **Status:** Active
 
-**Last Commit:** 2026-03-30
+**Last Commit:** 2026-04-08
 
 **URL:** https://github.com/openedx/staff_graded-xblock
 

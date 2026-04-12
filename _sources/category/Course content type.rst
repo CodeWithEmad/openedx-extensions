@@ -33,9 +33,9 @@ This is a simple XBlock which will play audio files as an HTML5 audio element. I
 
 **Vendor:** `Open edX <https://openedx.org>`__
 
-**Status:** Active
+**Status:** Archived
 
-**Last Commit:** 2026-03-30
+**Last Commit:** 2026-04-06
 
 **URL:** https://github.com/openedx/AudioXBlock
 
@@ -144,7 +144,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2026-03-30
+**Last Commit:** 2026-04-06
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -165,7 +165,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2026-03-30
+**Last Commit:** 2026-04-06
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -213,7 +213,7 @@ by instructors to understand which parts of a course work well and which parts w
 
 **Status:** Active
 
-**Last Commit:** 2026-03-30
+**Last Commit:** 2026-04-06
 
 **URL:** https://github.com/openedx/FeedbackXBlock
 
@@ -396,7 +396,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2026-04-02
+**Last Commit:** 2026-04-08
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 
@@ -575,7 +575,7 @@ For each resource, we show its title, link, short summary, preview screenshot, a
 
 **Status:** Active
 
-**Last Commit:** 2026-03-10
+**Last Commit:** 2026-04-08
 
 **URL:** https://github.com/openedx/RecommenderXBlock
 
