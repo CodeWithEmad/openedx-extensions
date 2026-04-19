@@ -16,7 +16,7 @@ Students are invited to upload files which encapsulate their work on the assignm
 
 **Status:** Active
 
-**Last Commit:** 2026-04-10
+**Last Commit:** 2026-04-17
 
 **URL:** https://github.com/mitodl/edx-sga
 
@@ -37,7 +37,7 @@ Staff Graded Points XBlock
 
 **Status:** Active
 
-**Last Commit:** 2026-04-08
+**Last Commit:** 2026-04-16
 
 **URL:** https://github.com/openedx/staff_graded-xblock
 
