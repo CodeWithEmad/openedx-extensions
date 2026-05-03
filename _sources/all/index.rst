@@ -285,7 +285,7 @@ XBlock to display "Add and Continue" containers Open edX LMS.
 
 **Status:** Active
 
-**Last Commit:** 2026-04-23
+**Last Commit:** 2026-04-30
 
 **URL:** https://github.com/eol-uchile/eol-container-xblock
 
@@ -308,7 +308,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2026-04-20
+**Last Commit:** 2026-04-27
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -371,7 +371,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2026-04-20
+**Last Commit:** 2026-04-29
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -531,7 +531,7 @@ This XBlock allows embedding of Google documents and calendar, within an OpenedX
 
 **Status:** Active
 
-**Last Commit:** 2026-04-20
+**Last Commit:** 2026-04-27
 
 **URL:** https://github.com/openedx/xblock-google-drive
 
@@ -646,7 +646,7 @@ When the student clicks a hotspot icon, tooltip containing custom content is dis
 
 **Status:** Active
 
-**Last Commit:** 2026-04-20
+**Last Commit:** 2026-04-27
 
 **URL:** https://github.com/openedx/xblock-image-explorer
 
@@ -689,7 +689,7 @@ An XBlock provides a way to place dropdown questions inline with other text, for
 
 **Status:** Active
 
-**Last Commit:** 2026-04-20
+**Last Commit:** 2026-04-29
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -774,7 +774,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2026-04-23
+**Last Commit:** 2026-04-30
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 
@@ -1041,9 +1041,9 @@ An XBlock for displaying School Yourself (SY) content on the edX platform.
 
 **Vendor:** `Open edX <https://openedx.org>`__
 
-**Status:** Active
+**Status:** Archived
 
-**Last Commit:** 2026-04-20
+**Last Commit:** 2026-04-27
 
 **URL:** https://github.com/openedx/schoolyourself-xblock
 
@@ -1202,7 +1202,7 @@ Staff Graded Points XBlock
 
 **Status:** Active
 
-**Last Commit:** 2026-04-21
+**Last Commit:** 2026-04-27
 
 **URL:** https://github.com/openedx/staff_graded-xblock
 
@@ -1310,7 +1310,7 @@ It implements two openedx_filters pipelines to inject a form into the end unit X
 
 **Status:** Active
 
-**Last Commit:** 2026-03-27
+**Last Commit:** 2026-04-30
 
 **URL:** https://github.com/openedx/xblock-skill-tagging
 
