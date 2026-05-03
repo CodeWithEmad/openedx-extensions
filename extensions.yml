@@ -142,7 +142,7 @@ xblocks:
     url: https://github.com/eol-uchile/eol-container-xblock
     image: docs/_images/eol-container-xblock.png
     status: Active
-    last_commit: 2026-04-23
+    last_commit: 2026-04-30
 
   - name: Crowdsource Hinter XBlock
     description: |
@@ -154,7 +154,7 @@ xblocks:
     url: https://github.com/openedx/crowdsourcehinter
     image: docs/_images/crowdsource-hinter-xblock.png
     status: Active
-    last_commit: 2026-04-20
+    last_commit: 2026-04-27
 
   # D
   - name: Dialogs XBlock
@@ -185,7 +185,7 @@ xblocks:
     url: https://github.com/openedx/xblock-drag-and-drop-v2
     image: docs/_images/drag-and-drop-problem-xblock.png
     status: Active
-    last_commit: 2026-04-20
+    last_commit: 2026-04-29
 
   # E
   - name: End of Course Journal XBlock
@@ -270,7 +270,7 @@ xblocks:
     url: https://github.com/openedx/xblock-google-drive
     image: docs/_images/google-drive-calendar-xblock.png
     status: Active
-    last_commit: 2026-04-20
+    last_commit: 2026-04-27
 
   - name: Grade Fetcher XBlock
     description: |
@@ -332,7 +332,7 @@ xblocks:
     url: https://github.com/openedx/xblock-image-explorer
     image: docs/_images/image-explorer-xblock.png
     status: Active
-    last_commit: 2026-04-20
+    last_commit: 2026-04-27
 
   - name: Image Modal XBlock
     description: An XBlock provides a way to place dropdown questions inline with other text, for example, in a paragraph.
@@ -352,7 +352,7 @@ xblocks:
     url: https://github.com/openedx/xblock-drag-and-drop-v2
     image: docs/_images/inline-dropdown-xblock.png
     status: Active
-    last_commit: 2026-04-20
+    last_commit: 2026-04-29
 
   # J
   - name: Jupyter Notebook Viewer
@@ -395,7 +395,7 @@ xblocks:
     vendor: Open edX
     url: https://github.com/openedx/xblock-lti-consumer
     status: Active
-    last_commit: 2026-04-23
+    last_commit: 2026-04-30
 
   # M
   - name: MindMap XBlock
@@ -537,8 +537,8 @@ xblocks:
     vendor: Open edX
     url: https://github.com/openedx/schoolyourself-xblock
     image: docs/_images/school-yourself-xblock.png
-    status: Active
-    last_commit: 2026-04-20
+    status: Archived
+    last_commit: 2026-04-27
 
   - name: Scorm XBlock
     description: |
@@ -617,7 +617,7 @@ xblocks:
     vendor: MIT Office of Digital Learning
     url: https://github.com/openedx/staff_graded-xblock
     status: Active
-    last_commit: 2026-04-21
+    last_commit: 2026-04-27
 
   - name: Submit and Compare XBlock
     description: |
@@ -673,4 +673,4 @@ xblocks:
     url: https://github.com/openedx/xblock-skill-tagging
     image: docs/_images/xblock-skill-tagging-1.png
     status: Active
-    last_commit: 2026-03-27
+    last_commit: 2026-04-30
