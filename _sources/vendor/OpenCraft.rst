@@ -122,7 +122,7 @@ A new HTML XBlock that is designed with security and embedding in mind.
 
 **Status:** Active
 
-**Last Commit:** 2026-03-03
+**Last Commit:** 2026-05-04
 
 **URL:** https://github.com/open-craft/xblock-html
 

@@ -56,7 +56,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2026-04-29
+**Last Commit:** 2026-05-04
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
