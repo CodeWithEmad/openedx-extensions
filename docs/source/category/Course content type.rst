@@ -144,7 +144,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2026-04-27
+**Last Commit:** 2026-05-04
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -165,7 +165,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2026-04-29
+**Last Commit:** 2026-05-04
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -375,7 +375,7 @@ A new HTML XBlock that is designed with security and embedding in mind.
 
 **Status:** Active
 
-**Last Commit:** 2026-03-03
+**Last Commit:** 2026-05-04
 
 **URL:** https://github.com/open-craft/xblock-html
 
@@ -396,7 +396,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2026-04-30
+**Last Commit:** 2026-05-05
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 
@@ -575,7 +575,7 @@ For each resource, we show its title, link, short summary, preview screenshot, a
 
 **Status:** Active
 
-**Last Commit:** 2026-04-21
+**Last Commit:** 2026-05-08
 
 **URL:** https://github.com/openedx/RecommenderXBlock
 
