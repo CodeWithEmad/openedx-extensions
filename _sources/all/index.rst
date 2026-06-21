@@ -285,7 +285,7 @@ XBlock to display "Add and Continue" containers Open edX LMS.
 
 **Status:** Active
 
-**Last Commit:** 2026-04-30
+**Last Commit:** 2026-06-08
 
 **URL:** https://github.com/eol-uchile/eol-container-xblock
 
@@ -308,7 +308,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2026-05-04
+**Last Commit:** 2026-06-15
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -371,7 +371,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2026-05-04
+**Last Commit:** 2026-06-15
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -489,7 +489,7 @@ for instructors to create questions that expect a free-text response.
 
 **Status:** Active
 
-**Last Commit:** 2025-12-15
+**Last Commit:** 2026-05-15
 
 **URL:** https://github.com/openedx/xblock-free-text-response
 
@@ -531,7 +531,7 @@ This XBlock allows embedding of Google documents and calendar, within an OpenedX
 
 **Status:** Active
 
-**Last Commit:** 2026-05-04
+**Last Commit:** 2026-06-15
 
 **URL:** https://github.com/openedx/xblock-google-drive
 
@@ -646,7 +646,7 @@ When the student clicks a hotspot icon, tooltip containing custom content is dis
 
 **Status:** Active
 
-**Last Commit:** 2026-05-04
+**Last Commit:** 2026-06-15
 
 **URL:** https://github.com/openedx/xblock-image-explorer
 
@@ -689,7 +689,7 @@ An XBlock provides a way to place dropdown questions inline with other text, for
 
 **Status:** Active
 
-**Last Commit:** 2026-05-04
+**Last Commit:** 2026-06-15
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -774,7 +774,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2026-05-05
+**Last Commit:** 2026-06-20
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 
@@ -929,7 +929,7 @@ each one from (Such as 'True', and 'False', or 'Agree' or 'Disagree')
 
 **Status:** Active
 
-**Last Commit:** 2026-03-03
+**Last Commit:** 2026-06-17
 
 **URL:** https://github.com/open-craft/xblock-poll
 
@@ -974,7 +974,7 @@ to simulate the workflow of real-life mentoring, within an edX course.
 
 **Status:** Active
 
-**Last Commit:** 2026-03-03
+**Last Commit:** 2026-05-12
 
 **URL:** https://github.com/open-craft/problem-builder
 
@@ -1022,7 +1022,7 @@ For each resource, we show its title, link, short summary, preview screenshot, a
 
 **Status:** Active
 
-**Last Commit:** 2026-05-08
+**Last Commit:** 2026-05-30
 
 **URL:** https://github.com/openedx/RecommenderXBlock
 
@@ -1066,7 +1066,7 @@ It will save student state and report scores to the progress tab of the course. 
 
 **Status:** Active
 
-**Last Commit:** 2025-10-27
+**Last Commit:** 2026-06-12
 
 **URL:** https://github.com/overhangio/openedx-scorm-xblock
 
@@ -1181,7 +1181,7 @@ Students are invited to upload files which encapsulate their work on the assignm
 
 **Status:** Active
 
-**Last Commit:** 2026-04-17
+**Last Commit:** 2026-06-19
 
 **URL:** https://github.com/mitodl/edx-sga
 
@@ -1202,7 +1202,7 @@ Staff Graded Points XBlock
 
 **Status:** Active
 
-**Last Commit:** 2026-05-08
+**Last Commit:** 2026-06-15
 
 **URL:** https://github.com/openedx/staff_graded-xblock
 
@@ -1310,7 +1310,7 @@ It implements two openedx_filters pipelines to inject a form into the end unit X
 
 **Status:** Active
 
-**Last Commit:** 2026-04-30
+**Last Commit:** 2026-06-05
 
 **URL:** https://github.com/openedx/xblock-skill-tagging
 

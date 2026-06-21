@@ -37,7 +37,7 @@ It will save student state and report scores to the progress tab of the course. 
 
 **Status:** Active
 
-**Last Commit:** 2025-10-27
+**Last Commit:** 2026-06-12
 
 **URL:** https://github.com/overhangio/openedx-scorm-xblock
 
@@ -152,7 +152,7 @@ Students are invited to upload files which encapsulate their work on the assignm
 
 **Status:** Active
 
-**Last Commit:** 2026-04-17
+**Last Commit:** 2026-06-19
 
 **URL:** https://github.com/mitodl/edx-sga
 
@@ -173,7 +173,7 @@ Staff Graded Points XBlock
 
 **Status:** Active
 
-**Last Commit:** 2026-05-08
+**Last Commit:** 2026-06-15
 
 **URL:** https://github.com/openedx/staff_graded-xblock
 

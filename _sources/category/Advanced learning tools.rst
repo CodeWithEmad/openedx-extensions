@@ -77,7 +77,7 @@ XBlock to display "Add and Continue" containers Open edX LMS.
 
 **Status:** Active
 
-**Last Commit:** 2026-04-30
+**Last Commit:** 2026-06-08
 
 **URL:** https://github.com/eol-uchile/eol-container-xblock
 
@@ -186,7 +186,7 @@ to simulate the workflow of real-life mentoring, within an edX course.
 
 **Status:** Active
 
-**Last Commit:** 2026-03-03
+**Last Commit:** 2026-05-12
 
 **URL:** https://github.com/open-craft/problem-builder
 
@@ -209,7 +209,7 @@ It will save student state and report scores to the progress tab of the course. 
 
 **Status:** Active
 
-**Last Commit:** 2025-10-27
+**Last Commit:** 2026-06-12
 
 **URL:** https://github.com/overhangio/openedx-scorm-xblock
 
