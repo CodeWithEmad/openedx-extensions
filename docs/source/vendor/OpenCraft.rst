@@ -168,7 +168,7 @@ each one from (Such as 'True', and 'False', or 'Agree' or 'Disagree')
 
 **Status:** Active
 
-**Last Commit:** 2026-03-03
+**Last Commit:** 2026-06-17
 
 **URL:** https://github.com/open-craft/xblock-poll
 
