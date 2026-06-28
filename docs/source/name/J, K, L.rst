@@ -34,7 +34,7 @@ XBlock for embedding Kinescope Videos.
 
 **Vendor:** `OpenCraft <https://opencraft.com>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2023-11-06
 
@@ -78,7 +78,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2026-06-20
+**Last Commit:** 2026-06-24
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 

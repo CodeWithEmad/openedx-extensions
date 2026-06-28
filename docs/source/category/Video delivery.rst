@@ -33,7 +33,7 @@ XBlock for embedding Kinescope Videos.
 
 **Vendor:** `OpenCraft <https://opencraft.com>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2023-11-06
 
