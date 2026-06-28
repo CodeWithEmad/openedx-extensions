@@ -308,7 +308,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2026-06-15
+**Last Commit:** 2026-06-22
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -371,7 +371,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2026-06-15
+**Last Commit:** 2026-06-22
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -442,7 +442,7 @@ delete and download folders, and students to view and download them.
 
 **Status:** Active
 
-**Last Commit:** 2025-10-14
+**Last Commit:** 2026-06-26
 
 **URL:** https://github.com/eduNEXT/xblock-filesmanager
 
@@ -465,7 +465,7 @@ based on compliance with a condition that evaluates the submission or the score 
 
 **Status:** Active
 
-**Last Commit:** 2025-10-14
+**Last Commit:** 2026-06-26
 
 **URL:** https://github.com/eduNEXT/flow-control-xblock
 
@@ -531,7 +531,7 @@ This XBlock allows embedding of Google documents and calendar, within an OpenedX
 
 **Status:** Active
 
-**Last Commit:** 2026-06-15
+**Last Commit:** 2026-06-22
 
 **URL:** https://github.com/openedx/xblock-google-drive
 
@@ -646,7 +646,7 @@ When the student clicks a hotspot icon, tooltip containing custom content is dis
 
 **Status:** Active
 
-**Last Commit:** 2026-06-15
+**Last Commit:** 2026-06-22
 
 **URL:** https://github.com/openedx/xblock-image-explorer
 
@@ -689,7 +689,7 @@ An XBlock provides a way to place dropdown questions inline with other text, for
 
 **Status:** Active
 
-**Last Commit:** 2026-06-15
+**Last Commit:** 2026-06-22
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -730,7 +730,7 @@ XBlock for embedding Kinescope Videos.
 
 **Vendor:** `OpenCraft <https://opencraft.com>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2023-11-06
 
@@ -774,7 +774,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2026-06-20
+**Last Commit:** 2026-06-24
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 
@@ -795,7 +795,7 @@ Mind Map XBlock is a pluggable extension to the Open edX platform that allows co
 
 **Status:** Active
 
-**Last Commit:** 2025-10-14
+**Last Commit:** 2026-06-26
 
 **URL:** https://github.com/eduNEXT/xblock-mindmap
 
@@ -929,7 +929,7 @@ each one from (Such as 'True', and 'False', or 'Agree' or 'Disagree')
 
 **Status:** Active
 
-**Last Commit:** 2026-06-17
+**Last Commit:** 2026-06-26
 
 **URL:** https://github.com/open-craft/xblock-poll
 
@@ -1202,7 +1202,7 @@ Staff Graded Points XBlock
 
 **Status:** Active
 
-**Last Commit:** 2026-06-15
+**Last Commit:** 2026-06-22
 
 **URL:** https://github.com/openedx/staff_graded-xblock
 
@@ -1287,7 +1287,7 @@ An X-block to send a payload with basic information about the course and student
 
 **Status:** Active
 
-**Last Commit:** 2025-10-14
+**Last Commit:** 2026-06-26
 
 **URL:** https://github.com/eduNEXT/webhook-xblock
 

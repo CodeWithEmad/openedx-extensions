@@ -54,7 +54,7 @@ This XBlock allows embedding of Google documents and calendar, within an OpenedX
 
 **Status:** Active
 
-**Last Commit:** 2026-06-15
+**Last Commit:** 2026-06-22
 
 **URL:** https://github.com/openedx/xblock-google-drive
 
@@ -117,7 +117,7 @@ An X-block to send a payload with basic information about the course and student
 
 **Status:** Active
 
-**Last Commit:** 2025-10-14
+**Last Commit:** 2026-06-26
 
 **URL:** https://github.com/eduNEXT/webhook-xblock
 

@@ -56,7 +56,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2026-06-15
+**Last Commit:** 2026-06-22
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -127,7 +127,7 @@ delete and download folders, and students to view and download them.
 
 **Status:** Active
 
-**Last Commit:** 2025-10-14
+**Last Commit:** 2026-06-26
 
 **URL:** https://github.com/eduNEXT/xblock-filesmanager
 
@@ -150,7 +150,7 @@ based on compliance with a condition that evaluates the submission or the score 
 
 **Status:** Active
 
-**Last Commit:** 2025-10-14
+**Last Commit:** 2026-06-26
 
 **URL:** https://github.com/eduNEXT/flow-control-xblock
 
