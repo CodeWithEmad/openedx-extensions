@@ -131,7 +131,7 @@ xblocks:
     url: https://github.com/eol-uchile/eol-conditional-xblock
     image: docs/_images/eol-conditional-xblock.png
     status: Active
-    last_commit: 2025-11-10
+    last_commit: 2026-07-06
 
   - name: Container XBlock
     description: XBlock to display "Add and Continue" containers Open edX LMS.
@@ -142,7 +142,7 @@ xblocks:
     url: https://github.com/eol-uchile/eol-container-xblock
     image: docs/_images/eol-container-xblock.png
     status: Active
-    last_commit: 2026-06-08
+    last_commit: 2026-07-06
 
   - name: Crowdsource Hinter XBlock
     description: |
@@ -154,7 +154,7 @@ xblocks:
     url: https://github.com/openedx/crowdsourcehinter
     image: docs/_images/crowdsource-hinter-xblock.png
     status: Active
-    last_commit: 2026-06-29
+    last_commit: 2026-07-06
 
   # D
   - name: Dialogs XBlock
@@ -166,7 +166,7 @@ xblocks:
     url: https://github.com/eol-uchile/eol-dialogs-xblock
     image: docs/_images/eol-dialogs-xblock.png
     status: Active
-    last_commit: 2026-03-05
+    last_commit: 2026-07-06
 
   - name: Done XBlock
     description: An XBlock that let student mark when they finish an activity.
@@ -185,7 +185,7 @@ xblocks:
     url: https://github.com/openedx/xblock-drag-and-drop-v2
     image: docs/_images/drag-and-drop-problem-xblock.png
     status: Active
-    last_commit: 2026-06-30
+    last_commit: 2026-07-06
 
   # E
   - name: End of Course Journal XBlock
@@ -224,7 +224,7 @@ xblocks:
     url: https://github.com/eduNEXT/xblock-filesmanager
     image: docs/_images/file-manager-xblock.png
     status: Active
-    last_commit: 2026-06-26
+    last_commit: 2026-07-08
 
   - name: Flow Control XBlock
     description: |
@@ -237,7 +237,7 @@ xblocks:
     url: https://github.com/eduNEXT/flow-control-xblock
     image: docs/_images/flow-control-xblock.png
     status: Active
-    last_commit: 2026-06-26
+    last_commit: 2026-07-08
 
   - name: Free Text Response XBlock
     description: |
@@ -270,7 +270,7 @@ xblocks:
     url: https://github.com/openedx/xblock-google-drive
     image: docs/_images/google-drive-calendar-xblock.png
     status: Active
-    last_commit: 2026-06-29
+    last_commit: 2026-07-06
 
   - name: Grade Fetcher XBlock
     description: |
@@ -332,7 +332,7 @@ xblocks:
     url: https://github.com/openedx/xblock-image-explorer
     image: docs/_images/image-explorer-xblock.png
     status: Active
-    last_commit: 2026-06-29
+    last_commit: 2026-07-06
 
   - name: Image Modal XBlock
     description: An XBlock provides a way to place dropdown questions inline with other text, for example, in a paragraph.
@@ -352,7 +352,7 @@ xblocks:
     url: https://github.com/openedx/xblock-drag-and-drop-v2
     image: docs/_images/inline-dropdown-xblock.png
     status: Active
-    last_commit: 2026-06-30
+    last_commit: 2026-07-06
 
   # J
   - name: Jupyter Notebook Viewer
@@ -395,7 +395,7 @@ xblocks:
     vendor: Open edX
     url: https://github.com/openedx/xblock-lti-consumer
     status: Active
-    last_commit: 2026-06-30
+    last_commit: 2026-07-10
 
   # M
   - name: MindMap XBlock
@@ -407,7 +407,7 @@ xblocks:
     url: https://github.com/eduNEXT/xblock-mindmap
     image: docs/_images/mindmap-xblock.png
     status: Active
-    last_commit: 2026-06-26
+    last_commit: 2026-07-08
 
   - name: MUFI XBlock
     description: A WYSIWYG transcription tool for Medieval Manuscripts, for use within the OpenEdX platform.
@@ -476,7 +476,7 @@ xblocks:
     url: https://github.com/open-craft/xblock-poll
     image: docs/_images/poll-xblock.png
     status: Active
-    last_commit: 2026-06-29
+    last_commit: 2026-07-06
 
   - name: PrismJS XBlock
     description: XBlock for Syntax Highlighting with ``Prism.js``
@@ -608,7 +608,7 @@ xblocks:
     url: https://github.com/mitodl/edx-sga
     image: docs/_images/staff-graded-assignment-xblock.png
     status: Active
-    last_commit: 2026-06-19
+    last_commit: 2026-07-07
 
   - name: Staff Graded XBlock
     description: Staff Graded Points XBlock
@@ -617,7 +617,7 @@ xblocks:
     vendor: MIT Office of Digital Learning
     url: https://github.com/openedx/staff_graded-xblock
     status: Active
-    last_commit: 2026-06-29
+    last_commit: 2026-07-06
 
   - name: Submit and Compare XBlock
     description: |
@@ -659,7 +659,7 @@ xblocks:
     vendor: eduNEXT
     url: https://github.com/eduNEXT/webhook-xblock
     status: Active
-    last_commit: 2026-06-26
+    last_commit: 2026-07-08
 
   # X
   - name: XBlock Skill Tagging

@@ -14,7 +14,7 @@ XBlock to display "Add and Continue" Dialogs Open edX LMS.
 
 **Status:** Active
 
-**Last Commit:** 2026-03-05
+**Last Commit:** 2026-07-06
 
 **URL:** https://github.com/eol-uchile/eol-dialogs-xblock
 
@@ -56,7 +56,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2026-06-30
+**Last Commit:** 2026-07-06
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -127,7 +127,7 @@ delete and download folders, and students to view and download them.
 
 **Status:** Active
 
-**Last Commit:** 2026-06-26
+**Last Commit:** 2026-07-08
 
 **URL:** https://github.com/eduNEXT/xblock-filesmanager
 
@@ -150,7 +150,7 @@ based on compliance with a condition that evaluates the submission or the score 
 
 **Status:** Active
 
-**Last Commit:** 2026-06-26
+**Last Commit:** 2026-07-08
 
 **URL:** https://github.com/eduNEXT/flow-control-xblock
 
