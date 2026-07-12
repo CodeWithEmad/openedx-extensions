@@ -14,7 +14,7 @@ XBlock to show/hide one or more conditional component by a trigger component in 
 
 **Status:** Active
 
-**Last Commit:** 2025-11-10
+**Last Commit:** 2026-07-06
 
 **URL:** https://github.com/eol-uchile/eol-conditional-xblock
 
@@ -35,7 +35,7 @@ XBlock to display "Add and Continue" containers Open edX LMS.
 
 **Status:** Active
 
-**Last Commit:** 2026-06-08
+**Last Commit:** 2026-07-06
 
 **URL:** https://github.com/eol-uchile/eol-container-xblock
 
@@ -56,7 +56,7 @@ XBlock to display "Add and Continue" Dialogs Open edX LMS.
 
 **Status:** Active
 
-**Last Commit:** 2026-03-05
+**Last Commit:** 2026-07-06
 
 **URL:** https://github.com/eol-uchile/eol-dialogs-xblock
 
