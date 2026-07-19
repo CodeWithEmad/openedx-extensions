@@ -308,7 +308,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2026-07-06
+**Last Commit:** 2026-07-13
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -371,7 +371,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2026-07-06
+**Last Commit:** 2026-07-13
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -531,7 +531,7 @@ This XBlock allows embedding of Google documents and calendar, within an OpenedX
 
 **Status:** Active
 
-**Last Commit:** 2026-07-06
+**Last Commit:** 2026-07-13
 
 **URL:** https://github.com/openedx/xblock-google-drive
 
@@ -646,7 +646,7 @@ When the student clicks a hotspot icon, tooltip containing custom content is dis
 
 **Status:** Active
 
-**Last Commit:** 2026-07-06
+**Last Commit:** 2026-07-13
 
 **URL:** https://github.com/openedx/xblock-image-explorer
 
@@ -689,7 +689,7 @@ An XBlock provides a way to place dropdown questions inline with other text, for
 
 **Status:** Active
 
-**Last Commit:** 2026-07-06
+**Last Commit:** 2026-07-13
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -774,7 +774,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2026-07-10
+**Last Commit:** 2026-07-17
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 
@@ -929,7 +929,7 @@ each one from (Such as 'True', and 'False', or 'Agree' or 'Disagree')
 
 **Status:** Active
 
-**Last Commit:** 2026-07-06
+**Last Commit:** 2026-07-13
 
 **URL:** https://github.com/open-craft/xblock-poll
 
@@ -1022,7 +1022,7 @@ For each resource, we show its title, link, short summary, preview screenshot, a
 
 **Status:** Active
 
-**Last Commit:** 2026-05-30
+**Last Commit:** 2026-07-17
 
 **URL:** https://github.com/openedx/RecommenderXBlock
 
@@ -1202,7 +1202,7 @@ Staff Graded Points XBlock
 
 **Status:** Active
 
-**Last Commit:** 2026-07-06
+**Last Commit:** 2026-07-13
 
 **URL:** https://github.com/openedx/staff_graded-xblock
 
@@ -1310,7 +1310,7 @@ It implements two openedx_filters pipelines to inject a form into the end unit X
 
 **Status:** Active
 
-**Last Commit:** 2026-06-05
+**Last Commit:** 2026-07-17
 
 **URL:** https://github.com/openedx/xblock-skill-tagging
 
