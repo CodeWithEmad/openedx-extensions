@@ -37,7 +37,7 @@ It will save student state and report scores to the progress tab of the course. 
 
 **Status:** Active
 
-**Last Commit:** 2026-06-12
+**Last Commit:** 2026-07-22
 
 **URL:** https://github.com/overhangio/openedx-scorm-xblock
 
@@ -173,7 +173,7 @@ Staff Graded Points XBlock
 
 **Status:** Active
 
-**Last Commit:** 2026-07-13
+**Last Commit:** 2026-07-25
 
 **URL:** https://github.com/openedx/staff_graded-xblock
 
