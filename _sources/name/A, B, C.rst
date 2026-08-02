@@ -285,7 +285,7 @@ XBlock to display "Add and Continue" containers Open edX LMS.
 
 **Status:** Active
 
-**Last Commit:** 2026-07-06
+**Last Commit:** 2026-07-30
 
 **URL:** https://github.com/eol-uchile/eol-container-xblock
 
@@ -308,7 +308,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2026-07-25
+**Last Commit:** 2026-07-27
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
