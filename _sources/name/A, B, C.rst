@@ -220,7 +220,7 @@ A subclass of the new HTML XBlock that disables marking the block as completed a
 
 **Vendor:** `OpenCraft <https://opencraft.com>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2026-01-26
 
@@ -285,7 +285,7 @@ XBlock to display "Add and Continue" containers Open edX LMS.
 
 **Status:** Active
 
-**Last Commit:** 2026-07-30
+**Last Commit:** 2026-08-04
 
 **URL:** https://github.com/eol-uchile/eol-container-xblock
 
