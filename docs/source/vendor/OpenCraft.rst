@@ -54,7 +54,7 @@ A subclass of the new HTML XBlock that disables marking the block as completed a
 
 **Vendor:** `OpenCraft <https://opencraft.com>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2026-01-26
 
@@ -168,7 +168,7 @@ each one from (Such as 'True', and 'False', or 'Agree' or 'Disagree')
 
 **Status:** Active
 
-**Last Commit:** 2026-07-27
+**Last Commit:** 2026-08-06
 
 **URL:** https://github.com/open-craft/xblock-poll
 

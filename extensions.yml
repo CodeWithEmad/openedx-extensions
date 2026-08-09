@@ -109,7 +109,7 @@ xblocks:
     license: AGPLv3
     vendor: OpenCraft
     url: https://github.com/open-craft/xblock-html-completable
-    status: Active
+    status: Archived
     last_commit: 2026-01-26
 
   - name: Conditional Language preferences XBlock
@@ -142,7 +142,7 @@ xblocks:
     url: https://github.com/eol-uchile/eol-container-xblock
     image: docs/_images/eol-container-xblock.png
     status: Active
-    last_commit: 2026-07-30
+    last_commit: 2026-08-04
 
   - name: Crowdsource Hinter XBlock
     description: |
@@ -395,7 +395,7 @@ xblocks:
     vendor: Open edX
     url: https://github.com/openedx/xblock-lti-consumer
     status: Active
-    last_commit: 2026-07-28
+    last_commit: 2026-08-05
 
   # M
   - name: MindMap XBlock
@@ -476,7 +476,7 @@ xblocks:
     url: https://github.com/open-craft/xblock-poll
     image: docs/_images/poll-xblock.png
     status: Active
-    last_commit: 2026-07-27
+    last_commit: 2026-08-06
 
   - name: PrismJS XBlock
     description: XBlock for Syntax Highlighting with ``Prism.js``
@@ -526,7 +526,7 @@ xblocks:
     url: https://github.com/openedx/RecommenderXBlock
     image: docs/_images/recommender-xblock.png
     status: Active
-    last_commit: 2026-07-23
+    last_commit: 2026-08-03
 
   # S
   - name: SchoolYourself XBlock
