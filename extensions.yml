@@ -154,7 +154,7 @@ xblocks:
     url: https://github.com/openedx/crowdsourcehinter
     image: docs/_images/crowdsource-hinter-xblock.png
     status: Active
-    last_commit: 2026-08-17
+    last_commit: 2026-08-27
 
   # D
   - name: Dialogs XBlock
@@ -248,8 +248,8 @@ xblocks:
     license: AGPLv3
     vendor: Open edX
     url: https://github.com/openedx/xblock-free-text-response
-    status: Active
-    last_commit: 2026-05-15
+    status: Archived
+    last_commit: 2026-08-28
 
   # G
   - name: Geogebra xBlock
@@ -395,7 +395,7 @@ xblocks:
     vendor: Open edX
     url: https://github.com/openedx/xblock-lti-consumer
     status: Active
-    last_commit: 2026-08-17
+    last_commit: 2026-08-27
 
   # M
   - name: MindMap XBlock
@@ -526,7 +526,7 @@ xblocks:
     url: https://github.com/openedx/RecommenderXBlock
     image: docs/_images/recommender-xblock.png
     status: Active
-    last_commit: 2026-08-19
+    last_commit: 2026-08-27
 
   # S
   - name: SchoolYourself XBlock
@@ -617,7 +617,7 @@ xblocks:
     vendor: MIT Office of Digital Learning
     url: https://github.com/openedx/staff_graded-xblock
     status: Active
-    last_commit: 2026-08-17
+    last_commit: 2026-08-27
 
   - name: Submit and Compare XBlock
     description: |
