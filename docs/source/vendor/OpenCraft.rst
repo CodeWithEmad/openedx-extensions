@@ -12,7 +12,7 @@ Provides a tabular problem type, where students have to fill in some of the cell
 
 **Vendor:** `OpenCraft <https://opencraft.com>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2021-09-30
 

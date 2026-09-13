@@ -8,7 +8,7 @@ xblocks:
     vendor: OpenCraft
     url: https://github.com/open-craft/xblock-activetable
     image: docs/_images/active-table-xblock.png
-    status: Active
+    status: Archived
     last_commit: 2021-09-30
 
   - name: Adventure XBlock
@@ -154,7 +154,7 @@ xblocks:
     url: https://github.com/openedx/crowdsourcehinter
     image: docs/_images/crowdsource-hinter-xblock.png
     status: Active
-    last_commit: 2026-09-01
+    last_commit: 2026-09-09
 
   # D
   - name: Dialogs XBlock
@@ -395,7 +395,7 @@ xblocks:
     vendor: Open edX
     url: https://github.com/openedx/xblock-lti-consumer
     status: Active
-    last_commit: 2026-09-01
+    last_commit: 2026-09-09
 
   # M
   - name: MindMap XBlock
@@ -526,7 +526,7 @@ xblocks:
     url: https://github.com/openedx/RecommenderXBlock
     image: docs/_images/recommender-xblock.png
     status: Active
-    last_commit: 2026-08-31
+    last_commit: 2026-09-08
 
   # S
   - name: SchoolYourself XBlock
@@ -551,7 +551,7 @@ xblocks:
     url: https://github.com/overhangio/openedx-scorm-xblock
     image: docs/_images/scorm-xblock.png
     status: Active
-    last_commit: 2026-08-11
+    last_commit: 2026-09-08
 
   - name: Skyroom XBlock
     description: An XBlock for integrating Open edX and Skyroom. Skyroom is an Online Classroom service.
@@ -617,7 +617,7 @@ xblocks:
     vendor: MIT Office of Digital Learning
     url: https://github.com/openedx/staff_graded-xblock
     status: Active
-    last_commit: 2026-09-01
+    last_commit: 2026-09-07
 
   - name: Submit and Compare XBlock
     description: |

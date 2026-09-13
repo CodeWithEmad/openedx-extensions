@@ -12,7 +12,7 @@ Provides a tabular problem type, where students have to fill in some of the cell
 
 **Vendor:** `OpenCraft <https://opencraft.com>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2021-09-30
 
@@ -209,7 +209,7 @@ It will save student state and report scores to the progress tab of the course. 
 
 **Status:** Active
 
-**Last Commit:** 2026-08-11
+**Last Commit:** 2026-09-08
 
 **URL:** https://github.com/overhangio/openedx-scorm-xblock
 

@@ -60,7 +60,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2026-09-01
+**Last Commit:** 2026-09-09
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -216,7 +216,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2026-09-01
+**Last Commit:** 2026-09-09
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 
@@ -240,7 +240,7 @@ For each resource, we show its title, link, short summary, preview screenshot, a
 
 **Status:** Active
 
-**Last Commit:** 2026-08-31
+**Last Commit:** 2026-09-08
 
 **URL:** https://github.com/openedx/RecommenderXBlock
 
@@ -284,7 +284,7 @@ It will save student state and report scores to the progress tab of the course. 
 
 **Status:** Active
 
-**Last Commit:** 2026-08-11
+**Last Commit:** 2026-09-08
 
 **URL:** https://github.com/overhangio/openedx-scorm-xblock
 
