@@ -12,7 +12,7 @@ Provides a tabular problem type, where students have to fill in some of the cell
 
 **Vendor:** `OpenCraft <https://opencraft.com>`__
 
-**Status:** Active
+**Status:** Archived
 
 **Last Commit:** 2021-09-30
 
@@ -308,7 +308,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2026-09-01
+**Last Commit:** 2026-09-09
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
