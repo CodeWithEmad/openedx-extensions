@@ -154,7 +154,7 @@ xblocks:
     url: https://github.com/openedx/crowdsourcehinter
     image: docs/_images/crowdsource-hinter-xblock.png
     status: Active
-    last_commit: 2026-09-09
+    last_commit: 2026-09-17
 
   # D
   - name: Dialogs XBlock
@@ -185,7 +185,7 @@ xblocks:
     url: https://github.com/openedx/xblock-drag-and-drop-v2
     image: docs/_images/drag-and-drop-problem-xblock.png
     status: Active
-    last_commit: 2026-08-17
+    last_commit: 2026-09-17
 
   # E
   - name: End of Course Journal XBlock
@@ -352,7 +352,7 @@ xblocks:
     url: https://github.com/openedx/xblock-drag-and-drop-v2
     image: docs/_images/inline-dropdown-xblock.png
     status: Active
-    last_commit: 2026-08-17
+    last_commit: 2026-09-17
 
   # J
   - name: Jupyter Notebook Viewer
@@ -395,7 +395,7 @@ xblocks:
     vendor: Open edX
     url: https://github.com/openedx/xblock-lti-consumer
     status: Active
-    last_commit: 2026-09-09
+    last_commit: 2026-09-15
 
   # M
   - name: MindMap XBlock
@@ -526,7 +526,7 @@ xblocks:
     url: https://github.com/openedx/RecommenderXBlock
     image: docs/_images/recommender-xblock.png
     status: Active
-    last_commit: 2026-09-08
+    last_commit: 2026-09-17
 
   # S
   - name: SchoolYourself XBlock
@@ -551,7 +551,7 @@ xblocks:
     url: https://github.com/overhangio/openedx-scorm-xblock
     image: docs/_images/scorm-xblock.png
     status: Active
-    last_commit: 2026-09-08
+    last_commit: 2026-09-16
 
   - name: Skyroom XBlock
     description: An XBlock for integrating Open edX and Skyroom. Skyroom is an Online Classroom service.
@@ -581,7 +581,7 @@ xblocks:
     url: https://github.com/edly-io/xblock-sortable
     image: docs/_images/sortable-xblock.png
     status: Active
-    last_commit: 2025-08-06
+    last_commit: 2026-09-17
 
   - name: SQL Grader XBlock
     description: |
@@ -617,7 +617,7 @@ xblocks:
     vendor: MIT Office of Digital Learning
     url: https://github.com/openedx/staff_graded-xblock
     status: Active
-    last_commit: 2026-09-07
+    last_commit: 2026-09-14
 
   - name: Submit and Compare XBlock
     description: |
@@ -673,4 +673,4 @@ xblocks:
     url: https://github.com/openedx/xblock-skill-tagging
     image: docs/_images/xblock-skill-tagging-1.png
     status: Active
-    last_commit: 2026-08-10
+    last_commit: 2026-09-18

@@ -193,7 +193,7 @@ An XBlock provides a way to place dropdown questions inline with other text, for
 
 **Status:** Active
 
-**Last Commit:** 2026-08-17
+**Last Commit:** 2026-09-17
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 

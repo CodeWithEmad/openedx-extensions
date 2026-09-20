@@ -308,7 +308,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2026-09-09
+**Last Commit:** 2026-09-17
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
