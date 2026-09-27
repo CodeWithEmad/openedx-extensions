@@ -56,7 +56,7 @@ XBlock to show/hide one or more conditional component by a trigger component in 
 
 **Status:** Active
 
-**Last Commit:** 2026-07-06
+**Last Commit:** 2026-09-24
 
 **URL:** https://github.com/eol-uchile/eol-conditional-xblock
 
@@ -209,7 +209,7 @@ It will save student state and report scores to the progress tab of the course. 
 
 **Status:** Active
 
-**Last Commit:** 2026-09-16
+**Last Commit:** 2026-09-25
 
 **URL:** https://github.com/overhangio/openedx-scorm-xblock
 

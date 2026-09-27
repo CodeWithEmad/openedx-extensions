@@ -14,7 +14,7 @@ XBlock to show/hide one or more conditional component by a trigger component in 
 
 **Status:** Active
 
-**Last Commit:** 2026-07-06
+**Last Commit:** 2026-09-24
 
 **URL:** https://github.com/eol-uchile/eol-conditional-xblock
 

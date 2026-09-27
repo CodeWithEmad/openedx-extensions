@@ -144,7 +144,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2026-09-17
+**Last Commit:** 2026-09-21
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -396,7 +396,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2026-09-15
+**Last Commit:** 2026-09-21
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 
@@ -619,7 +619,7 @@ Authors can define items and their correct order from studio. This Xblock also s
 
 **Status:** Active
 
-**Last Commit:** 2026-09-17
+**Last Commit:** 2026-09-24
 
 **URL:** https://github.com/edly-io/xblock-sortable
 
@@ -706,7 +706,7 @@ It implements two openedx_filters pipelines to inject a form into the end unit X
 
 **Status:** Active
 
-**Last Commit:** 2026-09-18
+**Last Commit:** 2026-09-25
 
 **URL:** https://github.com/openedx/xblock-skill-tagging
 

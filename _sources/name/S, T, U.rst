@@ -37,7 +37,7 @@ It will save student state and report scores to the progress tab of the course. 
 
 **Status:** Active
 
-**Last Commit:** 2026-09-16
+**Last Commit:** 2026-09-25
 
 **URL:** https://github.com/overhangio/openedx-scorm-xblock
 
@@ -102,7 +102,7 @@ Authors can define items and their correct order from studio. This Xblock also s
 
 **Status:** Active
 
-**Last Commit:** 2026-09-17
+**Last Commit:** 2026-09-24
 
 **URL:** https://github.com/edly-io/xblock-sortable
 
@@ -173,7 +173,7 @@ Staff Graded Points XBlock
 
 **Status:** Active
 
-**Last Commit:** 2026-09-14
+**Last Commit:** 2026-09-21
 
 **URL:** https://github.com/openedx/staff_graded-xblock
 
