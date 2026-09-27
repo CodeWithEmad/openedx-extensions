@@ -131,7 +131,7 @@ xblocks:
     url: https://github.com/eol-uchile/eol-conditional-xblock
     image: docs/_images/eol-conditional-xblock.png
     status: Active
-    last_commit: 2026-07-06
+    last_commit: 2026-09-24
 
   - name: Container XBlock
     description: XBlock to display "Add and Continue" containers Open edX LMS.
@@ -154,7 +154,7 @@ xblocks:
     url: https://github.com/openedx/crowdsourcehinter
     image: docs/_images/crowdsource-hinter-xblock.png
     status: Active
-    last_commit: 2026-09-17
+    last_commit: 2026-09-21
 
   # D
   - name: Dialogs XBlock
@@ -395,7 +395,7 @@ xblocks:
     vendor: Open edX
     url: https://github.com/openedx/xblock-lti-consumer
     status: Active
-    last_commit: 2026-09-15
+    last_commit: 2026-09-21
 
   # M
   - name: MindMap XBlock
@@ -551,7 +551,7 @@ xblocks:
     url: https://github.com/overhangio/openedx-scorm-xblock
     image: docs/_images/scorm-xblock.png
     status: Active
-    last_commit: 2026-09-16
+    last_commit: 2026-09-25
 
   - name: Skyroom XBlock
     description: An XBlock for integrating Open edX and Skyroom. Skyroom is an Online Classroom service.
@@ -581,7 +581,7 @@ xblocks:
     url: https://github.com/edly-io/xblock-sortable
     image: docs/_images/sortable-xblock.png
     status: Active
-    last_commit: 2026-09-17
+    last_commit: 2026-09-24
 
   - name: SQL Grader XBlock
     description: |
@@ -617,7 +617,7 @@ xblocks:
     vendor: MIT Office of Digital Learning
     url: https://github.com/openedx/staff_graded-xblock
     status: Active
-    last_commit: 2026-09-14
+    last_commit: 2026-09-21
 
   - name: Submit and Compare XBlock
     description: |
@@ -673,4 +673,4 @@ xblocks:
     url: https://github.com/openedx/xblock-skill-tagging
     image: docs/_images/xblock-skill-tagging-1.png
     status: Active
-    last_commit: 2026-09-18
+    last_commit: 2026-09-25
