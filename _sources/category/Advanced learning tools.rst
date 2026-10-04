@@ -77,7 +77,7 @@ XBlock to display "Add and Continue" containers Open edX LMS.
 
 **Status:** Active
 
-**Last Commit:** 2026-08-04
+**Last Commit:** 2026-09-28
 
 **URL:** https://github.com/eol-uchile/eol-container-xblock
 
@@ -209,7 +209,7 @@ It will save student state and report scores to the progress tab of the course. 
 
 **Status:** Active
 
-**Last Commit:** 2026-09-25
+**Last Commit:** 2026-10-01
 
 **URL:** https://github.com/overhangio/openedx-scorm-xblock
 

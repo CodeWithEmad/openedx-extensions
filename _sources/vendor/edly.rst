@@ -63,7 +63,7 @@ Authors can define items and their correct order from studio. This Xblock also s
 
 **Status:** Active
 
-**Last Commit:** 2026-09-24
+**Last Commit:** 2026-09-30
 
 **URL:** https://github.com/edly-io/xblock-sortable
 
