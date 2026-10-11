@@ -144,7 +144,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2026-09-28
+**Last Commit:** 2026-10-07
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -165,7 +165,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2026-10-02
+**Last Commit:** 2026-10-05
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -354,7 +354,7 @@ H5P Xblock provides ability to host and play H5P content in open edX. It has few
 
 **Status:** Active
 
-**Last Commit:** 2026-01-28
+**Last Commit:** 2026-10-08
 
 **URL:** https://github.com/edly-io/h5pxblock
 
@@ -575,7 +575,7 @@ For each resource, we show its title, link, short summary, preview screenshot, a
 
 **Status:** Active
 
-**Last Commit:** 2026-09-28
+**Last Commit:** 2026-10-05
 
 **URL:** https://github.com/openedx/RecommenderXBlock
 
