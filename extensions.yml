@@ -154,7 +154,7 @@ xblocks:
     url: https://github.com/openedx/crowdsourcehinter
     image: docs/_images/crowdsource-hinter-xblock.png
     status: Active
-    last_commit: 2026-09-28
+    last_commit: 2026-10-07
 
   # D
   - name: Dialogs XBlock
@@ -185,7 +185,7 @@ xblocks:
     url: https://github.com/openedx/xblock-drag-and-drop-v2
     image: docs/_images/drag-and-drop-problem-xblock.png
     status: Active
-    last_commit: 2026-10-02
+    last_commit: 2026-10-05
 
   # E
   - name: End of Course Journal XBlock
@@ -270,7 +270,7 @@ xblocks:
     url: https://github.com/openedx/xblock-google-drive
     image: docs/_images/google-drive-calendar-xblock.png
     status: Active
-    last_commit: 2026-08-10
+    last_commit: 2026-10-06
 
   - name: Grade Fetcher XBlock
     description: |
@@ -310,7 +310,7 @@ xblocks:
     url: https://github.com/edly-io/h5pxblock
     image: docs/_images/h5p-xblock.png
     status: Active
-    last_commit: 2026-01-28
+    last_commit: 2026-10-08
 
   - name: HTML XBlock
     description: A new HTML XBlock that is designed with security and embedding in mind.
@@ -352,7 +352,7 @@ xblocks:
     url: https://github.com/openedx/xblock-drag-and-drop-v2
     image: docs/_images/inline-dropdown-xblock.png
     status: Active
-    last_commit: 2026-10-02
+    last_commit: 2026-10-05
 
   # J
   - name: Jupyter Notebook Viewer
@@ -526,7 +526,7 @@ xblocks:
     url: https://github.com/openedx/RecommenderXBlock
     image: docs/_images/recommender-xblock.png
     status: Active
-    last_commit: 2026-09-28
+    last_commit: 2026-10-05
 
   # S
   - name: SchoolYourself XBlock
@@ -551,7 +551,7 @@ xblocks:
     url: https://github.com/overhangio/openedx-scorm-xblock
     image: docs/_images/scorm-xblock.png
     status: Active
-    last_commit: 2026-10-01
+    last_commit: 2026-10-09
 
   - name: Skyroom XBlock
     description: An XBlock for integrating Open edX and Skyroom. Skyroom is an Online Classroom service.
@@ -617,7 +617,7 @@ xblocks:
     vendor: MIT Office of Digital Learning
     url: https://github.com/openedx/staff_graded-xblock
     status: Active
-    last_commit: 2026-09-28
+    last_commit: 2026-10-07
 
   - name: Submit and Compare XBlock
     description: |
