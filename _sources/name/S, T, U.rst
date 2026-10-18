@@ -102,7 +102,7 @@ Authors can define items and their correct order from studio. This Xblock also s
 
 **Status:** Active
 
-**Last Commit:** 2026-09-30
+**Last Commit:** 2026-10-15
 
 **URL:** https://github.com/edly-io/xblock-sortable
 
@@ -173,7 +173,7 @@ Staff Graded Points XBlock
 
 **Status:** Active
 
-**Last Commit:** 2026-10-07
+**Last Commit:** 2026-10-12
 
 **URL:** https://github.com/openedx/staff_graded-xblock
 
