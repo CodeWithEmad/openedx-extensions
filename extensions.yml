@@ -154,7 +154,7 @@ xblocks:
     url: https://github.com/openedx/crowdsourcehinter
     image: docs/_images/crowdsource-hinter-xblock.png
     status: Active
-    last_commit: 2026-10-07
+    last_commit: 2026-10-14
 
   # D
   - name: Dialogs XBlock
@@ -185,7 +185,7 @@ xblocks:
     url: https://github.com/openedx/xblock-drag-and-drop-v2
     image: docs/_images/drag-and-drop-problem-xblock.png
     status: Active
-    last_commit: 2026-10-05
+    last_commit: 2026-10-14
 
   # E
   - name: End of Course Journal XBlock
@@ -270,7 +270,7 @@ xblocks:
     url: https://github.com/openedx/xblock-google-drive
     image: docs/_images/google-drive-calendar-xblock.png
     status: Active
-    last_commit: 2026-10-06
+    last_commit: 2026-10-12
 
   - name: Grade Fetcher XBlock
     description: |
@@ -310,7 +310,7 @@ xblocks:
     url: https://github.com/edly-io/h5pxblock
     image: docs/_images/h5p-xblock.png
     status: Active
-    last_commit: 2026-10-08
+    last_commit: 2026-10-16
 
   - name: HTML XBlock
     description: A new HTML XBlock that is designed with security and embedding in mind.
@@ -352,7 +352,7 @@ xblocks:
     url: https://github.com/openedx/xblock-drag-and-drop-v2
     image: docs/_images/inline-dropdown-xblock.png
     status: Active
-    last_commit: 2026-10-05
+    last_commit: 2026-10-14
 
   # J
   - name: Jupyter Notebook Viewer
@@ -395,7 +395,7 @@ xblocks:
     vendor: Open edX
     url: https://github.com/openedx/xblock-lti-consumer
     status: Active
-    last_commit: 2026-10-01
+    last_commit: 2026-10-16
 
   # M
   - name: MindMap XBlock
@@ -526,7 +526,7 @@ xblocks:
     url: https://github.com/openedx/RecommenderXBlock
     image: docs/_images/recommender-xblock.png
     status: Active
-    last_commit: 2026-10-05
+    last_commit: 2026-10-14
 
   # S
   - name: SchoolYourself XBlock
@@ -581,7 +581,7 @@ xblocks:
     url: https://github.com/edly-io/xblock-sortable
     image: docs/_images/sortable-xblock.png
     status: Active
-    last_commit: 2026-09-30
+    last_commit: 2026-10-15
 
   - name: SQL Grader XBlock
     description: |
@@ -617,7 +617,7 @@ xblocks:
     vendor: MIT Office of Digital Learning
     url: https://github.com/openedx/staff_graded-xblock
     status: Active
-    last_commit: 2026-10-07
+    last_commit: 2026-10-12
 
   - name: Submit and Compare XBlock
     description: |

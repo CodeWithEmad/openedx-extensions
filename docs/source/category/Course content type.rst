@@ -144,7 +144,7 @@ The hinter is compatible with numerical input and text input type problems.
 
 **Status:** Active
 
-**Last Commit:** 2026-10-07
+**Last Commit:** 2026-10-14
 
 **URL:** https://github.com/openedx/crowdsourcehinter
 
@@ -165,7 +165,7 @@ Enhance your courses with interactive drag-and-drop problems, making learning mo
 
 **Status:** Active
 
-**Last Commit:** 2026-10-05
+**Last Commit:** 2026-10-14
 
 **URL:** https://github.com/openedx/xblock-drag-and-drop-v2
 
@@ -354,7 +354,7 @@ H5P Xblock provides ability to host and play H5P content in open edX. It has few
 
 **Status:** Active
 
-**Last Commit:** 2026-10-08
+**Last Commit:** 2026-10-16
 
 **URL:** https://github.com/edly-io/h5pxblock
 
@@ -396,7 +396,7 @@ This XBlock implements the consumer side of the LTI specification enabling integ
 
 **Status:** Active
 
-**Last Commit:** 2026-10-01
+**Last Commit:** 2026-10-16
 
 **URL:** https://github.com/openedx/xblock-lti-consumer
 
@@ -575,7 +575,7 @@ For each resource, we show its title, link, short summary, preview screenshot, a
 
 **Status:** Active
 
-**Last Commit:** 2026-10-05
+**Last Commit:** 2026-10-14
 
 **URL:** https://github.com/openedx/RecommenderXBlock
 
@@ -619,7 +619,7 @@ Authors can define items and their correct order from studio. This Xblock also s
 
 **Status:** Active
 
-**Last Commit:** 2026-09-30
+**Last Commit:** 2026-10-15
 
 **URL:** https://github.com/edly-io/xblock-sortable
 
